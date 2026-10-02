@@ -1,0 +1,23 @@
+{
+ "template": "bars",
+ "num": "4x",
+ "label": "more AI-related layoffs announced in 2026 than in all of 2024",
+ "bars": [
+  {
+   "label": "2024",
+   "value": 42698,
+   "display": "42,698"
+  },
+  {
+   "label": "2025",
+   "value": 150606,
+   "display": "150,606"
+  },
+  {
+   "label": "2026 (Jan to Sep)",
+   "value": 170621,
+   "display": "170,621"
+  }
+ ],
+ "source": "Programs.com AI layoffs tracker, company announcements, 2024 to September 2026"
+}

@@ -1,0 +1,19 @@
+{
+ "template": "statemap",
+ "num": "5",
+ "label": "states are considering a statewide data center moratorium",
+ "states": {
+  "Michigan": "signal",
+  "North Carolina": "signal",
+  "Oregon": "signal",
+  "Pennsylvania": "signal",
+  "Virginia": "signal"
+ },
+ "legend": [
+  {
+   "cls": "signal",
+   "text": "Statewide moratorium bill pending (5)"
+  }
+ ],
+ "source": "Programs.com data center moratorium tracker, October 2026"
+}

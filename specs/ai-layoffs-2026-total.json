@@ -1,0 +1,19 @@
+{
+ "template": "compare",
+ "num": "170,621",
+ "label": "employees affected by AI-related layoffs announced in 2026",
+ "bars": [
+  {
+   "label": "2025, full year",
+   "value": 150606,
+   "display": "150,606"
+  },
+  {
+   "label": "2026, January to September",
+   "value": 170621,
+   "display": "170,621"
+  }
+ ],
+ "key": "13% above 2025's full-year total, across 35 companies",
+ "source": "Programs.com AI layoffs tracker, company announcements, January to September 2026"
+}

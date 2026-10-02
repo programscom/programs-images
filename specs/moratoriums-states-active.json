@@ -1,0 +1,72 @@
+{
+ "template": "statemap",
+ "num": "43",
+ "label": "states have an active data center ban or moratorium in place",
+ "states": {
+  "New York": "deep",
+  "Alabama": "signal",
+  "Arizona": "signal",
+  "Arkansas": "signal",
+  "California": "signal",
+  "Colorado": "signal",
+  "Florida": "signal",
+  "Georgia": "signal",
+  "Illinois": "signal",
+  "Indiana": "signal",
+  "Iowa": "signal",
+  "Kansas": "signal",
+  "Kentucky": "signal",
+  "Louisiana": "signal",
+  "Maine": "signal",
+  "Maryland": "signal",
+  "Massachusetts": "signal",
+  "Minnesota": "signal",
+  "Mississippi": "signal",
+  "Missouri": "signal",
+  "Montana": "signal",
+  "Nebraska": "signal",
+  "Nevada": "signal",
+  "New Hampshire": "signal",
+  "New Jersey": "signal",
+  "New Mexico": "signal",
+  "North Dakota": "signal",
+  "Ohio": "signal",
+  "Oklahoma": "signal",
+  "Rhode Island": "signal",
+  "South Carolina": "signal",
+  "South Dakota": "signal",
+  "Tennessee": "signal",
+  "Texas": "signal",
+  "Utah": "signal",
+  "Vermont": "signal",
+  "Washington": "signal",
+  "Wisconsin": "signal",
+  "Michigan": "signal",
+  "North Carolina": "signal",
+  "Oregon": "signal",
+  "Pennsylvania": "signal",
+  "Virginia": "signal",
+  "Connecticut": "tint",
+  "Delaware": "tint",
+  "Idaho": "tint"
+ },
+ "legend": [
+  {
+   "cls": "deep",
+   "text": "Statewide moratorium (1)"
+  },
+  {
+   "cls": "signal",
+   "text": "Local ban or moratorium (42)"
+  },
+  {
+   "cls": "tint",
+   "text": "Considered or lapsed (3)"
+  },
+  {
+   "cls": "",
+   "text": "None on record (4)"
+  }
+ ],
+ "source": "Programs.com data center moratorium tracker, October 2026"
+}
