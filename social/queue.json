@@ -1,0 +1,58 @@
+[
+ {
+  "type": "stat",
+  "slug": "students-using-ai",
+  "source_url": "https://programs.com/resources/students-using-ai/",
+  "angle": "92% of students use AI in their studies, up from 66% a year earlier (HEPI 2025, UK undergraduates)",
+  "spec": "social/specs/2026-10-05-students-using-ai.json",
+  "alt_text": "92% of students now use AI in their studies, up from 66% one year earlier. Source: HEPI survey of UK undergraduates, 2025.",
+  "copy": {
+   "linkedin": "92% of students now use AI in their studies.\n\nOne year earlier, it was 66%.\n\nFrom the same survey:\n• 88% have used generative AI for assessments, up from 53%\n• 53% say the risk of being accused of cheating puts them off\n• 51% say the same about false results and hallucinations\n\nSource: Higher Education Policy Institute, 2025 survey of 1,041 UK undergraduates.\n\nThe full breakdown, with every source: https://programs.com/resources/students-using-ai/",
+   "facebook": "92% of students now use AI in their studies, up from 66% a year earlier (HEPI survey of UK undergraduates, 2025).\n\nThe full breakdown: https://programs.com/resources/students-using-ai/",
+   "instagram": "92% of students now use AI in their studies. One year earlier: 66%.\n\n88% have used generative AI for assessments, up from 53%.\n\nSource: Higher Education Policy Institute, 2025 survey of UK undergraduates. Full breakdown at programs.com.\n\n#AIinEducation #HigherEd #GenerativeAI #EdTech #CollegeStudents"
+  }
+ },
+ {
+  "type": "stat",
+  "slug": "data-center-moratoriums",
+  "source_url": "https://programs.com/resources/data-center-moratoriums-tracker/",
+  "angle": "How many states have an active data center ban or moratorium right now (the tracker's headline count), with the state map"
+ },
+ {
+  "type": "degree",
+  "slug": "online-masters-ai-ranking",
+  "source_url": "https://programs.com/programs/online-masters-in-ai/",
+  "angle": "We just updated our ranking of the 25 best online master's in AI; full list with each program's 'Best for' line",
+  "spec": "social/specs/planned-online-masters-ai-ranking.json",
+  "alt_text": "Top 10 online master's in AI programs: 1 University of Texas at Austin, 2 Purdue University, 3 University of Colorado Boulder, 4 Penn State World Campus, 5 University of Pennsylvania, 6 University of Louisville, 7 Concordia University, St. Paul, 8 Texas A&M University, 9 University of San Diego, 10 Johns Hopkins University.",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 25 best online master's in AI programs.\n\nHere is the full list, and what each program is best for:\n\n1. University of Texas at Austin: academic quality, affordability\n2. Purdue University: academic quality\n3. University of Colorado Boulder: admissions\n4. Penn State World Campus: stackable credentials\n5. University of Pennsylvania: affordable Ivy League option\n6. University of Louisville: medical AI practitioners\n7. Concordia University, St. Paul: affordability and accessibility\n8. Texas A&M University: academic quality\n9. University of San Diego: graduate outcomes\n10. Johns Hopkins University: academic quality, degree customization\n11. Maryville University: admissions, hands-on practice\n12. University of Illinois Chicago: engineering focus\n13. Western Governors University: affordability, embedded certifications\n14. Stevens Institute of Technology: degree customization, hands-on practice\n15. George Washington University: accessibility, engineering focus\n16. Houston Christian University: affordability, AI ethics\n17. University of Maryland, Baltimore County: a focus wider than AI\n18. University of Tennessee, Knoxville: accessibility\n19. Drexel University: curriculum coverage\n20. Stanford University: academic quality\n21. University of Maine: accessibility and affordability\n22. New Jersey Institute of Technology: STEM focus, electives\n23. Southern Methodist University: computer science with an AI focus\n24. Georgetown University: non-technical candidates\n25. New York University: interdisciplinary study\n\nRanked on academic quality, curriculum relevance, affordability, accessibility, hands-on practice and admissions.\n\nFull profiles, tuition and methodology: https://programs.com/programs/online-masters-in-ai/",
+   "facebook": "We just updated our ranking of the 25 best online master's in AI programs. The top 10:\n\n1. University of Texas at Austin\n2. Purdue University\n3. University of Colorado Boulder\n4. Penn State World Campus\n5. University of Pennsylvania\n6. University of Louisville\n7. Concordia University, St. Paul\n8. Texas A&M University\n9. University of San Diego\n10. Johns Hopkins University\n\nAll 25, with tuition and methodology: https://programs.com/programs/online-masters-in-ai/",
+   "instagram": "We just updated our ranking of the 25 best online master's in AI programs. The top 10, and what each is best for:\n\n1. UT Austin: academic quality, affordability\n2. Purdue: academic quality\n3. CU Boulder: admissions\n4. Penn State World Campus: stackable credentials\n5. Penn: affordable Ivy League option\n6. Louisville: medical AI practitioners\n7. Concordia, St. Paul: affordability and accessibility\n8. Texas A&M: academic quality\n9. University of San Diego: graduate outcomes\n10. Johns Hopkins: academic quality, degree customization\n\nAll 25 at programs.com.\n\n#ArtificialIntelligence #MastersDegree #OnlineLearning #AIDegree #GradSchool"
+  }
+ },
+ {
+  "type": "stat",
+  "slug": "ai-layoffs",
+  "source_url": "https://programs.com/resources/ai-layoffs/",
+  "angle": "Running total of employees affected by AI-attributed layoffs this year (the tracker's headline figure), against last year"
+ },
+ {
+  "type": "stat",
+  "slug": "universities-offering-ai",
+  "source_url": "https://programs.com/resources/universities-offering-ai-programs/",
+  "angle": "How many U.S. universities now offer an AI degree program"
+ },
+ {
+  "type": "wildcard",
+  "slug": "ut-austin-vs-stanford",
+  "source_url": "https://programs.com/programs/online-masters-in-ai/",
+  "angle": "Our #1 online master's in AI (UT Austin) costs $10,000 in total tuition. Stanford, ranked #20, costs $70,000. Use the compare template, light theme."
+ },
+ {
+  "type": "stat",
+  "slug": "vishing",
+  "source_url": "https://programs.com/resources/voice-phishing-stats/",
+  "angle": "Voice phishing incidents up 442% (the page's headline stat)"
+ }
+]

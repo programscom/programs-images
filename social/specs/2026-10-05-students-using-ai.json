@@ -1,0 +1,12 @@
+{
+ "template": "stat",
+ "eyebrow": "AI in education",
+ "num": "92%",
+ "label": "of students now use AI in their studies",
+ "viz": {
+  "type": "waffle",
+  "pct": 92
+ },
+ "note": "Up from **66%** one year earlier",
+ "source": "Source: HEPI survey of UK undergraduates, 2025"
+}
