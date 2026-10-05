@@ -28,3 +28,7 @@ Always open the PNG and look at it before posting.
 - `specs/` — the spec behind each image, named `<YYYY-MM-DD>-<slug>.json`
 - `out/` — the published PNGs, same names. Dated, so URLs never collide or get cached.
 - Raw URL: `https://raw.githubusercontent.com/programscom/programs-images/main/social/out/<file>.png`
+
+## Notes
+
+- 2026-10-05: Buffer accepted the raw GitHub image URL on all three channels at the first attempt, and `shareNow` posts showed `sent` within about 30 seconds. Queue copy can carry numbers that are in the primary source but not on the Programs.com page (today: the HEPI sample size); remove those before posting. The session had no `add_repo` tool; the repo was already cloned with push access and worked as is.

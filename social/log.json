@@ -1,1 +1,54 @@
-[]
+[
+ {
+  "date": "2026-10-05",
+  "type": "stat",
+  "slug": "students-using-ai",
+  "source_url": "https://programs.com/resources/students-using-ai/",
+  "headline": "92% of students now use AI in their studies, up from 66% one year earlier",
+  "figures": [
+   {
+    "value": "92%",
+    "page_quote": "According to the latest available data, 92% of students use AI in their studies.",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The proportion of students reporting using any AI tool has jumped from 66% last year to 92% this year.\""
+   },
+   {
+    "value": "66%",
+    "page_quote": "The study also showed a sharp increase from 66% to 92% in the space of a year, underscoring how quickly generative technologies have been integrated into academic life.",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed, same sentence as above."
+   },
+   {
+    "value": "88%, up from 53%",
+    "page_quote": "The same survey revealed that nearly 9 in 10 students (88%) acknowledged using generative AI tools like ChatGPT for tests in 2025, compared to just over half (53%) in 2024.",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The proportion of students using generative AI tools such as ChatGPT for assessments has jumped from 53% last year to 88% this year.\""
+   },
+   {
+    "value": "53%",
+    "page_quote": "Conversely, being accused of cheating (53%) is the main reason students are reluctant to use AI.",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The main factors putting students off using AI are being accused of cheating (said by 53% of respondents) and getting false results or 'hallucinations' (51%).\""
+   },
+   {
+    "value": "51%",
+    "page_quote": "Getting false results/hallucinations | 51% (row 2 of the table \"most common reasons students avoid using AI tools\")",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed, same sentence as the 53% figure."
+   }
+  ],
+  "image": "social/out/2026-10-05-students-using-ai.png",
+  "alt_text": "92% of students now use AI in their studies, up from 66% one year earlier. Source: HEPI survey of UK undergraduates, 2025.",
+  "copy": {
+   "linkedin": "92% of students now use AI in their studies.\n\nOne year earlier, it was 66%.\n\nFrom the same survey:\n• 88% have used generative AI for assessments, up from 53%\n• 53% say the risk of being accused of cheating puts them off\n• 51% say the same about false results and hallucinations\n\nSource: Higher Education Policy Institute, 2025 survey of UK undergraduates.\n\nThe full breakdown, with every source: https://programs.com/resources/students-using-ai/",
+   "facebook": "92% of students now use AI in their studies, up from 66% a year earlier (HEPI survey of UK undergraduates, 2025).\n\nThe full breakdown: https://programs.com/resources/students-using-ai/",
+   "instagram": "92% of students now use AI in their studies. One year earlier: 66%.\n\n88% have used generative AI for assessments, up from 53%.\n\nSource: Higher Education Policy Institute, 2025 survey of UK undergraduates. Full breakdown at programs.com.\n\n#AIinEducation #HigherEd #GenerativeAI #EdTech #CollegeStudents"
+  },
+  "buffer": {
+   "linkedin": "6ac38dac32f9ebfdb1cec1fc",
+   "facebook": "6ac38db81cf337b59da4cd0a",
+   "instagram": "6ac38dc01cf337b59da4cf4d"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From the queue. Page (post 793) last modified 2026-09-29. Prepared copy said 'survey of 1,041 UK undergraduates'; 1,041 is in the HEPI report but not on the Programs.com page, so it was removed from the LinkedIn copy. The page says the 88% used generative AI 'for tests'; HEPI says 'for assessments', so the post uses 'assessments'. The page does not say the HEPI sample is UK undergraduates; the copy and image source line do. Prepared spec and PNG were already in the repo; re-rendered today, identical output."
+ }
+]

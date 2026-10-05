@@ -1,19 +1,6 @@
 [
  {
   "type": "stat",
-  "slug": "students-using-ai",
-  "source_url": "https://programs.com/resources/students-using-ai/",
-  "angle": "92% of students use AI in their studies, up from 66% a year earlier (HEPI 2025, UK undergraduates)",
-  "spec": "social/specs/2026-10-05-students-using-ai.json",
-  "alt_text": "92% of students now use AI in their studies, up from 66% one year earlier. Source: HEPI survey of UK undergraduates, 2025.",
-  "copy": {
-   "linkedin": "92% of students now use AI in their studies.\n\nOne year earlier, it was 66%.\n\nFrom the same survey:\n• 88% have used generative AI for assessments, up from 53%\n• 53% say the risk of being accused of cheating puts them off\n• 51% say the same about false results and hallucinations\n\nSource: Higher Education Policy Institute, 2025 survey of 1,041 UK undergraduates.\n\nThe full breakdown, with every source: https://programs.com/resources/students-using-ai/",
-   "facebook": "92% of students now use AI in their studies, up from 66% a year earlier (HEPI survey of UK undergraduates, 2025).\n\nThe full breakdown: https://programs.com/resources/students-using-ai/",
-   "instagram": "92% of students now use AI in their studies. One year earlier: 66%.\n\n88% have used generative AI for assessments, up from 53%.\n\nSource: Higher Education Policy Institute, 2025 survey of UK undergraduates. Full breakdown at programs.com.\n\n#AIinEducation #HigherEd #GenerativeAI #EdTech #CollegeStudents"
-  }
- },
- {
-  "type": "stat",
   "slug": "data-center-moratoriums",
   "source_url": "https://programs.com/resources/data-center-moratoriums-tracker/",
   "angle": "How many states have an active data center ban or moratorium right now (the tracker's headline count), with the state map"
