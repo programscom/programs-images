@@ -32,3 +32,4 @@ Always open the PNG and look at it before posting.
 ## Notes
 
 - 2026-10-05: Buffer accepted the raw GitHub image URL on all three channels at the first attempt, and `shareNow` posts showed `sent` within about 30 seconds. Queue copy can carry numbers that are in the primary source but not on the Programs.com page (today: the HEPI sample size); remove those before posting. The session had no `add_repo` tool; the repo was already cloned with push access and worked as is.
+- 2026-10-06: The moratoriums tracker page is about 110,000 characters, too large for a WPVibe result to come back inline; the result is saved to a file, so strip the HTML with a short script and read the text from there. For `statemap`, a legend item with `"cls": ""` draws the unhighlighted tile colour (used for "None on record"). `add_repo` was again unavailable and the existing clone pushed fine; the checkout starts on a detached HEAD, so `git checkout main` and fast-forward before committing.

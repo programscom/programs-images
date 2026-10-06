@@ -50,5 +50,67 @@
    "instagram": "sent"
   },
   "notes": "From the queue. Page (post 793) last modified 2026-09-29. Prepared copy said 'survey of 1,041 UK undergraduates'; 1,041 is in the HEPI report but not on the Programs.com page, so it was removed from the LinkedIn copy. The page says the 88% used generative AI 'for tests'; HEPI says 'for assessments', so the post uses 'assessments'. The page does not say the HEPI sample is UK undergraduates; the copy and image source line do. Prepared spec and PNG were already in the repo; re-rendered today, identical output."
+ },
+ {
+  "date": "2026-10-06",
+  "type": "stat",
+  "slug": "data-center-moratoriums",
+  "source_url": "https://programs.com/resources/data-center-moratoriums-tracker/",
+  "headline": "45 states have an active data center ban or moratorium in place",
+  "figures": [
+   {
+    "value": "45",
+    "page_quote": "45 States Have an Active Data Center Ban or Moratorium In Place (heading), followed by: Note that this count includes local (city/municipal) bans as well as statewide bans (ie., New York’s Executive Order No. 62).",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. Checked against the page's state table: 1 statewide + 5 active with a bill in play + 39 active = 45."
+   },
+   {
+    "value": "1 (New York)",
+    "page_quote": "Statewide moratorium in force (1) New York",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
+   },
+   {
+    "value": "5 (Michigan, North Carolina, Oregon, Pennsylvania, Virginia)",
+    "page_quote": "5 States Are Currently Considering Additional Data Center Moratoriums (heading). Michigan, North Carolina, Oregon, Pennsylvania, and Virginia all have bills pending or pending votes.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
+   },
+   {
+    "value": "36%; Ohio 84, Michigan 81, Georgia 54, North Carolina 51",
+    "page_quote": "Four States Account for 36% of All Local Moratoriums (heading). Ohio (84), Michigan (81), Georgia (54), and North Carolina (51) have all adopted a relatively large number of local data center moratoriums and bans.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. Checked: the state table's local counts sum to 747; 270 / 747 = 36%."
+   },
+   {
+    "value": "2 (Alaska, West Virginia)",
+    "page_quote": "No restrictions on record (2) Alaska West Virginia",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
+   },
+   {
+    "value": "3 (Delaware, Hawaii, Wyoming), image legend only",
+    "page_quote": "Considered, stalled, or lapsed (3) Delaware Hawaii Wyoming",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
+   },
+   {
+    "value": "44, image legend only",
+    "page_quote": "Active local ban or moratorium, plus a statewide moratorium bill in play (5) ... Active ban or moratorium in place, no statewide bill (39)",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. 5 + 39 = 44 states with a local ban or moratorium and no statewide moratorium in force."
+   }
+  ],
+  "image": "social/out/2026-10-06-data-center-moratoriums.png",
+  "alt_text": "45 states have an active data center ban or moratorium in place. A state tile map shows New York with a statewide moratorium, 44 states with a local ban or moratorium, 3 states where one was considered, stalled or lapsed, and Alaska and West Virginia with none on record. Source: Programs.com Data Center Moratoriums Tracker, October 2026.",
+  "copy": {
+   "linkedin": "45 states now have an active data center ban or moratorium in place.\n\nThe count includes local bans as well as statewide ones.\n\n• New York is the only state with a statewide moratorium in force\n• 5 states are considering a statewide moratorium: Michigan, North Carolina, Oregon, Pennsylvania and Virginia\n• Ohio (84), Michigan (81), Georgia (54) and North Carolina (51) account for 36% of all local moratoriums\n• Alaska and West Virginia are the only states with no restrictions on record\n\nSource: Programs.com Data Center Moratoriums Tracker, October 2026.\n\nThe state-by-state table and every local measure: https://programs.com/resources/data-center-moratoriums-tracker/",
+   "facebook": "45 states now have an active data center ban or moratorium in place, counting local bans as well as statewide ones. Alaska and West Virginia are the only states with no restrictions on record. Source: Programs.com Data Center Moratoriums Tracker, October 2026.\n\nhttps://programs.com/resources/data-center-moratoriums-tracker/",
+   "instagram": "45 states now have an active data center ban or moratorium in place. The count includes local bans as well as statewide ones.\n\nNew York is the only state with a statewide moratorium in force. Alaska and West Virginia are the only states with no restrictions on record.\n\nSource: Programs.com Data Center Moratoriums Tracker, October 2026. Full breakdown at programs.com.\n\n#DataCenters #AIInfrastructure #EnergyPolicy #LocalGovernment #TechPolicy"
+  },
+  "buffer": {
+   "linkedin": "6ac4eeb8232f507fd697c751",
+   "facebook": "6ac4eec44d56bcf238f626ed",
+   "instagram": "6ac4eeca83608c2615ab84ab"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From the queue (angle only, no prepared copy or spec). Page is post 7912, last modified 2026-10-04. All 50 map tiles were checked by script against the Status column of the page's state table. Page wording issues, not used in the post: the heading 'Only 2 States Have No Statewide Data Center Restrictions Currently on Record' says 'statewide' but means no restrictions at any level (most states have no statewide restriction), and the sentence under it says Alaska and West Virginia are the only states with no local or state moratoriums while the table also shows 0 local moratoriums for Delaware, Hawaii and Wyoming (listed as considered / lapsed). The post uses the page's category label 'no restrictions on record' instead. The H2 anchor ids still carry old numbers (41, 4, 42%). Tracker may return after 10 entries with a different angle (for example the 294 local measures passed Jan-Jul 2026, or the 18 Ohio ballot measures)."
  }
 ]

@@ -1,11 +1,5 @@
 [
  {
-  "type": "stat",
-  "slug": "data-center-moratoriums",
-  "source_url": "https://programs.com/resources/data-center-moratoriums-tracker/",
-  "angle": "How many states have an active data center ban or moratorium right now (the tracker's headline count), with the state map"
- },
- {
   "type": "degree",
   "slug": "online-masters-ai-ranking",
   "source_url": "https://programs.com/programs/online-masters-in-ai/",
