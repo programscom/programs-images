@@ -112,5 +112,172 @@
    "instagram": "sent"
   },
   "notes": "From the queue (angle only, no prepared copy or spec). Page is post 7912, last modified 2026-10-04. All 50 map tiles were checked by script against the Status column of the page's state table. Page wording issues, not used in the post: the heading 'Only 2 States Have No Statewide Data Center Restrictions Currently on Record' says 'statewide' but means no restrictions at any level (most states have no statewide restriction), and the sentence under it says Alaska and West Virginia are the only states with no local or state moratoriums while the table also shows 0 local moratoriums for Delaware, Hawaii and Wyoming (listed as considered / lapsed). The post uses the page's category label 'no restrictions on record' instead. The H2 anchor ids still carry old numbers (41, 4, 42%). Tracker may return after 10 entries with a different angle (for example the 294 local measures passed Jan-Jul 2026, or the 18 Ohio ballot measures)."
+ },
+ {
+  "date": "2026-10-07",
+  "type": "degree",
+  "slug": "online-masters-ai-ranking",
+  "source_url": "https://programs.com/programs/online-masters-in-ai/",
+  "headline": "We just updated our ranking of the 25 best online master's in AI programs",
+  "figures": [
+   {
+    "value": "25",
+    "page_quote": "Top 25 Online Master’s In AI Programs for 2026 (H1); Top 25 Online AI Master’s Degree Programs (2026) (H2)",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "Updated October 2026 / \"We just updated\"",
+    "page_quote": "Last Updated: October 5, 2026",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source. Visible date line under the H1, 2 days before this post."
+   },
+   {
+    "value": "Ranking criteria",
+    "page_quote": "The six weighted dimensions are: Admissions at 10 percent, measuring selectivity and entry pathways. Affordability at 15 percent, assessing total tuition and pricing transparency. Research and Academic Quality at 25 percent, evaluating institutional reputation and employer signal. Accessibility at 15 percent, focusing on online delivery and flexibility. Curriculum Relevance at 20 percent, examining coverage of modern AI topics and deployment skills. Hands-On Practice at 15 percent, reviewing capstones, applied projects, and lab experience.",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#1 University of Texas at Austin",
+    "page_quote": "1 | University of Texas at Austin | Best for: Academic quality, affordability",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#2 Purdue University",
+    "page_quote": "2 | Purdue University | Best for: Academic quality",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#3 University of Colorado Boulder",
+    "page_quote": "3 | University of Colorado Boulder | Best for: Admissions",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#4 Penn State World Campus",
+    "page_quote": "4 | Penn State World Campus | Best for: Stackable credentials",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#5 University of Pennsylvania",
+    "page_quote": "5 | University of Pennsylvania | Best for: Affordable Ivy League option",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#6 University of Louisville",
+    "page_quote": "6 | University of Louisville | Best for: Medical AI practitioners",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#7 Concordia University, St. Paul",
+    "page_quote": "7 | Concordia University-Saint Paul | Best for: Affordability and accessibility (heading as on the page; the post uses \"Concordia University, St. Paul\")",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#8 Texas A&M University",
+    "page_quote": "8 | Texas A&M University | Best for: Academic quality",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#9 University of San Diego",
+    "page_quote": "9 | University of San Diego | Best for: Graduate outcomes",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#10 Johns Hopkins University",
+    "page_quote": "10 | Johns Hopkins University | Best for: Academic quality, degree customization",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#11 Maryville University",
+    "page_quote": "11 | Maryville University | Best for: Admissions, hands-on practice",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#12 University of Illinois Chicago",
+    "page_quote": "12 | University of Illinois–Chicago | Best for: Engineering focus (heading as on the page; the post uses \"University of Illinois Chicago\")",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#13 Western Governors University",
+    "page_quote": "13 | Western Governors University | Best for: Affordability, embedded certifications",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#14 Stevens Institute of Technology",
+    "page_quote": "14 | Stevens Institute of Technology | Best for: Degree customization, hands-on practice",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#15 George Washington University",
+    "page_quote": "15 | George Washington University | Best for: Accessibility, engineering focus",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#16 Houston Christian University",
+    "page_quote": "16 | Houston Christian University | Best for: Affordability, AI ethics",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#17 University of Maryland, Baltimore County",
+    "page_quote": "17 | University of Maryland–Baltimore County | Best for: Focus wider than AI (heading as on the page; the post uses \"University of Maryland, Baltimore County\")",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#18 University of Tennessee, Knoxville",
+    "page_quote": "18 | University of Tennessee–Knoxville | Best for: Accessibility (heading as on the page; the post uses \"University of Tennessee, Knoxville\")",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#19 Drexel University",
+    "page_quote": "19 | Drexel University | Best for: Curriculum coverage",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#20 Stanford University",
+    "page_quote": "20 | Stanford University | Best for: Academic quality",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#21 University of Maine",
+    "page_quote": "21 | University of Maine | Best for: Accessibility and affordability",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#22 New Jersey Institute of Technology",
+    "page_quote": "22 | New Jersey Institute of Technology | Best for: STEM focus, electives",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#23 Southern Methodist University",
+    "page_quote": "23 | Southern Methodist University | Best for: Computer science with AI focus",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#24 Georgetown University",
+    "page_quote": "24 | Georgetown University | Best for: Non-technical candidates",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#25 New York University",
+    "page_quote": "25 | New York University | Best for: Interdisciplinary study",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   }
+  ],
+  "image": "social/out/2026-10-07-online-masters-ai-ranking.png",
+  "alt_text": "Top 10 online master's in AI programs: 1 University of Texas at Austin, 2 Purdue University, 3 University of Colorado Boulder, 4 Penn State World Campus, 5 University of Pennsylvania, 6 University of Louisville, 7 Concordia University, St. Paul, 8 Texas A&M University, 9 University of San Diego, 10 Johns Hopkins University. Top 10 of 25, updated October 2026.",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 25 best online master's in AI programs.\n\nHere is the full list, and what each program is best for:\n\n1. University of Texas at Austin: academic quality, affordability\n2. Purdue University: academic quality\n3. University of Colorado Boulder: admissions\n4. Penn State World Campus: stackable credentials\n5. University of Pennsylvania: affordable Ivy League option\n6. University of Louisville: medical AI practitioners\n7. Concordia University, St. Paul: affordability and accessibility\n8. Texas A&M University: academic quality\n9. University of San Diego: graduate outcomes\n10. Johns Hopkins University: academic quality, degree customization\n11. Maryville University: admissions, hands-on practice\n12. University of Illinois Chicago: engineering focus\n13. Western Governors University: affordability, embedded certifications\n14. Stevens Institute of Technology: degree customization, hands-on practice\n15. George Washington University: accessibility, engineering focus\n16. Houston Christian University: affordability, AI ethics\n17. University of Maryland, Baltimore County: focus wider than AI\n18. University of Tennessee, Knoxville: accessibility\n19. Drexel University: curriculum coverage\n20. Stanford University: academic quality\n21. University of Maine: accessibility and affordability\n22. New Jersey Institute of Technology: STEM focus, electives\n23. Southern Methodist University: computer science with AI focus\n24. Georgetown University: non-technical candidates\n25. New York University: interdisciplinary study\n\nRanked on research and academic quality, curriculum relevance, affordability, accessibility, hands-on practice and admissions.\n\nFull profiles, tuition and methodology: https://programs.com/programs/online-masters-in-ai/",
+   "facebook": "We just updated our ranking of the 25 best online master's in AI programs. The top 10:\n\n1. University of Texas at Austin\n2. Purdue University\n3. University of Colorado Boulder\n4. Penn State World Campus\n5. University of Pennsylvania\n6. University of Louisville\n7. Concordia University, St. Paul\n8. Texas A&M University\n9. University of San Diego\n10. Johns Hopkins University\n\nAll 25, with tuition and methodology: https://programs.com/programs/online-masters-in-ai/",
+   "instagram": "We just updated our ranking of the 25 best online master's in AI programs. The top 10, and what each is best for:\n\n1. UT Austin: academic quality, affordability\n2. Purdue: academic quality\n3. CU Boulder: admissions\n4. Penn State World Campus: stackable credentials\n5. Penn: affordable Ivy League option\n6. Louisville: medical AI practitioners\n7. Concordia, St. Paul: affordability and accessibility\n8. Texas A&M: academic quality\n9. University of San Diego: graduate outcomes\n10. Johns Hopkins: academic quality, degree customization\n\nAll 25 at programs.com.\n\n#ArtificialIntelligence #MastersDegree #OnlineLearning #AIDegree #GradSchool"
+  },
+  "buffer": {
+   "linkedin": "6ac641d75a41834aa461292a",
+   "facebook": "6ac641e56553ee16394f1401",
+   "instagram": "6ac641eb6553ee16394f14d9"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From the queue (prepared copy, spec and alt text). Page 5884, visible 'Last Updated: October 5, 2026', so the 'We just updated' opening applies. All 25 ranks, names and 'Best for' lines were re-read from the live page by script (REST content and the rendered page agree). Corrections to the prepared copy: #17 best-for is 'Focus wider than AI' on the page (prepared: 'a focus wider than AI'); #23 is 'Computer science with AI focus' (prepared: 'an AI focus'); the criteria line now says 'research and academic quality', the page's name for that dimension. School names: four H3 headings on the page use hyphenated forms (Concordia University-Saint Paul, University of Illinois–Chicago, University of Maryland–Baltimore County, University of Tennessee–Knoxville). The post uses the schools' official names. 'Concordia University, St. Paul' and 'University of Illinois Chicago' appear in that form in the page's body text; 'University of Maryland, Baltimore County' and 'University of Tennessee, Knoxville' do not (the page has only the dash forms and 'UMBC' / 'UTK'), so those two differ from the page in punctuation only. The page is inconsistent between headings and body on these names; not a factual error. Image rendered from the prepared spec unchanged (renamed from planned- to the dated name). The queue's later wildcard (UT Austin vs Stanford tuition) uses this same page; when it comes up, weigh it against the 21-entry no-repeat rule."
  }
 ]
