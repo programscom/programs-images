@@ -1,0 +1,16 @@
+{
+ "template": "stat",
+ "eyebrow": "AI and jobs",
+ "num": "181,351",
+ "label": "employees affected by AI-related layoffs announced in 2026 so far",
+ "viz": {
+  "type": "bars",
+  "bars": [
+   {"label": "2024", "value": 42698, "display": "42,698"},
+   {"label": "2025", "value": 150606, "display": "150,606"},
+   {"label": "2026 (Jan to Oct)", "value": 181351, "display": "181,351"}
+  ]
+ },
+ "note": "**20%** above 2025's full-year total",
+ "source": "Source: Programs.com AI layoffs tracker, October 2026"
+}
