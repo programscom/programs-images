@@ -1,12 +1,6 @@
 [
  {
   "type": "stat",
-  "slug": "ai-layoffs",
-  "source_url": "https://programs.com/resources/ai-layoffs/",
-  "angle": "Running total of employees affected by AI-attributed layoffs this year (the tracker's headline figure), against last year"
- },
- {
-  "type": "stat",
   "slug": "universities-offering-ai",
   "source_url": "https://programs.com/resources/universities-offering-ai-programs/",
   "angle": "How many U.S. universities now offer an AI degree program"

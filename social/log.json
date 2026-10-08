@@ -279,5 +279,57 @@
    "instagram": "sent"
   },
   "notes": "From the queue (prepared copy, spec and alt text). Page 5884, visible 'Last Updated: October 5, 2026', so the 'We just updated' opening applies. All 25 ranks, names and 'Best for' lines were re-read from the live page by script (REST content and the rendered page agree). Corrections to the prepared copy: #17 best-for is 'Focus wider than AI' on the page (prepared: 'a focus wider than AI'); #23 is 'Computer science with AI focus' (prepared: 'an AI focus'); the criteria line now says 'research and academic quality', the page's name for that dimension. School names: four H3 headings on the page use hyphenated forms (Concordia University-Saint Paul, University of Illinois–Chicago, University of Maryland–Baltimore County, University of Tennessee–Knoxville). The post uses the schools' official names. 'Concordia University, St. Paul' and 'University of Illinois Chicago' appear in that form in the page's body text; 'University of Maryland, Baltimore County' and 'University of Tennessee, Knoxville' do not (the page has only the dash forms and 'UMBC' / 'UTK'), so those two differ from the page in punctuation only. The page is inconsistent between headings and body on these names; not a factual error. Image rendered from the prepared spec unchanged (renamed from planned- to the dated name). The queue's later wildcard (UT Austin vs Stanford tuition) uses this same page; when it comes up, weigh it against the 21-entry no-repeat rule."
+ },
+ {
+  "date": "2026-10-08",
+  "type": "stat",
+  "slug": "ai-layoffs",
+  "source_url": "https://programs.com/resources/ai-layoffs/",
+  "headline": "181,351 employees have been affected by AI-related layoffs announced so far in 2026",
+  "figures": [
+   {
+    "value": "181,351 (2026, January to October, across 49 companies)",
+    "page_quote": "Chart alt text on the page: \"181,351 employees affected by AI-related layoffs announced in 2026, January to October, across 49 companies, 20% above 2025's full-year total\". Visible H2: \"More than 180,000 employees have been affected by AI-related layoffs in 2026\"",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   },
+   {
+    "value": "20% above 2025's full-year total",
+    "page_quote": "Chart alt text: \"...20% above 2025's full-year total\". Visible text: \"Just ten months into the year, that’s already about 20% more than 2025’s full-year total.\"",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   },
+   {
+    "value": "150,606 (2025) and 42,698 (2024)",
+    "page_quote": "Chart alt text: \"Bar chart: employees affected by AI-related layoffs by year of announcement — 42,698 in 2024, 150,606 in 2025, 181,351 in January to October 2026\". Visible text: \"In 2024, announcements from eight companies covered approximately 43,000 AI-related job cuts\" and \"That number more than tripled in 2025, to over 150,000.\"",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   },
+   {
+    "value": "At least 11 companies with AI-related layoffs affecting 10,000+ employees each, since 2024",
+    "page_quote": "Since 2024, at least 11 companies have announced AI-related layoffs affecting 10,000+ employees each.",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   },
+   {
+    "value": "Method: company disclosures, earnings calls and media reports where AI or automation was named as a driver",
+    "page_quote": "We reviewed hundreds of company disclosures, earnings calls, and major media reporting to identify layoffs where AI or automation was directly named as a driver.",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   }
+  ],
+  "image": "social/out/2026-10-08-ai-layoffs.png",
+  "alt_text": "181,351 employees affected by AI-related layoffs announced in 2026 so far. Bar chart by year of announcement: 42,698 in 2024, 150,606 in 2025 and 181,351 in January to October 2026, which is 20% above 2025's full-year total. Source: Programs.com AI layoffs tracker, October 2026.",
+  "copy": {
+   "linkedin": "181,351 employees have been affected by AI-related layoffs announced so far in 2026.\n\n• That is 20% above the full-year total for 2025, which was 150,606.\n• The 2024 total was 42,698.\n• The 2026 figure covers January to October, across 49 companies.\n• Since 2024, at least 11 companies have announced AI-related layoffs affecting 10,000+ employees each.\n\nSource: Programs.com AI layoffs tracker, October 2026. Counted from company disclosures, earnings calls and media reports where AI or automation was named as a driver.\n\nCompany-by-company list: https://programs.com/resources/ai-layoffs/",
+   "facebook": "181,351 employees have been affected by AI-related layoffs announced so far in 2026, according to the Programs.com AI layoffs tracker. That is 20% above the full-year total for 2025.\n\nhttps://programs.com/resources/ai-layoffs/",
+   "instagram": "181,351 employees have been affected by AI-related layoffs announced so far in 2026.\n\nThat is 20% above the full-year total for 2025, which was 150,606. The 2024 total was 42,698.\n\nThe 2026 figure covers January to October, across 49 companies.\n\nSource: Programs.com AI layoffs tracker, October 2026.\n\nFull breakdown at programs.com.\n\n#AI #Layoffs #ArtificialIntelligence #FutureOfWork #TechJobs"
+  },
+  "buffer": {
+   "linkedin": "6ac79217d1ababbf88af44e3",
+   "facebook": "6ac7922408d405a9e70017a0",
+   "instagram": "6ac79229daf7bb7cba203993"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From queue item 1 (ai-layoffs). The exact totals (181,351; 150,606; 42,698; 49 companies) are in the alt text of the page's two charts, which were re-uploaded at 12:34 and 12:35 UTC today with the page saved at 12:36 UTC; the visible body text gives the rounded forms (more than 180,000; over 150,000; approximately 43,000). The chart PNGs themselves could not be opened from this run (the shell cannot reach programs.com), so the exact figures rest on the alt text and their agreement with the visible text. A rough sum of the 2026 portions of the company entries comes to about 181,000, in line with the total."
  }
 ]
