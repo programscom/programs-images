@@ -1,11 +1,5 @@
 [
  {
-  "type": "stat",
-  "slug": "universities-offering-ai",
-  "source_url": "https://programs.com/resources/universities-offering-ai-programs/",
-  "angle": "How many U.S. universities now offer an AI degree program"
- },
- {
   "type": "wildcard",
   "slug": "ut-austin-vs-stanford",
   "source_url": "https://programs.com/programs/online-masters-in-ai/",
