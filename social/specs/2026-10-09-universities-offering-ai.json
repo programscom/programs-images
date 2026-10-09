@@ -1,0 +1,17 @@
+{
+ "template": "stat",
+ "eyebrow": "AI degrees",
+ "num": "352",
+ "label": "US colleges and universities now offer an AI degree",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "South", "value": 119, "display": "119", "hi": true},
+   {"label": "Northeast", "value": 88, "display": "88"},
+   {"label": "Midwest", "value": 82, "display": "82"},
+   {"label": "West", "value": 63, "display": "63"}
+  ]
+ },
+ "note": "By region. Together they offer **483** AI degree programs",
+ "source": "Source: Programs.com AI degree program tracker, October 2026"
+}
