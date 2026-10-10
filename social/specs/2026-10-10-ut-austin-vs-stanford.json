@@ -1,0 +1,16 @@
+{
+ "template": "stat",
+ "theme": "light",
+ "eyebrow": "Online master’s in AI",
+ "num": "$10,000",
+ "label": "Estimated tuition at our #1 online master’s in AI program",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "#1 University of Texas at Austin", "value": 10000, "display": "$10,000", "hi": true},
+   {"label": "#20 Stanford University", "value": 70000, "display": "$70,000"}
+  ]
+ },
+ "note": "Ranked **#1** and **#20** of 25. Tuition only, fees not included",
+ "source": "Source: Programs.com online master’s in AI ranking, October 2026"
+}
