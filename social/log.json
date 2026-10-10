@@ -388,5 +388,57 @@
    "instagram": "sent"
   },
   "notes": "From queue item 1 (universities-offering-ai); the item named no figures, so there was nothing to correct. All figures are Programs.com's own counts. Cross-checks on the live page passed: degree levels sum to 483, regional universities sum to 352 and regional programs to 483, the online percentages match their counts, and the three program lists hold 208, 229 and 46 programs and the 2026 log holds 26 rows. Not used and worth a look on the page: the Top Stats line says undergraduate AI programs have 'increased by 600% since 2020' while the growth section says bachelor-level programs 'have increased nearly 6x since 2020' (a 6x rise is a 500% increase); the CRA source could not be opened from this run to say which is right. The page's six chart images have empty alt text."
+ },
+ {
+  "date": "2026-10-10",
+  "type": "wildcard",
+  "slug": "ut-austin-vs-stanford",
+  "source_url": "https://programs.com/programs/online-masters-in-ai/",
+  "headline": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000",
+  "figures": [
+   {
+    "value": "#1 University of Texas at Austin, MS in Artificial Intelligence: estimated tuition $10,000, 30 credits",
+    "page_quote": "1 | University of Texas at Austin | Austin, TX | Program Summary | MS in Artificial Intelligence | Estimated tuition: $10,000 | Typical length: 1.5-2 years | Accreditation: SACSCOC | Credits: 30 | Best for: Academic quality, affordability. Body: \"Traditional R1 programs can cost upwards of $50,000, so the remarkable $10,000 cost offers a tremendous potential return on investment (ROI).\"",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   },
+   {
+    "value": "#20 Stanford University, MS in Computer Science (Artificial Intelligence Specialization): estimated tuition $70,000, 45 units",
+    "page_quote": "20 | Stanford University | Stanford, CA | Program Summary | MS in Computer Science (Artificial Intelligence Specialization) | Estimated tuition: $70,000 | Typical length: 1-5 years | Accreditation: WSCUC | Credits: 45 units (quarter system, ~30 credits equivalent) | Best for: Academic quality. Body: \"That’s partly because most people will struggle to justify the $70,000 cost, meaning the program is mainly viable for students whose employers have agreed to cover their tuition. There’s nothing to stop you financing it yourself, but you have to ask yourself whether it is really 7x better than the program offered by the University of Texas at Austin.\"",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   },
+   {
+    "value": "25 programs in the ranking",
+    "page_quote": "Top 25 Online Master’s In AI Programs for 2026 (H1); Top 25 Online AI Master’s Degree Programs (2026) (H2)",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   },
+   {
+    "value": "Affordability 15 percent of the score; research and academic quality 25 percent",
+    "page_quote": "Affordability at 15 percent, assessing total tuition and pricing transparency. Research and Academic Quality at 25 percent, evaluating institutional reputation and employer signal.",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   },
+   {
+    "value": "Tuition only; fees and materials not included",
+    "page_quote": "Please note that we have only covered the tuition cost, which does not include potential added fees and materials costs.",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   }
+  ],
+  "image": "social/out/2026-10-10-ut-austin-vs-stanford.png",
+  "alt_text": "$10,000: estimated tuition at the number 1 online master's in AI program in the Programs.com ranking, the University of Texas at Austin. Stanford University, ranked number 20 of 25, has an estimated tuition of $70,000. Tuition only, fees not included.",
+  "copy": {
+   "linkedin": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000.\n\n• No. 1: University of Texas at Austin, MS in Artificial Intelligence. Estimated tuition: $10,000 for 30 credits.\n• No. 20: Stanford University, MS in Computer Science with an AI specialization. Estimated tuition: $70,000 for 45 units.\n• Affordability counts for 15 percent of a program's score. Research and academic quality counts for 25 percent.\n\nSource: Programs.com ranking of the 25 best online master's in AI programs, October 2026. Figures are estimated tuition only and do not include fees or materials.\n\nAll 25 programs with tuition: https://programs.com/programs/online-masters-in-ai/",
+   "facebook": "The No. 1 program in the Programs.com ranking of online master's in AI degrees, the University of Texas at Austin, has an estimated tuition of $10,000. Stanford University, ranked No. 20, has an estimated tuition of $70,000.\n\nhttps://programs.com/programs/online-masters-in-ai/",
+   "instagram": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000.\n\nNo. 1: University of Texas at Austin, MS in Artificial Intelligence. Estimated tuition: $10,000.\n\nNo. 20: Stanford University, MS in Computer Science with an AI specialization. Estimated tuition: $70,000.\n\nSource: Programs.com ranking of the 25 best online master's in AI programs, October 2026. Tuition only, fees not included.\n\nFull breakdown at programs.com.\n\n#AI #ArtificialIntelligence #MastersDegree #OnlineDegree #HigherEd"
+  },
+  "buffer": {
+   "linkedin": "6aca349ced92ed8fa5cbdf1c",
+   "facebook": "6aca34a9f91f772d45934977",
+   "instagram": "6aca34c4b07d37ac97722e78"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From queue item 1 (wildcard, UT Austin vs Stanford). The queue takes priority over the 21-entry no-repeat rule, so this page returns three days after the 2026-10-07 ranking post, with a different headline figure (tuition contrast, not the list). The page was modified on 2026-10-09 (visible 'Last Updated: October 9, 2026'); the rank order of all 25 is unchanged from 2026-10-07, and both tuition figures, ranks and program names were re-read from the REST content and the rendered page, which agree. Corrections to the queue angle: it said '$10,000 in total tuition'; the page's summary field is 'Estimated tuition', so the post says estimated tuition and states that fees are not included. Precision kept in the copy: Stanford's degree is an MS in Computer Science with an AI specialization, not a standalone AI degree, and 45 quarter units. The post does not call either program the cheapest or the most expensive, because neither is: Western Governors lists $8,770-$17,540 and New York University $75,750. Image: stat template, light theme, compare with two bars (14% and 100% width); the source line wraps to two lines and passes the check. Copy says 'No. 1' and 'No. 20' instead of '#1' and '#20' so no platform turns a rank into a hashtag; the image uses '#1' and '#20'. Page inconsistency found, not used in the post: the Purdue University entry (rank 2) lists 'Estimated tuition: $27,990' in its summary while its text says 'Tuition comes in at just $28,500'."
  }
 ]

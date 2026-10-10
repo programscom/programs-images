@@ -1,11 +1,5 @@
 [
  {
-  "type": "wildcard",
-  "slug": "ut-austin-vs-stanford",
-  "source_url": "https://programs.com/programs/online-masters-in-ai/",
-  "angle": "Our #1 online master's in AI (UT Austin) costs $10,000 in total tuition. Stanford, ranked #20, costs $70,000. Use the compare template, light theme."
- },
- {
   "type": "stat",
   "slug": "vishing",
   "source_url": "https://programs.com/resources/voice-phishing-stats/",
