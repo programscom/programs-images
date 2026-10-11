@@ -440,5 +440,52 @@
    "instagram": "sent"
   },
   "notes": "From queue item 1 (wildcard, UT Austin vs Stanford). The queue takes priority over the 21-entry no-repeat rule, so this page returns three days after the 2026-10-07 ranking post, with a different headline figure (tuition contrast, not the list). The page was modified on 2026-10-09 (visible 'Last Updated: October 9, 2026'); the rank order of all 25 is unchanged from 2026-10-07, and both tuition figures, ranks and program names were re-read from the REST content and the rendered page, which agree. Corrections to the queue angle: it said '$10,000 in total tuition'; the page's summary field is 'Estimated tuition', so the post says estimated tuition and states that fees are not included. Precision kept in the copy: Stanford's degree is an MS in Computer Science with an AI specialization, not a standalone AI degree, and 45 quarter units. The post does not call either program the cheapest or the most expensive, because neither is: Western Governors lists $8,770-$17,540 and New York University $75,750. Image: stat template, light theme, compare with two bars (14% and 100% width); the source line wraps to two lines and passes the check. Copy says 'No. 1' and 'No. 20' instead of '#1' and '#20' so no platform turns a rank into a hashtag; the image uses '#1' and '#20'. Page inconsistency found, not used in the post: the Purdue University entry (rank 2) lists 'Estimated tuition: $27,990' in its summary while its text says 'Tuition comes in at just $28,500'."
+ },
+ {
+  "date": "2026-10-11",
+  "type": "stat",
+  "slug": "vishing",
+  "source_url": "https://programs.com/resources/voice-phishing-stats/",
+  "headline": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half",
+  "figures": [
+   {
+    "value": "442% more voice phishing attacks in the second half of 2024 than in the first half",
+    "page_quote": "H3: \"Voice phishing attacks have become 442% more common (CrowdStrike)\". Body: \"There were 442% more voice phishing attacks in the second half of 2024 compared to the first half of the year.\"",
+    "primary_source": "CrowdStrike 2025 Global Threat Report, linked from the page (https://www.crowdstrike.com/en-us/blog/crowdstrike-2025-global-threat-report-findings/). Could not be opened from this run (WebFetch permission prompt went unanswered); used on the strength of the page's named source. A web search returned third-party headlines matching the figure and period (Security Magazine: \"Vishing attacks increased by 442% in the second half of 2024\")."
+   },
+   {
+    "value": "2 vishing attacks recorded by CrowdStrike in January 2024, 93 in December 2024",
+    "page_quote": "Comparing the first and final months of 2024 shows an even more striking increase: In January 2024, CrowdStrike recorded just two vishing attacks. In December, they recorded 93.",
+    "primary_source": "CrowdStrike 2025 Global Threat Report, linked from the page (https://www.crowdstrike.com/en-us/blog/crowdstrike-2025-global-threat-report-findings/). Could not be opened from this run (WebFetch permission prompt went unanswered); used on the strength of the page's named source. A web search returned third-party headlines matching the figure and period (Security Magazine: \"Vishing attacks increased by 442% in the second half of 2024\")."
+   },
+   {
+    "value": "68% of Americans receive a scam phone call at least once a week",
+    "page_quote": "H3: \"68% of Americans receive a scam phone call at least once a week (Pew Research)\". Body: \"Almost everyone in the US with a phone has received a scam phone call at least once. Over two-thirds receive at least one weekly.\"",
+    "primary_source": "Pew Research, 'Online Scams and Attacks in America Today', 31 July 2025, linked from the page (https://www.pewresearch.org/internet/2025/07/31/online-scams-and-attacks-in-america-today/). Could not be opened from this run; used on the strength of the page's named source."
+   },
+   {
+    "value": "31% receive scam phone calls at least daily",
+    "page_quote": "H3: \"And 31% receive scam phone calls at least daily (Pew Research)\"",
+    "primary_source": "Pew Research, 'Online Scams and Attacks in America Today', 31 July 2025, linked from the page (https://www.pewresearch.org/internet/2025/07/31/online-scams-and-attacks-in-america-today/). Could not be opened from this run; used on the strength of the page's named source."
+   }
+  ],
+  "image": "social/out/2026-10-11-vishing.png",
+  "alt_text": "442% more voice phishing attacks in the second half of 2024 than in the first half. Bar chart of vishing attacks recorded by CrowdStrike: 2 in January 2024 and 93 in December 2024. Source: CrowdStrike 2025 Global Threat Report.",
+  "copy": {
+   "linkedin": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half.\n\n• CrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n• 68% of Americans receive a scam phone call at least once a week (Pew Research, 2025).\n• 31% receive scam phone calls at least daily (Pew Research, 2025).\n\nSource: CrowdStrike 2025 Global Threat Report. The 442% figure compares vishing attacks CrowdStrike recorded in the second half of 2024 with the first half.\n\nMore vishing statistics: https://programs.com/resources/voice-phishing-stats/",
+   "facebook": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half, according to CrowdStrike's 2025 Global Threat Report. CrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n\nhttps://programs.com/resources/voice-phishing-stats/",
+   "instagram": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half.\n\nCrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n\n68% of Americans receive a scam phone call at least once a week (Pew Research, 2025).\n\nSource: CrowdStrike 2025 Global Threat Report.\n\nFull breakdown at programs.com.\n\n#Cybersecurity #Vishing #Phishing #InfoSec #ScamCalls"
+  },
+  "buffer": {
+   "linkedin": "6acb87dbb07d37ac97a8247c",
+   "facebook": "6acb87e7d9cab260a7f9ea7b",
+   "instagram": "6acb87edd9cab260a7f9eae5"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From queue item 1 (vishing; the item gave only the angle, no figures to correct). Page is post 4141, last modified 2026-05-04T11:50:47. The queue angle said 'incidents up 442%' and the page's Editor's Picks line says 'Voice phishing attacks have increased by 442% over the last year'; the body gives the actual comparison, second half of 2024 against the first half, so the copy and image state that period. No third-party source could be opened (WebFetch permission prompt unanswered for crowdstrike.com, pewresearch.org and the PIRG PDF), so every figure rests on the page showing it with a named source; figures were limited to CrowdStrike and Pew for that reason. Left out: the 2.56 billion monthly scam calls figure (the page says it also covers telemarketing and robocalls) and the $40 billion Deloitte projection (generative AI fraud in general, not vishing). The years for the sources (CrowdStrike 2025 report, Pew 2025) come from the URLs the page links to; the page text names the sources without a year. First WPVibe call failed with a relay connection deadline; the retry a minute later worked. LinkedIn returned 'sending' then 'sent' within about 20 seconds; Facebook and Instagram returned 'sent' in the create_post response."
  }
 ]
