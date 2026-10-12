@@ -1,0 +1,29 @@
+{
+ "template": "stat",
+ "eyebrow": "AI salaries",
+ "num": "$180,000",
+ "label": "Median salary for an AI engineer in the US",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {
+    "label": "AI engineer",
+    "value": 180000,
+    "display": "$180,000",
+    "hi": true
+   },
+   {
+    "label": "Machine learning engineer",
+    "value": 155000,
+    "display": "$155,000"
+   },
+   {
+    "label": "Data scientist",
+    "value": 112590,
+    "display": "$112,590"
+   }
+  ]
+ },
+ "note": "**AI engineer** is the highest-paid role in our analysis",
+ "source": "Source: Built In (AI, ML engineers), BLS, 2026"
+}
