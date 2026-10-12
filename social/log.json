@@ -487,5 +487,56 @@
    "instagram": "sent"
   },
   "notes": "From queue item 1 (vishing; the item gave only the angle, no figures to correct). Page is post 4141, last modified 2026-05-04T11:50:47. The queue angle said 'incidents up 442%' and the page's Editor's Picks line says 'Voice phishing attacks have increased by 442% over the last year'; the body gives the actual comparison, second half of 2024 against the first half, so the copy and image state that period. No third-party source could be opened (WebFetch permission prompt unanswered for crowdstrike.com, pewresearch.org and the PIRG PDF), so every figure rests on the page showing it with a named source; figures were limited to CrowdStrike and Pew for that reason. Left out: the 2.56 billion monthly scam calls figure (the page says it also covers telemarketing and robocalls) and the $40 billion Deloitte projection (generative AI fraud in general, not vishing). The years for the sources (CrowdStrike 2025 report, Pew 2025) come from the URLs the page links to; the page text names the sources without a year. First WPVibe call failed with a relay connection deadline; the retry a minute later worked. LinkedIn returned 'sending' then 'sent' within about 20 seconds; Facebook and Instagram returned 'sent' in the create_post response."
+ },
+ {
+  "date": "2026-10-12",
+  "type": "stat",
+  "slug": "ai-role-salaries",
+  "source_url": "https://programs.com/resources/ai-role-salaries/",
+  "headline": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis",
+  "figures": [
+   {
+    "value": "$180,000",
+    "page_quote": "AI engineers have the highest median salary at $180,000 per year.",
+    "primary_source": "Built In, https://builtin.com/salaries/us/ai-engineer (WebFetch blocked by unanswered permission prompt; page names the source)"
+   },
+   {
+    "value": "$155,000",
+    "page_quote": "Machine learning engineers have a median salary of $155,000 and an average base salary of $162,080 in the US.",
+    "primary_source": "Built In, https://builtin.com/salaries/us/machine-learning-engineer (not opened, same reason)"
+   },
+   {
+    "value": "$246,250",
+    "page_quote": "San Francisco offers the highest average salary in the US for both AI engineers ($246,250) and ML engineers ($207,474).",
+    "primary_source": "Built In (not opened)"
+   },
+   {
+    "value": "$112,590",
+    "page_quote": "Annually, data scientists earn a median wage of  $112,590.",
+    "primary_source": "BLS Occupational Outlook Handbook, data scientists"
+   },
+   {
+    "value": "$102,610",
+    "page_quote": "Of the assessed roles, software quality assurance analysts and testers have the lowest median annual salary ($102,610).",
+    "primary_source": "BLS Occupational Outlook Handbook, software developers, QA analysts and testers"
+   }
+  ],
+  "image": "social/out/2026-10-12-ai-role-salaries.png",
+  "copy": {
+   "linkedin": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis.\n\n• Machine learning engineers: $155,000 median\n• AI engineers in San Francisco: $246,250 average\n• Data scientists: $112,590 median\n• Software QA analysts and testers: $102,610 median, the lowest of the roles assessed\n\nSource: Built In (AI and ML engineers) and the US Bureau of Labor Statistics (data scientists, QA analysts and testers), 2026 data.\n\nFull breakdown of AI role salaries: https://programs.com/resources/ai-role-salaries/",
+   "facebook": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis, based on Built In data. Machine learning engineers follow at $155,000.\n\nhttps://programs.com/resources/ai-role-salaries/",
+   "instagram": "AI engineers earn a median salary of $180,000 a year in the US.\n\nMachine learning engineers: $155,000.\nData scientists: $112,590.\n\nSource: Built In (AI and ML engineers) and the US Bureau of Labor Statistics (data scientists), 2026 data.\n\nFull breakdown at programs.com.\n\n#AIjobs #ArtificialIntelligence #MachineLearning #TechCareers #Salary"
+  },
+  "buffer": {
+   "linkedin": "6accd9047659eb754b6f451d",
+   "facebook": "6accd9117659eb754b6f4988",
+   "instagram": "6accd9170cc1ccfc8f75f7f9"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard), AI topic after yesterday's cybersecurity post. Avoided the page's '$135,754 average median' figure: the methodology box calls it a mean of eight listed roles, but the average of those eight medians is $131,611 (nine incl. prompt engineer: $129,652), so the figure does not reconcile. WebSearch found Built In's AI engineer salary page but no snippet with the figure."
  }
 ]
