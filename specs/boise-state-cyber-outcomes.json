@@ -1,0 +1,12 @@
+{
+ "template": "compare",
+ "num": "79%",
+ "label": "of Boise State cyber operations graduates are employed or continuing their education",
+ "bars": [
+  {"label": "Work related to their degree", "value": 85, "display": "85%"},
+  {"label": "Say Boise State Online helped their post-grad plans", "value": 84, "display": "84%"},
+  {"label": "Would recommend the program", "value": 92, "display": "92%"},
+  {"label": "Employed or continuing education", "value": 79, "display": "79%"}
+ ],
+ "source": "Boise State University, Cyber Operations and Resilience graduate outcomes"
+}
