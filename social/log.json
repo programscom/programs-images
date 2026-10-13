@@ -538,5 +538,52 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard), AI topic after yesterday's cybersecurity post. Avoided the page's '$135,754 average median' figure: the methodology box calls it a mean of eight listed roles, but the average of those eight medians is $131,611 (nine incl. prompt engineer: $129,652), so the figure does not reconcile. WebSearch found Built In's AI engineer salary page but no snippet with the figure."
+ },
+ {
+  "date": "2026-10-13",
+  "type": "stat",
+  "slug": "us-data-centers",
+  "source_url": "https://programs.com/resources/data-center-statistics/",
+  "headline": "The US has 4,767 data centers, more than any other country",
+  "figures": [
+   {
+    "value": "4,767 (US), 568 (UK), 533 (Germany), 393 (France)",
+    "page_quote": "With 4,767 data centers as of August 2026, the US has the most of any country by far. The UK ranks second with 568, followed by Germany with 533, France with 393, and China with 376.",
+    "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
+   },
+   {
+    "value": "674 (Virginia), 3 (Vermont)",
+    "page_quote": "Every US state has at least one data center, with Vermont having the least (3) and Virginia having the most (674).",
+    "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
+   },
+   {
+    "value": "175 (Ashburn)",
+    "page_quote": "As of August 2026, Ashburn, Virginia, alone is home to 175 data centers.",
+    "primary_source": "Data Center Map, https://www.datacentermap.com/usa/virginia/ashburn/ (not opened)"
+   },
+   {
+    "value": "12,259 across 179 countries",
+    "page_quote": "As of August 2026, there are 12,259 active data centers across 179 countries.",
+    "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
+   }
+  ],
+  "image": "social/out/2026-10-13-us-data-centers.png",
+  "alt_text": "The US has 4,767 data centers, the most of any country, compared with 568 in the United Kingdom, 533 in Germany and 393 in France. Virginia alone has 674, the most of any state. Source: Data Center Map, August 2026.",
+  "copy": {
+   "linkedin": "The US has 4,767 data centers, more than any other country.\n\n• The UK ranks second with 568, followed by Germany with 533 and France with 393.\n• Every US state has at least one data center. Virginia has the most (674) and Vermont the least (3).\n• Ashburn, Virginia, alone is home to 175 data centers.\n• Worldwide, there are 12,259 active data centers across 179 countries.\n\nSource: Data Center Map, counts as of August 2026.\n\nMore data center statistics: https://programs.com/resources/data-center-statistics/",
+   "facebook": "The US has 4,767 data centers, more than any other country, according to Data Center Map counts from August 2026. The UK ranks second with 568.\n\nhttps://programs.com/resources/data-center-statistics/",
+   "instagram": "The US has 4,767 data centers, more than any other country.\n\nThe UK ranks second with 568.\nVirginia alone has 674, the most of any US state.\n\nSource: Data Center Map, counts as of August 2026.\n\nFull breakdown at programs.com.\n\n#DataCenters #AI #ArtificialIntelligence #CloudComputing #TechStats"
+  },
+  "buffer": {
+   "linkedin": "6ace2a6464eb86867a140c29",
+   "facebook": "6ace2a71a5670ad01c4cd21f",
+   "instagram": "6ace2a787a819fc95e48f556"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard). Data centers last ran 2026-10-06 (moratoriums tracker, different page). Page heading says the US has 'almost 9x more data centers than any other country', but 4,767 / 568 is 8.4x, so that ratio was not used. WebFetch on datacentermap.com was blocked by an unanswered permission prompt; WebSearch did not surface the count."
  }
 ]
