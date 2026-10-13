@@ -1,0 +1,23 @@
+{
+ "template": "compare",
+ "num": "483",
+ "label": "AI degree programs in the US",
+ "bars": [
+  {
+   "label": "Doctoral",
+   "value": 46,
+   "display": "46"
+  },
+  {
+   "label": "Bachelor’s",
+   "value": 208,
+   "display": "208"
+  },
+  {
+   "label": "Master’s",
+   "value": 229,
+   "display": "229"
+  }
+ ],
+ "source": "Programs.com AI programs tracker, October 2026"
+}

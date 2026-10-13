@@ -1,0 +1,28 @@
+{
+ "template": "compare",
+ "num": "483",
+ "label": "AI degree programs at 352 universities, by US region",
+ "bars": [
+  {
+   "label": "West",
+   "value": 83,
+   "display": "83 programs, 63 universities"
+  },
+  {
+   "label": "Midwest",
+   "value": 106,
+   "display": "106 programs, 82 universities"
+  },
+  {
+   "label": "Northeast",
+   "value": 121,
+   "display": "121 programs, 88 universities"
+  },
+  {
+   "label": "South",
+   "value": 173,
+   "display": "173 programs, 119 universities"
+  }
+ ],
+ "source": "Programs.com AI programs tracker, October 2026"
+}

@@ -1,0 +1,28 @@
+{
+ "template": "compare",
+ "num": "35.8%",
+ "label": "of US AI degree programs are in the South",
+ "bars": [
+  {
+   "label": "West",
+   "value": 17.2,
+   "display": "17.2%"
+  },
+  {
+   "label": "Midwest",
+   "value": 21.9,
+   "display": "21.9%"
+  },
+  {
+   "label": "Northeast",
+   "value": 25.1,
+   "display": "25.1%"
+  },
+  {
+   "label": "South",
+   "value": 35.8,
+   "display": "35.8%"
+  }
+ ],
+ "source": "Programs.com AI programs tracker, October 2026"
+}

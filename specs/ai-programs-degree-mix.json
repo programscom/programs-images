@@ -1,0 +1,23 @@
+{
+ "template": "compare",
+ "num": "339",
+ "label": "institutions offer a bachelor’s or master’s AI program",
+ "bars": [
+  {
+   "label": "Only bachelor’s",
+   "value": 123,
+   "display": "123 (36.3%)"
+  },
+  {
+   "label": "Only master’s",
+   "value": 138,
+   "display": "138 (40.7%)"
+  },
+  {
+   "label": "Both",
+   "value": 78,
+   "display": "78 (23.0%)"
+  }
+ ],
+ "source": "Programs.com AI programs tracker, October 2026"
+}
