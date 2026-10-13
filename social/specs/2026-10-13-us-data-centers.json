@@ -1,0 +1,17 @@
+{
+ "template": "stat",
+ "eyebrow": "Data centers",
+ "num": "4,767",
+ "label": "US data centers, the most of any country",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "United States", "value": 4767, "display": "4,767", "hi": true},
+   {"label": "United Kingdom", "value": 568, "display": "568"},
+   {"label": "Germany", "value": 533, "display": "533"},
+   {"label": "France", "value": 393, "display": "393"}
+  ]
+ },
+ "note": "Virginia alone has **674**, the most of any state",
+ "source": "Source: Data Center Map, August 2026"
+}
