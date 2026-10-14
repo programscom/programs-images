@@ -585,5 +585,166 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard). Data centers last ran 2026-10-06 (moratoriums tracker, different page). Page heading says the US has 'almost 9x more data centers than any other country', but 4,767 / 568 is 8.4x, so that ratio was not used. WebFetch on datacentermap.com was blocked by an unanswered permission prompt; WebSearch did not surface the count."
+ },
+ {
+  "date": "2026-10-14",
+  "type": "degree",
+  "slug": "ai-bachelors-ranking",
+  "source_url": "https://programs.com/programs/ai-bachelor-degree-programs/",
+  "headline": "We just updated our ranking of the 25 best AI bachelor's degree programs",
+  "figures": [
+   {
+    "value": "1. University of California, San Diego",
+    "page_quote": "1 / University of California, San Diego / Best for: Early AI immersion",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "2. Georgia Institute of Technology",
+    "page_quote": "2 / Georgia Institute of Technology / Best for: Industry integration",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "3. University of California, Berkeley",
+    "page_quote": "3 / University of California, Berkeley / Best for: Industry exposure",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "4. University of Texas at Austin",
+    "page_quote": "4 / University of Texas at Austin / Best for: Applied project focus",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "5. Virginia Tech",
+    "page_quote": "5 / Virginia Tech / Best for: Interdisciplinary AI",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "6. University of Maryland, College Park",
+    "page_quote": "6 / University of Maryland, College Park / Best for: Applied research exposure",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "7. Purdue University",
+    "page_quote": "7 / Purdue University / Best for: Practical breadth",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "8. University of Washington",
+    "page_quote": "8 / University of Washington / Best for: Practical experience",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "9. Carnegie Mellon University",
+    "page_quote": "9 / Carnegie Mellon University / Best for: Dedicated AI degree",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "10. University of California, Santa Barbara",
+    "page_quote": "10 / University of California, Santa Barbara / Best for: Early AI focus",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "11. University of Michigan, Ann Arbor",
+    "page_quote": "11 / University of Michigan, Ann Arbor / Best for: Practical AI preparation",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "12. University of Florida",
+    "page_quote": "12 / University of Florida / Best for: Course variety",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "13. Stanford University",
+    "page_quote": "13 / Stanford University / Best for: Exploratory specialization",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "14. University of California, Davis",
+    "page_quote": "14 / University of California, Davis / Best for: Practical foundation",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "15. University of California, Irvine",
+    "page_quote": "15 / University of California, Irvine / Best for: Applied flexibility",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "16. Rice University",
+    "page_quote": "16 / Rice University / Best for: Early specialization",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "17. Massachusetts Institute of Technology (MIT)",
+    "page_quote": "17 / Massachusetts Institute of Technology (MIT) / Best for: Research immersion",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "18. University of Southern California",
+    "page_quote": "18 / University of Southern California / Best for: Dedicated AI degree",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "19. Cornell University",
+    "page_quote": "19 / Cornell University / Best for: Research opportunities",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "20. Columbia University",
+    "page_quote": "20 / Columbia University / Best for: Interdisciplinary exposure",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "21. Duke University",
+    "page_quote": "21 / Duke University / Best for: Interdisciplinary integration",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "22. California Institute of Technology (Caltech)",
+    "page_quote": "22 / California Institute of Technology (Caltech) / Best for: Interdisciplinary focus",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "23. Brown University",
+    "page_quote": "23 / Brown University / Best for: Flexible specialization",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "24. Princeton University",
+    "page_quote": "24 / Princeton University / Best for: Independent study",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "25. Rensselaer Polytechnic Institute",
+    "page_quote": "25 / Rensselaer Polytechnic Institute / Best for: Focused AI depth",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "Last Updated: October 9, 2026",
+    "page_quote": "Last Updated: October 9, 2026",
+    "primary_source": "Programs.com page meta (post-meta__datetime)"
+   },
+   {
+    "value": "six weighted factors",
+    "page_quote": "In order to rank the top AI degrees, we scored programs based on six weighted factors. Top weight (25%) went to hands-on practice ... Curriculum relevance comprised 20% ... We also gave affordability 20% weighting ... Academic quality was worth 15% ... 10% of the final scores came from focus on AI ... Admissions decided the final 10%.",
+    "primary_source": "Programs.com methodology section"
+   }
+  ],
+  "image": "social/out/2026-10-14-ai-bachelors-ranking.png",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 25 best AI bachelor's degree programs.\n\n1. University of California, San Diego: early AI immersion\n2. Georgia Institute of Technology: industry integration\n3. University of California, Berkeley: industry exposure\n4. University of Texas at Austin: applied project focus\n5. Virginia Tech: interdisciplinary AI\n6. University of Maryland, College Park: applied research exposure\n7. Purdue University: practical breadth\n8. University of Washington: practical experience\n9. Carnegie Mellon University: dedicated AI degree\n10. University of California, Santa Barbara: early AI focus\n11. University of Michigan, Ann Arbor: practical AI preparation\n12. University of Florida: course variety\n13. Stanford University: exploratory specialization\n14. University of California, Davis: practical foundation\n15. University of California, Irvine: applied flexibility\n16. Rice University: early specialization\n17. Massachusetts Institute of Technology (MIT): research immersion\n18. University of Southern California: dedicated AI degree\n19. Cornell University: research opportunities\n20. Columbia University: interdisciplinary exposure\n21. Duke University: interdisciplinary integration\n22. California Institute of Technology (Caltech): interdisciplinary focus\n23. Brown University: flexible specialization\n24. Princeton University: independent study\n25. Rensselaer Polytechnic Institute: focused AI depth\n\nRanked on hands-on practice (25%), curriculum relevance (20%), affordability (20%), academic quality (15%), AI focus (10%) and admissions (10%).\n\nFull ranking: https://programs.com/programs/ai-bachelor-degree-programs/",
+   "facebook": "We just updated our ranking of the 25 best AI bachelor's degree programs. The top 10:\n\n1. University of California, San Diego\n2. Georgia Institute of Technology\n3. University of California, Berkeley\n4. University of Texas at Austin\n5. Virginia Tech\n6. University of Maryland, College Park\n7. Purdue University\n8. University of Washington\n9. Carnegie Mellon University\n10. University of California, Santa Barbara\n\nhttps://programs.com/programs/ai-bachelor-degree-programs/",
+   "instagram": "We just updated our ranking of the 25 best AI bachelor's degree programs.\n\n1. UC San Diego: early AI immersion\n2. Georgia Tech: industry integration\n3. UC Berkeley: industry exposure\n4. UT Austin: applied project focus\n5. Virginia Tech: interdisciplinary AI\n6. UMD College Park: applied research exposure\n7. Purdue: practical breadth\n8. University of Washington: practical experience\n9. Carnegie Mellon: dedicated AI degree\n10. UC Santa Barbara: early AI focus\n\nAll 25 at programs.com.\n\n#ArtificialIntelligence #AIDegree #ComputerScience #CollegeRankings #HigherEducation"
+  },
+  "buffer": {
+   "linkedin": "6acf7b3a58efe154c754452f",
+   "facebook": "6acf7aeb84dc0d12ded3893f",
+   "instagram": "6acf7b0d77b08ba8d4b94d13"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard). Page 6523, visible Last Updated October 9, 2026, so the 'We just updated' opening applies. Ranking mixes dedicated AI majors and CS degrees with an AI concentration, as the page states. First LinkedIn create_post was blocked by the session's permission check before reaching Buffer; confirmed no LinkedIn post existed, retried once and it went through."
  }
 ]
