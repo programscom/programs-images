@@ -18,7 +18,7 @@ Spec fields
             e.g. "Source: HEPI survey of UK undergraduates, 2025"
 
 stat
-  num       headline figure exactly as printed: "92%", "170,621", "43", "$10,000", "7x"
+  num       headline figure exactly as printed: "92%", "170,621", "43", "$10,000", "7x", "4.8M"
   label     the line under the figure
   note      optional caption under the visual; **double asterisks** make bold
   viz       optional, one of:
@@ -172,7 +172,7 @@ def num_html(num):
     lead = ""
     if s.startswith("$"):
         lead, s = "<small>$</small>", s[1:]
-    for suf in ("%", "x", "+"):
+    for suf in ("%", "x", "+", "M"):
         if s.endswith(suf):
             return f"{lead}{s[:-1]}<small>{suf}</small>"
     return lead + s

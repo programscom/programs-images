@@ -1,0 +1,16 @@
+{
+ "template": "stat",
+ "eyebrow": "Cybersecurity",
+ "num": "4.8M",
+ "label": "global cybersecurity workforce gap",
+ "viz": {
+  "type": "bars",
+  "bars": [
+   {"label": "2022", "value": 3.4, "display": "3.4M"},
+   {"label": "2023", "value": 4.0, "display": "4M"},
+   {"label": "2024", "value": 4.8, "display": "4.8M"}
+  ]
+ },
+ "note": "Global workforce: **5.5 million**, up just 0.1% from 2023",
+ "source": "Source: ISC2 Cybersecurity Workforce Study, 2024"
+}
