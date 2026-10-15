@@ -746,5 +746,56 @@
    "instagram": "sent"
   },
   "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard). Page 6523, visible Last Updated October 9, 2026, so the 'We just updated' opening applies. Ranking mixes dedicated AI majors and CS degrees with an AI concentration, as the page states. First LinkedIn create_post was blocked by the session's permission check before reaching Buffer; confirmed no LinkedIn post existed, retried once and it went through."
+ },
+ {
+  "date": "2026-10-15",
+  "type": "stat",
+  "slug": "cybersecurity-workforce-gap",
+  "source_url": "https://programs.com/resources/total-cybersecurity-pros/",
+  "headline": "The global cybersecurity workforce gap reached 4.8 million in 2024",
+  "figures": [
+   {
+    "value": "4.8 million (2024 gap)",
+    "page_quote": "In total, there is a cybersecurity workforce gap of approximately 4.8 million. That’s a 41% increase on 2022’s 3.4 million and a 20% increase on 2023’s 4 million.",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   },
+   {
+    "value": "3.4 million (2022 gap), 4 million (2023 gap)",
+    "page_quote": "In total, there is a cybersecurity workforce gap of approximately 4.8 million. That’s a 41% increase on 2022’s 3.4 million and a 20% increase on 2023’s 4 million.",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   },
+   {
+    "value": "5.5 million workforce, up 0.1% from 2023",
+    "page_quote": "According to the most recent estimates, there are approximately 5.5 million people currently working in cybersecurity worldwide. That total represents just a 0.1% increase from 2023 (but a 17% increase since 2022).",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   },
+   {
+    "value": "67% of organizations report a shortage",
+    "page_quote": "Cybersecurity staffing scarcity remains high, with around 2 in 3 (67%) organizations reporting a shortage.",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   },
+   {
+    "value": "US gap 504,000 (2024)",
+    "page_quote": "US | 483k | 504k | ↑ 4.4% (workforce gap by country table, 2023 / 2024)",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   }
+  ],
+  "image": "social/out/2026-10-15-cybersecurity-workforce-gap.png",
+  "copy": {
+   "linkedin": "The global cybersecurity workforce gap reached 4.8 million in 2024.\n\n• The gap was 3.4 million in 2022 and 4 million in 2023.\n• The global cybersecurity workforce is 5.5 million, up just 0.1% from 2023.\n• 67% of organizations report a cybersecurity staffing shortage.\n• The US workforce gap is 504,000.\n\nSource: ISC2 Cybersecurity Workforce Study, 2024, global data.\n\nMore cybersecurity workforce data from Programs.com:\nhttps://programs.com/resources/total-cybersecurity-pros/",
+   "facebook": "The global cybersecurity workforce gap reached 4.8 million in 2024, up from 3.4 million in 2022. Over the same year the global cybersecurity workforce grew just 0.1%, to 5.5 million (ISC2 Cybersecurity Workforce Study, 2024).\n\nhttps://programs.com/resources/total-cybersecurity-pros/",
+   "instagram": "The global cybersecurity workforce gap reached 4.8 million in 2024.\n\nThe gap was 3.4 million in 2022.\nThe global cybersecurity workforce is 5.5 million, up just 0.1% from 2023.\n\nSource: ISC2 Cybersecurity Workforce Study, 2024.\n\nFull breakdown at programs.com.\n\n#cybersecurity #infosec #cybersecurityjobs #techcareers #workforce"
+  },
+  "buffer": {
+   "linkedin": "6ad0cd9d5d6d63b3aef89c74",
+   "facebook": "6ad0cdaa8913aa90c397cf6d",
+   "instagram": "6ad0cdb3e8416cbf0cfb3eb6"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; last 6 were 4 stat, 1 wildcard, 1 degree, so a stat post. Picked cybersecurity to break the AI-education/data-center run. Added an \"M\" suffix to num_html in render.py (accent-coloured like %). Page inconsistency: top-stats list says US has 'over 1.3 million' (CyberSeek 1,337,400) and also 'nearly 1.3 million' (ISC2 1.299M) without naming the different sources; also 'ICS2' typo and 'more than one-third (41%)'. Not used in the post."
  }
 ]
