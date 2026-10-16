@@ -1,0 +1,9 @@
+{
+ "template": "stat",
+ "eyebrow": "AI and jobs",
+ "num": "55%",
+ "label": "of leaders who cut staff for AI say it was the wrong decision",
+ "viz": {"type": "waffle", "pct": 55},
+ "note": "**39%** of leaders surveyed have made layoffs for AI",
+ "source": "Source: Orgvue survey of senior decision-makers"
+}
