@@ -797,5 +797,51 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; last 6 were 4 stat, 1 wildcard, 1 degree, so a stat post. Picked cybersecurity to break the AI-education/data-center run. Added an \"M\" suffix to num_html in render.py (accent-coloured like %). Page inconsistency: top-stats list says US has 'over 1.3 million' (CyberSeek 1,337,400) and also 'nearly 1.3 million' (ISC2 1.299M) without naming the different sources; also 'ICS2' typo and 'more than one-third (41%)'. Not used in the post."
+ },
+ {
+  "date": "2026-10-16",
+  "type": "stat",
+  "slug": "ai-layoff-regret",
+  "source_url": "https://programs.com/resources/ai-job-cut-reversals/",
+  "headline": "55% of business leaders who cut staff to bring in AI say it was the wrong decision",
+  "figures": [
+   {
+    "value": "55% say AI-driven cuts were the wrong decision",
+    "page_quote": "However, of those who chose to make the leap, more than half (55%) have said it was the wrong choice.",
+    "primary_source": "Orgvue (https://www.orgvue.com/news/55-of-businesses-admit-wrong-decisions-in-making-employees-redundant-when-bringing-ai-into-the-workforce/); page could not be opened (WebFetch permission prompt unanswered); WebSearch titles (Orgvue, HR Dive, HRreview, HR Reporter) corroborate 55% of leaders calling AI redundancies wrong/a mistake"
+   },
+   {
+    "value": "39% have made layoffs in favor of AI",
+    "page_quote": "According to a survey of 1,000 senior decision-makers, around 2 in 5 (39%) have made layoffs in favor of using AI.",
+    "primary_source": "Orgvue (https://www.orgvue.com/news/55-of-businesses-admit-wrong-decisions-in-making-employees-redundant-when-bringing-ai-into-the-workforce/); page could not be opened (WebFetch permission prompt unanswered); WebSearch titles (Orgvue, HR Dive, HRreview, HR Reporter) corroborate 55% of leaders calling AI redundancies wrong/a mistake"
+   },
+   {
+    "value": "30.9% spent more on rehiring than they saved",
+    "page_quote": "In fact, 30.9% of organizations that brought back employees spent more doing so than they saved from the original cut.",
+    "primary_source": "Forrester AI Job Impact Forecast US 2025-2030 (https://www.forrester.com/report/the-forrester-ai-job-impact-forecast-us-2025-2030/RES190071), as named on the page; not opened (paywalled report, WebFetch prompts unanswered)"
+   },
+   {
+    "value": "10 companies tracked: 5 reversals, 5 pullbacks",
+    "page_quote": "Tracker status: Companies tracked 10 / Reversals 5 / Pullbacks 5 (Last updated Oct 7, 2026)",
+    "primary_source": "Programs.com AI Layoff Reversal Tracker"
+   }
+  ],
+  "image": "social/out/2026-10-16-ai-layoff-regret.png",
+  "copy": {
+   "linkedin": "55% of business leaders who cut staff to bring in AI say it was the wrong decision.\n\n• 39% of the leaders surveyed have made layoffs in favor of using AI.\n• 30.9% of organizations that brought back employees spent more on rehiring than they saved from the original cut.\n• Our AI Layoff Reversal Tracker lists 10 companies: 5 reversals and 5 pullbacks.\n\nSource: Orgvue survey of senior decision-makers (55%, 39%); Forrester (30.9%).\n\nEvery company that rehired workers replaced by AI:\nhttps://programs.com/resources/ai-job-cut-reversals/",
+   "facebook": "55% of business leaders who cut staff to bring in AI say it was the wrong decision, according to an Orgvue survey of senior decision-makers. Our AI Layoff Reversal Tracker now lists 10 companies that reversed or pulled back on replacing workers with AI.\n\nhttps://programs.com/resources/ai-job-cut-reversals/",
+   "instagram": "55% of business leaders who cut staff to bring in AI say it was the wrong decision.\n\n39% of the leaders surveyed have made layoffs in favor of using AI.\n30.9% of organizations that brought back employees spent more on rehiring than they saved.\n\nSource: Orgvue survey of senior decision-makers (55%, 39%); Forrester (30.9%).\n\nFull breakdown at programs.com.\n\n#AI #layoffs #futureofwork #artificialintelligence #hiring"
+  },
+  "buffer": {
+   "linkedin": "6ad21f07f24c5797a23d905f",
+   "facebook": "6ad21f14b948bf9e9d9603e8",
+   "instagram": "6ad21f1b63c879f9585a8ed2"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; window of 7 needed a 5th stat post. First use of the AI layoff reversals tracker (post 8627, about 25,000 characters inline). Topic AI and jobs, breaking from yesterday's cybersecurity. The page gives no year for the Orgvue survey, so the source line omits a year; it also says '1,000 senior decision-makers', which was left out of the copy because the exact sample could not be checked. Page issues (not used): the 30.9% / 42.37% / 26.69% rehiring-cost split is credited to Forrester while the surrounding rehiring data is from Careerminds, worth checking; methodology grammar 'but haven't actually rehired' and an unclosed parenthesis in the Dates paragraph; the 55% charts reuse files named 'Open-Cybersecurity-Jobs-*.png'. All three Buffer posts sent within about 25 seconds."
  }
 ]
