@@ -1,0 +1,69 @@
+{
+ "template": "stat",
+ "eyebrow": "AI deepfake laws",
+ "num": "47",
+ "label": "states have enacted laws targeting AI deepfakes",
+ "viz": {
+  "type": "statemap",
+  "states": {
+   "Alabama": "signal",
+   "Arkansas": "signal",
+   "Arizona": "signal",
+   "California": "signal",
+   "Colorado": "signal",
+   "Connecticut": "signal",
+   "Delaware": "signal",
+   "Florida": "signal",
+   "Georgia": "signal",
+   "Hawaii": "signal",
+   "Iowa": "signal",
+   "Idaho": "signal",
+   "Illinois": "signal",
+   "Indiana": "signal",
+   "Kansas": "signal",
+   "Kentucky": "signal",
+   "Louisiana": "signal",
+   "Massachusetts": "signal",
+   "Maryland": "signal",
+   "Maine": "signal",
+   "Michigan": "signal",
+   "Minnesota": "signal",
+   "Mississippi": "signal",
+   "Montana": "signal",
+   "North Carolina": "signal",
+   "North Dakota": "signal",
+   "Nebraska": "signal",
+   "New Hampshire": "signal",
+   "New Jersey": "signal",
+   "New Mexico": "signal",
+   "Nevada": "signal",
+   "New York": "signal",
+   "Oklahoma": "signal",
+   "Oregon": "signal",
+   "Pennsylvania": "signal",
+   "Rhode Island": "signal",
+   "South Carolina": "signal",
+   "South Dakota": "signal",
+   "Tennessee": "signal",
+   "Texas": "signal",
+   "Utah": "signal",
+   "Virginia": "signal",
+   "Vermont": "signal",
+   "Washington": "signal",
+   "Wisconsin": "signal",
+   "West Virginia": "signal",
+   "Wyoming": "signal"
+  },
+  "legend": [
+   {
+    "cls": "signal",
+    "text": "Deepfake law enacted (47)"
+   },
+   {
+    "cls": "",
+    "text": "Not on the list"
+   }
+  ]
+ },
+ "source": "Source: Programs.com Deepfake Legislation Database, June 2026"
+}
