@@ -1,0 +1,17 @@
+{
+ "template": "stat",
+ "eyebrow": "Tech majors",
+ "num": "36%",
+ "label": "of recent computer programming grads are unemployed",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "Computer programming", "value": 36, "display": "36%", "hi": true},
+   {"label": "Computer engineering", "value": 21, "display": "21%"},
+   {"label": "Computer science", "value": 15, "display": "15%"},
+   {"label": "Data analytics", "value": 5, "display": "5%"}
+  ]
+ },
+ "note": "Share of graduates **unemployed and seeking work**",
+ "source": "Source: NACE, class of 2024 graduates, six months out"
+}
