@@ -1,888 +1,944 @@
 [
-  {
-    "date": "2026-10-05",
-    "type": "stat",
-    "slug": "students-using-ai",
-    "source_url": "https://programs.com/resources/students-using-ai/",
-    "headline": "92% of students now use AI in their studies, up from 66% one year earlier",
-    "figures": [
-      {
-        "value": "92%",
-        "page_quote": "According to the latest available data, 92% of students use AI in their studies.",
-        "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The proportion of students reporting using any AI tool has jumped from 66% last year to 92% this year.\""
-      },
-      {
-        "value": "66%",
-        "page_quote": "The study also showed a sharp increase from 66% to 92% in the space of a year, underscoring how quickly generative technologies have been integrated into academic life.",
-        "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed, same sentence as above."
-      },
-      {
-        "value": "88%, up from 53%",
-        "page_quote": "The same survey revealed that nearly 9 in 10 students (88%) acknowledged using generative AI tools like ChatGPT for tests in 2025, compared to just over half (53%) in 2024.",
-        "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The proportion of students using generative AI tools such as ChatGPT for assessments has jumped from 53% last year to 88% this year.\""
-      },
-      {
-        "value": "53%",
-        "page_quote": "Conversely, being accused of cheating (53%) is the main reason students are reluctant to use AI.",
-        "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The main factors putting students off using AI are being accused of cheating (said by 53% of respondents) and getting false results or 'hallucinations' (51%).\""
-      },
-      {
-        "value": "51%",
-        "page_quote": "Getting false results/hallucinations | 51% (row 2 of the table \"most common reasons students avoid using AI tools\")",
-        "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed, same sentence as the 53% figure."
-      }
-    ],
-    "image": "social/out/2026-10-05-students-using-ai.png",
-    "alt_text": "92% of students now use AI in their studies, up from 66% one year earlier. Source: HEPI survey of UK undergraduates, 2025.",
-    "copy": {
-      "linkedin": "92% of students now use AI in their studies.\n\nOne year earlier, it was 66%.\n\nFrom the same survey:\n• 88% have used generative AI for assessments, up from 53%\n• 53% say the risk of being accused of cheating puts them off\n• 51% say the same about false results and hallucinations\n\nSource: Higher Education Policy Institute, 2025 survey of UK undergraduates.\n\nThe full breakdown, with every source: https://programs.com/resources/students-using-ai/",
-      "facebook": "92% of students now use AI in their studies, up from 66% a year earlier (HEPI survey of UK undergraduates, 2025).\n\nThe full breakdown: https://programs.com/resources/students-using-ai/",
-      "instagram": "92% of students now use AI in their studies. One year earlier: 66%.\n\n88% have used generative AI for assessments, up from 53%.\n\nSource: Higher Education Policy Institute, 2025 survey of UK undergraduates. Full breakdown at programs.com.\n\n#AIinEducation #HigherEd #GenerativeAI #EdTech #CollegeStudents"
-    },
-    "buffer": {
-      "linkedin": "6ac38dac32f9ebfdb1cec1fc",
-      "facebook": "6ac38db81cf337b59da4cd0a",
-      "instagram": "6ac38dc01cf337b59da4cf4d"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "From the queue. Page (post 793) last modified 2026-09-29. Prepared copy said 'survey of 1,041 UK undergraduates'; 1,041 is in the HEPI report but not on the Programs.com page, so it was removed from the LinkedIn copy. The page says the 88% used generative AI 'for tests'; HEPI says 'for assessments', so the post uses 'assessments'. The page does not say the HEPI sample is UK undergraduates; the copy and image source line do. Prepared spec and PNG were already in the repo; re-rendered today, identical output."
+ {
+  "date": "2026-10-05",
+  "type": "stat",
+  "slug": "students-using-ai",
+  "source_url": "https://programs.com/resources/students-using-ai/",
+  "headline": "92% of students now use AI in their studies, up from 66% one year earlier",
+  "figures": [
+   {
+    "value": "92%",
+    "page_quote": "According to the latest available data, 92% of students use AI in their studies.",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The proportion of students reporting using any AI tool has jumped from 66% last year to 92% this year.\""
+   },
+   {
+    "value": "66%",
+    "page_quote": "The study also showed a sharp increase from 66% to 92% in the space of a year, underscoring how quickly generative technologies have been integrated into academic life.",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed, same sentence as above."
+   },
+   {
+    "value": "88%, up from 53%",
+    "page_quote": "The same survey revealed that nearly 9 in 10 students (88%) acknowledged using generative AI tools like ChatGPT for tests in 2025, compared to just over half (53%) in 2024.",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The proportion of students using generative AI tools such as ChatGPT for assessments has jumped from 53% last year to 88% this year.\""
+   },
+   {
+    "value": "53%",
+    "page_quote": "Conversely, being accused of cheating (53%) is the main reason students are reluctant to use AI.",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed: \"The main factors putting students off using AI are being accused of cheating (said by 53% of respondents) and getting false results or 'hallucinations' (51%).\""
+   },
+   {
+    "value": "51%",
+    "page_quote": "Getting false results/hallucinations | 51% (row 2 of the table \"most common reasons students avoid using AI tools\")",
+    "primary_source": "Higher Education Policy Institute, Student Generative AI Survey 2025 (1,041 full-time UK undergraduates, polled by Savanta, published 26 Feb 2025): https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/ — confirmed, same sentence as the 53% figure."
+   }
+  ],
+  "image": "social/out/2026-10-05-students-using-ai.png",
+  "alt_text": "92% of students now use AI in their studies, up from 66% one year earlier. Source: HEPI survey of UK undergraduates, 2025.",
+  "copy": {
+   "linkedin": "92% of students now use AI in their studies.\n\nOne year earlier, it was 66%.\n\nFrom the same survey:\n• 88% have used generative AI for assessments, up from 53%\n• 53% say the risk of being accused of cheating puts them off\n• 51% say the same about false results and hallucinations\n\nSource: Higher Education Policy Institute, 2025 survey of UK undergraduates.\n\nThe full breakdown, with every source: https://programs.com/resources/students-using-ai/",
+   "facebook": "92% of students now use AI in their studies, up from 66% a year earlier (HEPI survey of UK undergraduates, 2025).\n\nThe full breakdown: https://programs.com/resources/students-using-ai/",
+   "instagram": "92% of students now use AI in their studies. One year earlier: 66%.\n\n88% have used generative AI for assessments, up from 53%.\n\nSource: Higher Education Policy Institute, 2025 survey of UK undergraduates. Full breakdown at programs.com.\n\n#AIinEducation #HigherEd #GenerativeAI #EdTech #CollegeStudents"
   },
-  {
-    "date": "2026-10-06",
-    "type": "stat",
-    "slug": "data-center-moratoriums",
-    "source_url": "https://programs.com/resources/data-center-moratoriums-tracker/",
-    "headline": "45 states have an active data center ban or moratorium in place",
-    "figures": [
-      {
-        "value": "45",
-        "page_quote": "45 States Have an Active Data Center Ban or Moratorium In Place (heading), followed by: Note that this count includes local (city/municipal) bans as well as statewide bans (ie., New York’s Executive Order No. 62).",
-        "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. Checked against the page's state table: 1 statewide + 5 active with a bill in play + 39 active = 45."
-      },
-      {
-        "value": "1 (New York)",
-        "page_quote": "Statewide moratorium in force (1) New York",
-        "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
-      },
-      {
-        "value": "5 (Michigan, North Carolina, Oregon, Pennsylvania, Virginia)",
-        "page_quote": "5 States Are Currently Considering Additional Data Center Moratoriums (heading). Michigan, North Carolina, Oregon, Pennsylvania, and Virginia all have bills pending or pending votes.",
-        "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
-      },
-      {
-        "value": "36%; Ohio 84, Michigan 81, Georgia 54, North Carolina 51",
-        "page_quote": "Four States Account for 36% of All Local Moratoriums (heading). Ohio (84), Michigan (81), Georgia (54), and North Carolina (51) have all adopted a relatively large number of local data center moratoriums and bans.",
-        "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. Checked: the state table's local counts sum to 747; 270 / 747 = 36%."
-      },
-      {
-        "value": "2 (Alaska, West Virginia)",
-        "page_quote": "No restrictions on record (2) Alaska West Virginia",
-        "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
-      },
-      {
-        "value": "3 (Delaware, Hawaii, Wyoming), image legend only",
-        "page_quote": "Considered, stalled, or lapsed (3) Delaware Hawaii Wyoming",
-        "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
-      },
-      {
-        "value": "44, image legend only",
-        "page_quote": "Active local ban or moratorium, plus a statewide moratorium bill in play (5) ... Active ban or moratorium in place, no statewide bill (39)",
-        "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. 5 + 39 = 44 states with a local ban or moratorium and no statewide moratorium in force."
-      }
-    ],
-    "image": "social/out/2026-10-06-data-center-moratoriums.png",
-    "alt_text": "45 states have an active data center ban or moratorium in place. A state tile map shows New York with a statewide moratorium, 44 states with a local ban or moratorium, 3 states where one was considered, stalled or lapsed, and Alaska and West Virginia with none on record. Source: Programs.com Data Center Moratoriums Tracker, October 2026.",
-    "copy": {
-      "linkedin": "45 states now have an active data center ban or moratorium in place.\n\nThe count includes local bans as well as statewide ones.\n\n• New York is the only state with a statewide moratorium in force\n• 5 states are considering a statewide moratorium: Michigan, North Carolina, Oregon, Pennsylvania and Virginia\n• Ohio (84), Michigan (81), Georgia (54) and North Carolina (51) account for 36% of all local moratoriums\n• Alaska and West Virginia are the only states with no restrictions on record\n\nSource: Programs.com Data Center Moratoriums Tracker, October 2026.\n\nThe state-by-state table and every local measure: https://programs.com/resources/data-center-moratoriums-tracker/",
-      "facebook": "45 states now have an active data center ban or moratorium in place, counting local bans as well as statewide ones. Alaska and West Virginia are the only states with no restrictions on record. Source: Programs.com Data Center Moratoriums Tracker, October 2026.\n\nhttps://programs.com/resources/data-center-moratoriums-tracker/",
-      "instagram": "45 states now have an active data center ban or moratorium in place. The count includes local bans as well as statewide ones.\n\nNew York is the only state with a statewide moratorium in force. Alaska and West Virginia are the only states with no restrictions on record.\n\nSource: Programs.com Data Center Moratoriums Tracker, October 2026. Full breakdown at programs.com.\n\n#DataCenters #AIInfrastructure #EnergyPolicy #LocalGovernment #TechPolicy"
-    },
-    "buffer": {
-      "linkedin": "6ac4eeb8232f507fd697c751",
-      "facebook": "6ac4eec44d56bcf238f626ed",
-      "instagram": "6ac4eeca83608c2615ab84ab"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "From the queue (angle only, no prepared copy or spec). Page is post 7912, last modified 2026-10-04. All 50 map tiles were checked by script against the Status column of the page's state table. Page wording issues, not used in the post: the heading 'Only 2 States Have No Statewide Data Center Restrictions Currently on Record' says 'statewide' but means no restrictions at any level (most states have no statewide restriction), and the sentence under it says Alaska and West Virginia are the only states with no local or state moratoriums while the table also shows 0 local moratoriums for Delaware, Hawaii and Wyoming (listed as considered / lapsed). The post uses the page's category label 'no restrictions on record' instead. The H2 anchor ids still carry old numbers (41, 4, 42%). Tracker may return after 10 entries with a different angle (for example the 294 local measures passed Jan-Jul 2026, or the 18 Ohio ballot measures)."
+  "buffer": {
+   "linkedin": "6ac38dac32f9ebfdb1cec1fc",
+   "facebook": "6ac38db81cf337b59da4cd0a",
+   "instagram": "6ac38dc01cf337b59da4cf4d"
   },
-  {
-    "date": "2026-10-07",
-    "type": "degree",
-    "slug": "online-masters-ai-ranking",
-    "source_url": "https://programs.com/programs/online-masters-in-ai/",
-    "headline": "We just updated our ranking of the 25 best online master's in AI programs",
-    "figures": [
-      {
-        "value": "25",
-        "page_quote": "Top 25 Online Master’s In AI Programs for 2026 (H1); Top 25 Online AI Master’s Degree Programs (2026) (H2)",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "Updated October 2026 / \"We just updated\"",
-        "page_quote": "Last Updated: October 5, 2026",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source. Visible date line under the H1, 2 days before this post."
-      },
-      {
-        "value": "Ranking criteria",
-        "page_quote": "The six weighted dimensions are: Admissions at 10 percent, measuring selectivity and entry pathways. Affordability at 15 percent, assessing total tuition and pricing transparency. Research and Academic Quality at 25 percent, evaluating institutional reputation and employer signal. Accessibility at 15 percent, focusing on online delivery and flexibility. Curriculum Relevance at 20 percent, examining coverage of modern AI topics and deployment skills. Hands-On Practice at 15 percent, reviewing capstones, applied projects, and lab experience.",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#1 University of Texas at Austin",
-        "page_quote": "1 | University of Texas at Austin | Best for: Academic quality, affordability",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#2 Purdue University",
-        "page_quote": "2 | Purdue University | Best for: Academic quality",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#3 University of Colorado Boulder",
-        "page_quote": "3 | University of Colorado Boulder | Best for: Admissions",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#4 Penn State World Campus",
-        "page_quote": "4 | Penn State World Campus | Best for: Stackable credentials",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#5 University of Pennsylvania",
-        "page_quote": "5 | University of Pennsylvania | Best for: Affordable Ivy League option",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#6 University of Louisville",
-        "page_quote": "6 | University of Louisville | Best for: Medical AI practitioners",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#7 Concordia University, St. Paul",
-        "page_quote": "7 | Concordia University-Saint Paul | Best for: Affordability and accessibility (heading as on the page; the post uses \"Concordia University, St. Paul\")",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#8 Texas A&M University",
-        "page_quote": "8 | Texas A&M University | Best for: Academic quality",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#9 University of San Diego",
-        "page_quote": "9 | University of San Diego | Best for: Graduate outcomes",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#10 Johns Hopkins University",
-        "page_quote": "10 | Johns Hopkins University | Best for: Academic quality, degree customization",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#11 Maryville University",
-        "page_quote": "11 | Maryville University | Best for: Admissions, hands-on practice",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#12 University of Illinois Chicago",
-        "page_quote": "12 | University of Illinois–Chicago | Best for: Engineering focus (heading as on the page; the post uses \"University of Illinois Chicago\")",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#13 Western Governors University",
-        "page_quote": "13 | Western Governors University | Best for: Affordability, embedded certifications",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#14 Stevens Institute of Technology",
-        "page_quote": "14 | Stevens Institute of Technology | Best for: Degree customization, hands-on practice",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#15 George Washington University",
-        "page_quote": "15 | George Washington University | Best for: Accessibility, engineering focus",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#16 Houston Christian University",
-        "page_quote": "16 | Houston Christian University | Best for: Affordability, AI ethics",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#17 University of Maryland, Baltimore County",
-        "page_quote": "17 | University of Maryland–Baltimore County | Best for: Focus wider than AI (heading as on the page; the post uses \"University of Maryland, Baltimore County\")",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#18 University of Tennessee, Knoxville",
-        "page_quote": "18 | University of Tennessee–Knoxville | Best for: Accessibility (heading as on the page; the post uses \"University of Tennessee, Knoxville\")",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#19 Drexel University",
-        "page_quote": "19 | Drexel University | Best for: Curriculum coverage",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#20 Stanford University",
-        "page_quote": "20 | Stanford University | Best for: Academic quality",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#21 University of Maine",
-        "page_quote": "21 | University of Maine | Best for: Accessibility and affordability",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#22 New Jersey Institute of Technology",
-        "page_quote": "22 | New Jersey Institute of Technology | Best for: STEM focus, electives",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#23 Southern Methodist University",
-        "page_quote": "23 | Southern Methodist University | Best for: Computer science with AI focus",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#24 Georgetown University",
-        "page_quote": "24 | Georgetown University | Best for: Non-technical candidates",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      },
-      {
-        "value": "#25 New York University",
-        "page_quote": "25 | New York University | Best for: Interdisciplinary study",
-        "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
-      }
-    ],
-    "image": "social/out/2026-10-07-online-masters-ai-ranking.png",
-    "alt_text": "Top 10 online master's in AI programs: 1 University of Texas at Austin, 2 Purdue University, 3 University of Colorado Boulder, 4 Penn State World Campus, 5 University of Pennsylvania, 6 University of Louisville, 7 Concordia University, St. Paul, 8 Texas A&M University, 9 University of San Diego, 10 Johns Hopkins University. Top 10 of 25, updated October 2026.",
-    "copy": {
-      "linkedin": "We just updated our ranking of the 25 best online master's in AI programs.\n\nHere is the full list, and what each program is best for:\n\n1. University of Texas at Austin: academic quality, affordability\n2. Purdue University: academic quality\n3. University of Colorado Boulder: admissions\n4. Penn State World Campus: stackable credentials\n5. University of Pennsylvania: affordable Ivy League option\n6. University of Louisville: medical AI practitioners\n7. Concordia University, St. Paul: affordability and accessibility\n8. Texas A&M University: academic quality\n9. University of San Diego: graduate outcomes\n10. Johns Hopkins University: academic quality, degree customization\n11. Maryville University: admissions, hands-on practice\n12. University of Illinois Chicago: engineering focus\n13. Western Governors University: affordability, embedded certifications\n14. Stevens Institute of Technology: degree customization, hands-on practice\n15. George Washington University: accessibility, engineering focus\n16. Houston Christian University: affordability, AI ethics\n17. University of Maryland, Baltimore County: focus wider than AI\n18. University of Tennessee, Knoxville: accessibility\n19. Drexel University: curriculum coverage\n20. Stanford University: academic quality\n21. University of Maine: accessibility and affordability\n22. New Jersey Institute of Technology: STEM focus, electives\n23. Southern Methodist University: computer science with AI focus\n24. Georgetown University: non-technical candidates\n25. New York University: interdisciplinary study\n\nRanked on research and academic quality, curriculum relevance, affordability, accessibility, hands-on practice and admissions.\n\nFull profiles, tuition and methodology: https://programs.com/programs/online-masters-in-ai/",
-      "facebook": "We just updated our ranking of the 25 best online master's in AI programs. The top 10:\n\n1. University of Texas at Austin\n2. Purdue University\n3. University of Colorado Boulder\n4. Penn State World Campus\n5. University of Pennsylvania\n6. University of Louisville\n7. Concordia University, St. Paul\n8. Texas A&M University\n9. University of San Diego\n10. Johns Hopkins University\n\nAll 25, with tuition and methodology: https://programs.com/programs/online-masters-in-ai/",
-      "instagram": "We just updated our ranking of the 25 best online master's in AI programs. The top 10, and what each is best for:\n\n1. UT Austin: academic quality, affordability\n2. Purdue: academic quality\n3. CU Boulder: admissions\n4. Penn State World Campus: stackable credentials\n5. Penn: affordable Ivy League option\n6. Louisville: medical AI practitioners\n7. Concordia, St. Paul: affordability and accessibility\n8. Texas A&M: academic quality\n9. University of San Diego: graduate outcomes\n10. Johns Hopkins: academic quality, degree customization\n\nAll 25 at programs.com.\n\n#ArtificialIntelligence #MastersDegree #OnlineLearning #AIDegree #GradSchool"
-    },
-    "buffer": {
-      "linkedin": "6ac641d75a41834aa461292a",
-      "facebook": "6ac641e56553ee16394f1401",
-      "instagram": "6ac641eb6553ee16394f14d9"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "From the queue (prepared copy, spec and alt text). Page 5884, visible 'Last Updated: October 5, 2026', so the 'We just updated' opening applies. All 25 ranks, names and 'Best for' lines were re-read from the live page by script (REST content and the rendered page agree). Corrections to the prepared copy: #17 best-for is 'Focus wider than AI' on the page (prepared: 'a focus wider than AI'); #23 is 'Computer science with AI focus' (prepared: 'an AI focus'); the criteria line now says 'research and academic quality', the page's name for that dimension. School names: four H3 headings on the page use hyphenated forms (Concordia University-Saint Paul, University of Illinois–Chicago, University of Maryland–Baltimore County, University of Tennessee–Knoxville). The post uses the schools' official names. 'Concordia University, St. Paul' and 'University of Illinois Chicago' appear in that form in the page's body text; 'University of Maryland, Baltimore County' and 'University of Tennessee, Knoxville' do not (the page has only the dash forms and 'UMBC' / 'UTK'), so those two differ from the page in punctuation only. The page is inconsistent between headings and body on these names; not a factual error. Image rendered from the prepared spec unchanged (renamed from planned- to the dated name). The queue's later wildcard (UT Austin vs Stanford tuition) uses this same page; when it comes up, weigh it against the 21-entry no-repeat rule."
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
   },
-  {
-    "date": "2026-10-08",
-    "type": "stat",
-    "slug": "ai-layoffs",
-    "source_url": "https://programs.com/resources/ai-layoffs/",
-    "headline": "181,351 employees have been affected by AI-related layoffs announced so far in 2026",
-    "figures": [
-      {
-        "value": "181,351 (2026, January to October, across 49 companies)",
-        "page_quote": "Chart alt text on the page: \"181,351 employees affected by AI-related layoffs announced in 2026, January to October, across 49 companies, 20% above 2025's full-year total\". Visible H2: \"More than 180,000 employees have been affected by AI-related layoffs in 2026\"",
-        "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
-      },
-      {
-        "value": "20% above 2025's full-year total",
-        "page_quote": "Chart alt text: \"...20% above 2025's full-year total\". Visible text: \"Just ten months into the year, that’s already about 20% more than 2025’s full-year total.\"",
-        "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
-      },
-      {
-        "value": "150,606 (2025) and 42,698 (2024)",
-        "page_quote": "Chart alt text: \"Bar chart: employees affected by AI-related layoffs by year of announcement — 42,698 in 2024, 150,606 in 2025, 181,351 in January to October 2026\". Visible text: \"In 2024, announcements from eight companies covered approximately 43,000 AI-related job cuts\" and \"That number more than tripled in 2025, to over 150,000.\"",
-        "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
-      },
-      {
-        "value": "At least 11 companies with AI-related layoffs affecting 10,000+ employees each, since 2024",
-        "page_quote": "Since 2024, at least 11 companies have announced AI-related layoffs affecting 10,000+ employees each.",
-        "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
-      },
-      {
-        "value": "Method: company disclosures, earnings calls and media reports where AI or automation was named as a driver",
-        "page_quote": "We reviewed hundreds of company disclosures, earnings calls, and major media reporting to identify layoffs where AI or automation was directly named as a driver.",
-        "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
-      }
-    ],
-    "image": "social/out/2026-10-08-ai-layoffs.png",
-    "alt_text": "181,351 employees affected by AI-related layoffs announced in 2026 so far. Bar chart by year of announcement: 42,698 in 2024, 150,606 in 2025 and 181,351 in January to October 2026, which is 20% above 2025's full-year total. Source: Programs.com AI layoffs tracker, October 2026.",
-    "copy": {
-      "linkedin": "181,351 employees have been affected by AI-related layoffs announced so far in 2026.\n\n• That is 20% above the full-year total for 2025, which was 150,606.\n• The 2024 total was 42,698.\n• The 2026 figure covers January to October, across 49 companies.\n• Since 2024, at least 11 companies have announced AI-related layoffs affecting 10,000+ employees each.\n\nSource: Programs.com AI layoffs tracker, October 2026. Counted from company disclosures, earnings calls and media reports where AI or automation was named as a driver.\n\nCompany-by-company list: https://programs.com/resources/ai-layoffs/",
-      "facebook": "181,351 employees have been affected by AI-related layoffs announced so far in 2026, according to the Programs.com AI layoffs tracker. That is 20% above the full-year total for 2025.\n\nhttps://programs.com/resources/ai-layoffs/",
-      "instagram": "181,351 employees have been affected by AI-related layoffs announced so far in 2026.\n\nThat is 20% above the full-year total for 2025, which was 150,606. The 2024 total was 42,698.\n\nThe 2026 figure covers January to October, across 49 companies.\n\nSource: Programs.com AI layoffs tracker, October 2026.\n\nFull breakdown at programs.com.\n\n#AI #Layoffs #ArtificialIntelligence #FutureOfWork #TechJobs"
-    },
-    "buffer": {
-      "linkedin": "6ac79217d1ababbf88af44e3",
-      "facebook": "6ac7922408d405a9e70017a0",
-      "instagram": "6ac79229daf7bb7cba203993"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "From queue item 1 (ai-layoffs). The exact totals (181,351; 150,606; 42,698; 49 companies) are in the alt text of the page's two charts, which were re-uploaded at 12:34 and 12:35 UTC today with the page saved at 12:36 UTC; the visible body text gives the rounded forms (more than 180,000; over 150,000; approximately 43,000). The chart PNGs themselves could not be opened from this run (the shell cannot reach programs.com), so the exact figures rest on the alt text and their agreement with the visible text. A rough sum of the 2026 portions of the company entries comes to about 181,000, in line with the total."
+  "notes": "From the queue. Page (post 793) last modified 2026-09-29. Prepared copy said 'survey of 1,041 UK undergraduates'; 1,041 is in the HEPI report but not on the Programs.com page, so it was removed from the LinkedIn copy. The page says the 88% used generative AI 'for tests'; HEPI says 'for assessments', so the post uses 'assessments'. The page does not say the HEPI sample is UK undergraduates; the copy and image source line do. Prepared spec and PNG were already in the repo; re-rendered today, identical output."
+ },
+ {
+  "date": "2026-10-06",
+  "type": "stat",
+  "slug": "data-center-moratoriums",
+  "source_url": "https://programs.com/resources/data-center-moratoriums-tracker/",
+  "headline": "45 states have an active data center ban or moratorium in place",
+  "figures": [
+   {
+    "value": "45",
+    "page_quote": "45 States Have an Active Data Center Ban or Moratorium In Place (heading), followed by: Note that this count includes local (city/municipal) bans as well as statewide bans (ie., New York’s Executive Order No. 62).",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. Checked against the page's state table: 1 statewide + 5 active with a bill in play + 39 active = 45."
+   },
+   {
+    "value": "1 (New York)",
+    "page_quote": "Statewide moratorium in force (1) New York",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
+   },
+   {
+    "value": "5 (Michigan, North Carolina, Oregon, Pennsylvania, Virginia)",
+    "page_quote": "5 States Are Currently Considering Additional Data Center Moratoriums (heading). Michigan, North Carolina, Oregon, Pennsylvania, and Virginia all have bills pending or pending votes.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
+   },
+   {
+    "value": "36%; Ohio 84, Michigan 81, Georgia 54, North Carolina 51",
+    "page_quote": "Four States Account for 36% of All Local Moratoriums (heading). Ohio (84), Michigan (81), Georgia (54), and North Carolina (51) have all adopted a relatively large number of local data center moratoriums and bans.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. Checked: the state table's local counts sum to 747; 270 / 747 = 36%."
+   },
+   {
+    "value": "2 (Alaska, West Virginia)",
+    "page_quote": "No restrictions on record (2) Alaska West Virginia",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
+   },
+   {
+    "value": "3 (Delaware, Hawaii, Wyoming), image legend only",
+    "page_quote": "Considered, stalled, or lapsed (3) Delaware Hawaii Wyoming",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source."
+   },
+   {
+    "value": "44, image legend only",
+    "page_quote": "Active local ban or moratorium, plus a statewide moratorium bill in play (5) ... Active ban or moratorium in place, no statewide bill (39)",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-10-04); no third-party source. 5 + 39 = 44 states with a local ban or moratorium and no statewide moratorium in force."
+   }
+  ],
+  "image": "social/out/2026-10-06-data-center-moratoriums.png",
+  "alt_text": "45 states have an active data center ban or moratorium in place. A state tile map shows New York with a statewide moratorium, 44 states with a local ban or moratorium, 3 states where one was considered, stalled or lapsed, and Alaska and West Virginia with none on record. Source: Programs.com Data Center Moratoriums Tracker, October 2026.",
+  "copy": {
+   "linkedin": "45 states now have an active data center ban or moratorium in place.\n\nThe count includes local bans as well as statewide ones.\n\n• New York is the only state with a statewide moratorium in force\n• 5 states are considering a statewide moratorium: Michigan, North Carolina, Oregon, Pennsylvania and Virginia\n• Ohio (84), Michigan (81), Georgia (54) and North Carolina (51) account for 36% of all local moratoriums\n• Alaska and West Virginia are the only states with no restrictions on record\n\nSource: Programs.com Data Center Moratoriums Tracker, October 2026.\n\nThe state-by-state table and every local measure: https://programs.com/resources/data-center-moratoriums-tracker/",
+   "facebook": "45 states now have an active data center ban or moratorium in place, counting local bans as well as statewide ones. Alaska and West Virginia are the only states with no restrictions on record. Source: Programs.com Data Center Moratoriums Tracker, October 2026.\n\nhttps://programs.com/resources/data-center-moratoriums-tracker/",
+   "instagram": "45 states now have an active data center ban or moratorium in place. The count includes local bans as well as statewide ones.\n\nNew York is the only state with a statewide moratorium in force. Alaska and West Virginia are the only states with no restrictions on record.\n\nSource: Programs.com Data Center Moratoriums Tracker, October 2026. Full breakdown at programs.com.\n\n#DataCenters #AIInfrastructure #EnergyPolicy #LocalGovernment #TechPolicy"
   },
-  {
-    "date": "2026-10-09",
-    "type": "stat",
-    "slug": "universities-offering-ai",
-    "source_url": "https://programs.com/resources/universities-offering-ai-programs/",
-    "headline": "352 US colleges and universities now offer an AI degree",
-    "figures": [
-      {
-        "value": "352 institutions",
-        "page_quote": "According to the latest data, 352 institutions currently provide AI degrees in the US. That includes every college and university offering a bachelor’s, master’s, or doctoral program in AI or a closely related field, such as machine learning.",
-        "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
-      },
-      {
-        "value": "483 AI degree programs: 229 master's, 208 bachelor's, 46 doctoral",
-        "page_quote": "As of 2026, there are 483 AI degree programs available across US universities. Master’s degrees make up the largest share, with 229 different AI master’s programs, including a master’s degree in AI, on offer. By comparison, 208 bachelor’s programs and 46 doctoral programs in AI are currently available.",
-        "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
-      },
-      {
-        "value": "26 new AI bachelor's degree programs for 2026",
-        "page_quote": "26 new AI bachelor’s degree programs have launched or been announced for 2026.",
-        "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
-      },
-      {
-        "value": "92.1% of AI master's programs online; 22.6% of bachelor's programs",
-        "page_quote": "92.1% of AI master’s programs are available online, compared to just 22.6% of bachelor’s programs.",
-        "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
-      },
-      {
-        "value": "By region (universities): South 119, Northeast 88, Midwest 82, West 63; South 173 programs",
-        "page_quote": "The South provides the largest proportion of AI degrees in the US, with 119 universities offering 173 degrees. Region table (Region | Universities | Programs): South | 119 | 173; Northeast | 88 | 121; Midwest | 82 | 106; West | 63 | 83.",
-        "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
-      },
-      {
-        "value": "Method: bachelor's, master's and doctoral degrees in AI or a closely related field, verified against official university pages and state records",
-        "page_quote": "We count bachelor’s, master’s, and doctoral degrees in AI or a closely related field, such as machine learning. [...] Every program is verified against official university pages and state records.",
-        "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
-      }
-    ],
-    "image": "social/out/2026-10-09-universities-offering-ai.png",
-    "alt_text": "352 US colleges and universities now offer an AI degree. Bar chart by region: 119 in the South, 88 in the Northeast, 82 in the Midwest and 63 in the West. Together they offer 483 AI degree programs. Source: Programs.com AI degree program tracker, October 2026.",
-    "copy": {
-      "linkedin": "352 US colleges and universities now offer an AI degree.\n\n• Together they offer 483 AI degree programs: 229 master's, 208 bachelor's and 46 doctoral.\n• 26 new AI bachelor's degree programs have launched or been announced for 2026.\n• 92.1% of AI master's programs can be completed online, compared to 22.6% of bachelor's programs.\n• The South has the most: 119 universities offering 173 programs.\n\nSource: Programs.com AI degree program tracker, October 2026. Counts bachelor's, master's and doctoral degrees in AI or a closely related field, each verified against official university pages and state records.\n\nFull list of schools and programs: https://programs.com/resources/universities-offering-ai-programs/",
-      "facebook": "352 US colleges and universities now offer an AI degree, according to the Programs.com AI degree program tracker. Together they offer 483 AI degree programs.\n\nhttps://programs.com/resources/universities-offering-ai-programs/",
-      "instagram": "352 US colleges and universities now offer an AI degree.\n\nTogether they offer 483 AI degree programs: 229 master's, 208 bachelor's and 46 doctoral.\n\n26 new AI bachelor's degree programs have launched or been announced for 2026.\n\nSource: Programs.com AI degree program tracker, October 2026.\n\nFull breakdown at programs.com.\n\n#AI #ArtificialIntelligence #AIDegree #HigherEd #CollegeMajors"
-    },
-    "buffer": {
-      "linkedin": "6ac8e48c130133a20a0170f9",
-      "facebook": "6ac8e4976324418386b49f35",
-      "instagram": "6ac8e49d3c055a152a663f57"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "From queue item 1 (universities-offering-ai); the item named no figures, so there was nothing to correct. All figures are Programs.com's own counts. Cross-checks on the live page passed: degree levels sum to 483, regional universities sum to 352 and regional programs to 483, the online percentages match their counts, and the three program lists hold 208, 229 and 46 programs and the 2026 log holds 26 rows. Not used and worth a look on the page: the Top Stats line says undergraduate AI programs have 'increased by 600% since 2020' while the growth section says bachelor-level programs 'have increased nearly 6x since 2020' (a 6x rise is a 500% increase); the CRA source could not be opened from this run to say which is right. The page's six chart images have empty alt text."
+  "buffer": {
+   "linkedin": "6ac4eeb8232f507fd697c751",
+   "facebook": "6ac4eec44d56bcf238f626ed",
+   "instagram": "6ac4eeca83608c2615ab84ab"
   },
-  {
-    "date": "2026-10-10",
-    "type": "wildcard",
-    "slug": "ut-austin-vs-stanford",
-    "source_url": "https://programs.com/programs/online-masters-in-ai/",
-    "headline": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000",
-    "figures": [
-      {
-        "value": "#1 University of Texas at Austin, MS in Artificial Intelligence: estimated tuition $10,000, 30 credits",
-        "page_quote": "1 | University of Texas at Austin | Austin, TX | Program Summary | MS in Artificial Intelligence | Estimated tuition: $10,000 | Typical length: 1.5-2 years | Accreditation: SACSCOC | Credits: 30 | Best for: Academic quality, affordability. Body: \"Traditional R1 programs can cost upwards of $50,000, so the remarkable $10,000 cost offers a tremendous potential return on investment (ROI).\"",
-        "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
-      },
-      {
-        "value": "#20 Stanford University, MS in Computer Science (Artificial Intelligence Specialization): estimated tuition $70,000, 45 units",
-        "page_quote": "20 | Stanford University | Stanford, CA | Program Summary | MS in Computer Science (Artificial Intelligence Specialization) | Estimated tuition: $70,000 | Typical length: 1-5 years | Accreditation: WSCUC | Credits: 45 units (quarter system, ~30 credits equivalent) | Best for: Academic quality. Body: \"That’s partly because most people will struggle to justify the $70,000 cost, meaning the program is mainly viable for students whose employers have agreed to cover their tuition. There’s nothing to stop you financing it yourself, but you have to ask yourself whether it is really 7x better than the program offered by the University of Texas at Austin.\"",
-        "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
-      },
-      {
-        "value": "25 programs in the ranking",
-        "page_quote": "Top 25 Online Master’s In AI Programs for 2026 (H1); Top 25 Online AI Master’s Degree Programs (2026) (H2)",
-        "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
-      },
-      {
-        "value": "Affordability 15 percent of the score; research and academic quality 25 percent",
-        "page_quote": "Affordability at 15 percent, assessing total tuition and pricing transparency. Research and Academic Quality at 25 percent, evaluating institutional reputation and employer signal.",
-        "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
-      },
-      {
-        "value": "Tuition only; fees and materials not included",
-        "page_quote": "Please note that we have only covered the tuition cost, which does not include potential added fees and materials costs.",
-        "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
-      }
-    ],
-    "image": "social/out/2026-10-10-ut-austin-vs-stanford.png",
-    "alt_text": "$10,000: estimated tuition at the number 1 online master's in AI program in the Programs.com ranking, the University of Texas at Austin. Stanford University, ranked number 20 of 25, has an estimated tuition of $70,000. Tuition only, fees not included.",
-    "copy": {
-      "linkedin": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000.\n\n• No. 1: University of Texas at Austin, MS in Artificial Intelligence. Estimated tuition: $10,000 for 30 credits.\n• No. 20: Stanford University, MS in Computer Science with an AI specialization. Estimated tuition: $70,000 for 45 units.\n• Affordability counts for 15 percent of a program's score. Research and academic quality counts for 25 percent.\n\nSource: Programs.com ranking of the 25 best online master's in AI programs, October 2026. Figures are estimated tuition only and do not include fees or materials.\n\nAll 25 programs with tuition: https://programs.com/programs/online-masters-in-ai/",
-      "facebook": "The No. 1 program in the Programs.com ranking of online master's in AI degrees, the University of Texas at Austin, has an estimated tuition of $10,000. Stanford University, ranked No. 20, has an estimated tuition of $70,000.\n\nhttps://programs.com/programs/online-masters-in-ai/",
-      "instagram": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000.\n\nNo. 1: University of Texas at Austin, MS in Artificial Intelligence. Estimated tuition: $10,000.\n\nNo. 20: Stanford University, MS in Computer Science with an AI specialization. Estimated tuition: $70,000.\n\nSource: Programs.com ranking of the 25 best online master's in AI programs, October 2026. Tuition only, fees not included.\n\nFull breakdown at programs.com.\n\n#AI #ArtificialIntelligence #MastersDegree #OnlineDegree #HigherEd"
-    },
-    "buffer": {
-      "linkedin": "6aca349ced92ed8fa5cbdf1c",
-      "facebook": "6aca34a9f91f772d45934977",
-      "instagram": "6aca34c4b07d37ac97722e78"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "From queue item 1 (wildcard, UT Austin vs Stanford). The queue takes priority over the 21-entry no-repeat rule, so this page returns three days after the 2026-10-07 ranking post, with a different headline figure (tuition contrast, not the list). The page was modified on 2026-10-09 (visible 'Last Updated: October 9, 2026'); the rank order of all 25 is unchanged from 2026-10-07, and both tuition figures, ranks and program names were re-read from the REST content and the rendered page, which agree. Corrections to the queue angle: it said '$10,000 in total tuition'; the page's summary field is 'Estimated tuition', so the post says estimated tuition and states that fees are not included. Precision kept in the copy: Stanford's degree is an MS in Computer Science with an AI specialization, not a standalone AI degree, and 45 quarter units. The post does not call either program the cheapest or the most expensive, because neither is: Western Governors lists $8,770-$17,540 and New York University $75,750. Image: stat template, light theme, compare with two bars (14% and 100% width); the source line wraps to two lines and passes the check. Copy says 'No. 1' and 'No. 20' instead of '#1' and '#20' so no platform turns a rank into a hashtag; the image uses '#1' and '#20'. Page inconsistency found, not used in the post: the Purdue University entry (rank 2) lists 'Estimated tuition: $27,990' in its summary while its text says 'Tuition comes in at just $28,500'."
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
   },
-  {
-    "date": "2026-10-11",
-    "type": "stat",
-    "slug": "vishing",
-    "source_url": "https://programs.com/resources/voice-phishing-stats/",
-    "headline": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half",
-    "figures": [
-      {
-        "value": "442% more voice phishing attacks in the second half of 2024 than in the first half",
-        "page_quote": "H3: \"Voice phishing attacks have become 442% more common (CrowdStrike)\". Body: \"There were 442% more voice phishing attacks in the second half of 2024 compared to the first half of the year.\"",
-        "primary_source": "CrowdStrike 2025 Global Threat Report, linked from the page (https://www.crowdstrike.com/en-us/blog/crowdstrike-2025-global-threat-report-findings/). Could not be opened from this run (WebFetch permission prompt went unanswered); used on the strength of the page's named source. A web search returned third-party headlines matching the figure and period (Security Magazine: \"Vishing attacks increased by 442% in the second half of 2024\")."
-      },
-      {
-        "value": "2 vishing attacks recorded by CrowdStrike in January 2024, 93 in December 2024",
-        "page_quote": "Comparing the first and final months of 2024 shows an even more striking increase: In January 2024, CrowdStrike recorded just two vishing attacks. In December, they recorded 93.",
-        "primary_source": "CrowdStrike 2025 Global Threat Report, linked from the page (https://www.crowdstrike.com/en-us/blog/crowdstrike-2025-global-threat-report-findings/). Could not be opened from this run (WebFetch permission prompt went unanswered); used on the strength of the page's named source. A web search returned third-party headlines matching the figure and period (Security Magazine: \"Vishing attacks increased by 442% in the second half of 2024\")."
-      },
-      {
-        "value": "68% of Americans receive a scam phone call at least once a week",
-        "page_quote": "H3: \"68% of Americans receive a scam phone call at least once a week (Pew Research)\". Body: \"Almost everyone in the US with a phone has received a scam phone call at least once. Over two-thirds receive at least one weekly.\"",
-        "primary_source": "Pew Research, 'Online Scams and Attacks in America Today', 31 July 2025, linked from the page (https://www.pewresearch.org/internet/2025/07/31/online-scams-and-attacks-in-america-today/). Could not be opened from this run; used on the strength of the page's named source."
-      },
-      {
-        "value": "31% receive scam phone calls at least daily",
-        "page_quote": "H3: \"And 31% receive scam phone calls at least daily (Pew Research)\"",
-        "primary_source": "Pew Research, 'Online Scams and Attacks in America Today', 31 July 2025, linked from the page (https://www.pewresearch.org/internet/2025/07/31/online-scams-and-attacks-in-america-today/). Could not be opened from this run; used on the strength of the page's named source."
-      }
-    ],
-    "image": "social/out/2026-10-11-vishing.png",
-    "alt_text": "442% more voice phishing attacks in the second half of 2024 than in the first half. Bar chart of vishing attacks recorded by CrowdStrike: 2 in January 2024 and 93 in December 2024. Source: CrowdStrike 2025 Global Threat Report.",
-    "copy": {
-      "linkedin": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half.\n\n• CrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n• 68% of Americans receive a scam phone call at least once a week (Pew Research, 2025).\n• 31% receive scam phone calls at least daily (Pew Research, 2025).\n\nSource: CrowdStrike 2025 Global Threat Report. The 442% figure compares vishing attacks CrowdStrike recorded in the second half of 2024 with the first half.\n\nMore vishing statistics: https://programs.com/resources/voice-phishing-stats/",
-      "facebook": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half, according to CrowdStrike's 2025 Global Threat Report. CrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n\nhttps://programs.com/resources/voice-phishing-stats/",
-      "instagram": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half.\n\nCrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n\n68% of Americans receive a scam phone call at least once a week (Pew Research, 2025).\n\nSource: CrowdStrike 2025 Global Threat Report.\n\nFull breakdown at programs.com.\n\n#Cybersecurity #Vishing #Phishing #InfoSec #ScamCalls"
-    },
-    "buffer": {
-      "linkedin": "6acb87dbb07d37ac97a8247c",
-      "facebook": "6acb87e7d9cab260a7f9ea7b",
-      "instagram": "6acb87edd9cab260a7f9eae5"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "From queue item 1 (vishing; the item gave only the angle, no figures to correct). Page is post 4141, last modified 2026-05-04T11:50:47. The queue angle said 'incidents up 442%' and the page's Editor's Picks line says 'Voice phishing attacks have increased by 442% over the last year'; the body gives the actual comparison, second half of 2024 against the first half, so the copy and image state that period. No third-party source could be opened (WebFetch permission prompt unanswered for crowdstrike.com, pewresearch.org and the PIRG PDF), so every figure rests on the page showing it with a named source; figures were limited to CrowdStrike and Pew for that reason. Left out: the 2.56 billion monthly scam calls figure (the page says it also covers telemarketing and robocalls) and the $40 billion Deloitte projection (generative AI fraud in general, not vishing). The years for the sources (CrowdStrike 2025 report, Pew 2025) come from the URLs the page links to; the page text names the sources without a year. First WPVibe call failed with a relay connection deadline; the retry a minute later worked. LinkedIn returned 'sending' then 'sent' within about 20 seconds; Facebook and Instagram returned 'sent' in the create_post response."
+  "notes": "From the queue (angle only, no prepared copy or spec). Page is post 7912, last modified 2026-10-04. All 50 map tiles were checked by script against the Status column of the page's state table. Page wording issues, not used in the post: the heading 'Only 2 States Have No Statewide Data Center Restrictions Currently on Record' says 'statewide' but means no restrictions at any level (most states have no statewide restriction), and the sentence under it says Alaska and West Virginia are the only states with no local or state moratoriums while the table also shows 0 local moratoriums for Delaware, Hawaii and Wyoming (listed as considered / lapsed). The post uses the page's category label 'no restrictions on record' instead. The H2 anchor ids still carry old numbers (41, 4, 42%). Tracker may return after 10 entries with a different angle (for example the 294 local measures passed Jan-Jul 2026, or the 18 Ohio ballot measures)."
+ },
+ {
+  "date": "2026-10-07",
+  "type": "degree",
+  "slug": "online-masters-ai-ranking",
+  "source_url": "https://programs.com/programs/online-masters-in-ai/",
+  "headline": "We just updated our ranking of the 25 best online master's in AI programs",
+  "figures": [
+   {
+    "value": "25",
+    "page_quote": "Top 25 Online Master’s In AI Programs for 2026 (H1); Top 25 Online AI Master’s Degree Programs (2026) (H2)",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "Updated October 2026 / \"We just updated\"",
+    "page_quote": "Last Updated: October 5, 2026",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source. Visible date line under the H1, 2 days before this post."
+   },
+   {
+    "value": "Ranking criteria",
+    "page_quote": "The six weighted dimensions are: Admissions at 10 percent, measuring selectivity and entry pathways. Affordability at 15 percent, assessing total tuition and pricing transparency. Research and Academic Quality at 25 percent, evaluating institutional reputation and employer signal. Accessibility at 15 percent, focusing on online delivery and flexibility. Curriculum Relevance at 20 percent, examining coverage of modern AI topics and deployment skills. Hands-On Practice at 15 percent, reviewing capstones, applied projects, and lab experience.",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#1 University of Texas at Austin",
+    "page_quote": "1 | University of Texas at Austin | Best for: Academic quality, affordability",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#2 Purdue University",
+    "page_quote": "2 | Purdue University | Best for: Academic quality",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#3 University of Colorado Boulder",
+    "page_quote": "3 | University of Colorado Boulder | Best for: Admissions",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#4 Penn State World Campus",
+    "page_quote": "4 | Penn State World Campus | Best for: Stackable credentials",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#5 University of Pennsylvania",
+    "page_quote": "5 | University of Pennsylvania | Best for: Affordable Ivy League option",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#6 University of Louisville",
+    "page_quote": "6 | University of Louisville | Best for: Medical AI practitioners",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#7 Concordia University, St. Paul",
+    "page_quote": "7 | Concordia University-Saint Paul | Best for: Affordability and accessibility (heading as on the page; the post uses \"Concordia University, St. Paul\")",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#8 Texas A&M University",
+    "page_quote": "8 | Texas A&M University | Best for: Academic quality",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#9 University of San Diego",
+    "page_quote": "9 | University of San Diego | Best for: Graduate outcomes",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#10 Johns Hopkins University",
+    "page_quote": "10 | Johns Hopkins University | Best for: Academic quality, degree customization",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#11 Maryville University",
+    "page_quote": "11 | Maryville University | Best for: Admissions, hands-on practice",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#12 University of Illinois Chicago",
+    "page_quote": "12 | University of Illinois–Chicago | Best for: Engineering focus (heading as on the page; the post uses \"University of Illinois Chicago\")",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#13 Western Governors University",
+    "page_quote": "13 | Western Governors University | Best for: Affordability, embedded certifications",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#14 Stevens Institute of Technology",
+    "page_quote": "14 | Stevens Institute of Technology | Best for: Degree customization, hands-on practice",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#15 George Washington University",
+    "page_quote": "15 | George Washington University | Best for: Accessibility, engineering focus",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#16 Houston Christian University",
+    "page_quote": "16 | Houston Christian University | Best for: Affordability, AI ethics",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#17 University of Maryland, Baltimore County",
+    "page_quote": "17 | University of Maryland–Baltimore County | Best for: Focus wider than AI (heading as on the page; the post uses \"University of Maryland, Baltimore County\")",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#18 University of Tennessee, Knoxville",
+    "page_quote": "18 | University of Tennessee–Knoxville | Best for: Accessibility (heading as on the page; the post uses \"University of Tennessee, Knoxville\")",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#19 Drexel University",
+    "page_quote": "19 | Drexel University | Best for: Curriculum coverage",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#20 Stanford University",
+    "page_quote": "20 | Stanford University | Best for: Academic quality",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#21 University of Maine",
+    "page_quote": "21 | University of Maine | Best for: Accessibility and affordability",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#22 New Jersey Institute of Technology",
+    "page_quote": "22 | New Jersey Institute of Technology | Best for: STEM focus, electives",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#23 Southern Methodist University",
+    "page_quote": "23 | Southern Methodist University | Best for: Computer science with AI focus",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#24 Georgetown University",
+    "page_quote": "24 | Georgetown University | Best for: Non-technical candidates",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   },
+   {
+    "value": "#25 New York University",
+    "page_quote": "25 | New York University | Best for: Interdisciplinary study",
+    "primary_source": "Programs.com's own ranking (page 5884, last modified 2026-10-05); no third-party source."
+   }
+  ],
+  "image": "social/out/2026-10-07-online-masters-ai-ranking.png",
+  "alt_text": "Top 10 online master's in AI programs: 1 University of Texas at Austin, 2 Purdue University, 3 University of Colorado Boulder, 4 Penn State World Campus, 5 University of Pennsylvania, 6 University of Louisville, 7 Concordia University, St. Paul, 8 Texas A&M University, 9 University of San Diego, 10 Johns Hopkins University. Top 10 of 25, updated October 2026.",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 25 best online master's in AI programs.\n\nHere is the full list, and what each program is best for:\n\n1. University of Texas at Austin: academic quality, affordability\n2. Purdue University: academic quality\n3. University of Colorado Boulder: admissions\n4. Penn State World Campus: stackable credentials\n5. University of Pennsylvania: affordable Ivy League option\n6. University of Louisville: medical AI practitioners\n7. Concordia University, St. Paul: affordability and accessibility\n8. Texas A&M University: academic quality\n9. University of San Diego: graduate outcomes\n10. Johns Hopkins University: academic quality, degree customization\n11. Maryville University: admissions, hands-on practice\n12. University of Illinois Chicago: engineering focus\n13. Western Governors University: affordability, embedded certifications\n14. Stevens Institute of Technology: degree customization, hands-on practice\n15. George Washington University: accessibility, engineering focus\n16. Houston Christian University: affordability, AI ethics\n17. University of Maryland, Baltimore County: focus wider than AI\n18. University of Tennessee, Knoxville: accessibility\n19. Drexel University: curriculum coverage\n20. Stanford University: academic quality\n21. University of Maine: accessibility and affordability\n22. New Jersey Institute of Technology: STEM focus, electives\n23. Southern Methodist University: computer science with AI focus\n24. Georgetown University: non-technical candidates\n25. New York University: interdisciplinary study\n\nRanked on research and academic quality, curriculum relevance, affordability, accessibility, hands-on practice and admissions.\n\nFull profiles, tuition and methodology: https://programs.com/programs/online-masters-in-ai/",
+   "facebook": "We just updated our ranking of the 25 best online master's in AI programs. The top 10:\n\n1. University of Texas at Austin\n2. Purdue University\n3. University of Colorado Boulder\n4. Penn State World Campus\n5. University of Pennsylvania\n6. University of Louisville\n7. Concordia University, St. Paul\n8. Texas A&M University\n9. University of San Diego\n10. Johns Hopkins University\n\nAll 25, with tuition and methodology: https://programs.com/programs/online-masters-in-ai/",
+   "instagram": "We just updated our ranking of the 25 best online master's in AI programs. The top 10, and what each is best for:\n\n1. UT Austin: academic quality, affordability\n2. Purdue: academic quality\n3. CU Boulder: admissions\n4. Penn State World Campus: stackable credentials\n5. Penn: affordable Ivy League option\n6. Louisville: medical AI practitioners\n7. Concordia, St. Paul: affordability and accessibility\n8. Texas A&M: academic quality\n9. University of San Diego: graduate outcomes\n10. Johns Hopkins: academic quality, degree customization\n\nAll 25 at programs.com.\n\n#ArtificialIntelligence #MastersDegree #OnlineLearning #AIDegree #GradSchool"
   },
-  {
-    "date": "2026-10-12",
-    "type": "stat",
-    "slug": "ai-role-salaries",
-    "source_url": "https://programs.com/resources/ai-role-salaries/",
-    "headline": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis",
-    "figures": [
-      {
-        "value": "$180,000",
-        "page_quote": "AI engineers have the highest median salary at $180,000 per year.",
-        "primary_source": "Built In, https://builtin.com/salaries/us/ai-engineer (WebFetch blocked by unanswered permission prompt; page names the source)"
-      },
-      {
-        "value": "$155,000",
-        "page_quote": "Machine learning engineers have a median salary of $155,000 and an average base salary of $162,080 in the US.",
-        "primary_source": "Built In, https://builtin.com/salaries/us/machine-learning-engineer (not opened, same reason)"
-      },
-      {
-        "value": "$246,250",
-        "page_quote": "San Francisco offers the highest average salary in the US for both AI engineers ($246,250) and ML engineers ($207,474).",
-        "primary_source": "Built In (not opened)"
-      },
-      {
-        "value": "$112,590",
-        "page_quote": "Annually, data scientists earn a median wage of  $112,590.",
-        "primary_source": "BLS Occupational Outlook Handbook, data scientists"
-      },
-      {
-        "value": "$102,610",
-        "page_quote": "Of the assessed roles, software quality assurance analysts and testers have the lowest median annual salary ($102,610).",
-        "primary_source": "BLS Occupational Outlook Handbook, software developers, QA analysts and testers"
-      }
-    ],
-    "image": "social/out/2026-10-12-ai-role-salaries.png",
-    "copy": {
-      "linkedin": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis.\n\n• Machine learning engineers: $155,000 median\n• AI engineers in San Francisco: $246,250 average\n• Data scientists: $112,590 median\n• Software QA analysts and testers: $102,610 median, the lowest of the roles assessed\n\nSource: Built In (AI and ML engineers) and the US Bureau of Labor Statistics (data scientists, QA analysts and testers), 2026 data.\n\nFull breakdown of AI role salaries: https://programs.com/resources/ai-role-salaries/",
-      "facebook": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis, based on Built In data. Machine learning engineers follow at $155,000.\n\nhttps://programs.com/resources/ai-role-salaries/",
-      "instagram": "AI engineers earn a median salary of $180,000 a year in the US.\n\nMachine learning engineers: $155,000.\nData scientists: $112,590.\n\nSource: Built In (AI and ML engineers) and the US Bureau of Labor Statistics (data scientists), 2026 data.\n\nFull breakdown at programs.com.\n\n#AIjobs #ArtificialIntelligence #MachineLearning #TechCareers #Salary"
-    },
-    "buffer": {
-      "linkedin": "6accd9047659eb754b6f451d",
-      "facebook": "6accd9117659eb754b6f4988",
-      "instagram": "6accd9170cc1ccfc8f75f7f9"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard), AI topic after yesterday's cybersecurity post. Avoided the page's '$135,754 average median' figure: the methodology box calls it a mean of eight listed roles, but the average of those eight medians is $131,611 (nine incl. prompt engineer: $129,652), so the figure does not reconcile. WebSearch found Built In's AI engineer salary page but no snippet with the figure."
+  "buffer": {
+   "linkedin": "6ac641d75a41834aa461292a",
+   "facebook": "6ac641e56553ee16394f1401",
+   "instagram": "6ac641eb6553ee16394f14d9"
   },
-  {
-    "date": "2026-10-13",
-    "type": "stat",
-    "slug": "us-data-centers",
-    "source_url": "https://programs.com/resources/data-center-statistics/",
-    "headline": "The US has 4,767 data centers, more than any other country",
-    "figures": [
-      {
-        "value": "4,767 (US), 568 (UK), 533 (Germany), 393 (France)",
-        "page_quote": "With 4,767 data centers as of August 2026, the US has the most of any country by far. The UK ranks second with 568, followed by Germany with 533, France with 393, and China with 376.",
-        "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
-      },
-      {
-        "value": "674 (Virginia), 3 (Vermont)",
-        "page_quote": "Every US state has at least one data center, with Vermont having the least (3) and Virginia having the most (674).",
-        "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
-      },
-      {
-        "value": "175 (Ashburn)",
-        "page_quote": "As of August 2026, Ashburn, Virginia, alone is home to 175 data centers.",
-        "primary_source": "Data Center Map, https://www.datacentermap.com/usa/virginia/ashburn/ (not opened)"
-      },
-      {
-        "value": "12,259 across 179 countries",
-        "page_quote": "As of August 2026, there are 12,259 active data centers across 179 countries.",
-        "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
-      }
-    ],
-    "image": "social/out/2026-10-13-us-data-centers.png",
-    "alt_text": "The US has 4,767 data centers, the most of any country, compared with 568 in the United Kingdom, 533 in Germany and 393 in France. Virginia alone has 674, the most of any state. Source: Data Center Map, August 2026.",
-    "copy": {
-      "linkedin": "The US has 4,767 data centers, more than any other country.\n\n• The UK ranks second with 568, followed by Germany with 533 and France with 393.\n• Every US state has at least one data center. Virginia has the most (674) and Vermont the least (3).\n• Ashburn, Virginia, alone is home to 175 data centers.\n• Worldwide, there are 12,259 active data centers across 179 countries.\n\nSource: Data Center Map, counts as of August 2026.\n\nMore data center statistics: https://programs.com/resources/data-center-statistics/",
-      "facebook": "The US has 4,767 data centers, more than any other country, according to Data Center Map counts from August 2026. The UK ranks second with 568.\n\nhttps://programs.com/resources/data-center-statistics/",
-      "instagram": "The US has 4,767 data centers, more than any other country.\n\nThe UK ranks second with 568.\nVirginia alone has 674, the most of any US state.\n\nSource: Data Center Map, counts as of August 2026.\n\nFull breakdown at programs.com.\n\n#DataCenters #AI #ArtificialIntelligence #CloudComputing #TechStats"
-    },
-    "buffer": {
-      "linkedin": "6ace2a6464eb86867a140c29",
-      "facebook": "6ace2a71a5670ad01c4cd21f",
-      "instagram": "6ace2a787a819fc95e48f556"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard). Data centers last ran 2026-10-06 (moratoriums tracker, different page). Page heading says the US has 'almost 9x more data centers than any other country', but 4,767 / 568 is 8.4x, so that ratio was not used. WebFetch on datacentermap.com was blocked by an unanswered permission prompt; WebSearch did not surface the count."
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
   },
-  {
-    "date": "2026-10-14",
-    "type": "degree",
-    "slug": "ai-bachelors-ranking",
-    "source_url": "https://programs.com/programs/ai-bachelor-degree-programs/",
-    "headline": "We just updated our ranking of the 25 best AI bachelor's degree programs",
-    "figures": [
-      {
-        "value": "1. University of California, San Diego",
-        "page_quote": "1 / University of California, San Diego / Best for: Early AI immersion",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "2. Georgia Institute of Technology",
-        "page_quote": "2 / Georgia Institute of Technology / Best for: Industry integration",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "3. University of California, Berkeley",
-        "page_quote": "3 / University of California, Berkeley / Best for: Industry exposure",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "4. University of Texas at Austin",
-        "page_quote": "4 / University of Texas at Austin / Best for: Applied project focus",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "5. Virginia Tech",
-        "page_quote": "5 / Virginia Tech / Best for: Interdisciplinary AI",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "6. University of Maryland, College Park",
-        "page_quote": "6 / University of Maryland, College Park / Best for: Applied research exposure",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "7. Purdue University",
-        "page_quote": "7 / Purdue University / Best for: Practical breadth",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "8. University of Washington",
-        "page_quote": "8 / University of Washington / Best for: Practical experience",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "9. Carnegie Mellon University",
-        "page_quote": "9 / Carnegie Mellon University / Best for: Dedicated AI degree",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "10. University of California, Santa Barbara",
-        "page_quote": "10 / University of California, Santa Barbara / Best for: Early AI focus",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "11. University of Michigan, Ann Arbor",
-        "page_quote": "11 / University of Michigan, Ann Arbor / Best for: Practical AI preparation",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "12. University of Florida",
-        "page_quote": "12 / University of Florida / Best for: Course variety",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "13. Stanford University",
-        "page_quote": "13 / Stanford University / Best for: Exploratory specialization",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "14. University of California, Davis",
-        "page_quote": "14 / University of California, Davis / Best for: Practical foundation",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "15. University of California, Irvine",
-        "page_quote": "15 / University of California, Irvine / Best for: Applied flexibility",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "16. Rice University",
-        "page_quote": "16 / Rice University / Best for: Early specialization",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "17. Massachusetts Institute of Technology (MIT)",
-        "page_quote": "17 / Massachusetts Institute of Technology (MIT) / Best for: Research immersion",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "18. University of Southern California",
-        "page_quote": "18 / University of Southern California / Best for: Dedicated AI degree",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "19. Cornell University",
-        "page_quote": "19 / Cornell University / Best for: Research opportunities",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "20. Columbia University",
-        "page_quote": "20 / Columbia University / Best for: Interdisciplinary exposure",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "21. Duke University",
-        "page_quote": "21 / Duke University / Best for: Interdisciplinary integration",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "22. California Institute of Technology (Caltech)",
-        "page_quote": "22 / California Institute of Technology (Caltech) / Best for: Interdisciplinary focus",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "23. Brown University",
-        "page_quote": "23 / Brown University / Best for: Flexible specialization",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "24. Princeton University",
-        "page_quote": "24 / Princeton University / Best for: Independent study",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "25. Rensselaer Polytechnic Institute",
-        "page_quote": "25 / Rensselaer Polytechnic Institute / Best for: Focused AI depth",
-        "primary_source": "Programs.com ranking"
-      },
-      {
-        "value": "Last Updated: October 9, 2026",
-        "page_quote": "Last Updated: October 9, 2026",
-        "primary_source": "Programs.com page meta (post-meta__datetime)"
-      },
-      {
-        "value": "six weighted factors",
-        "page_quote": "In order to rank the top AI degrees, we scored programs based on six weighted factors. Top weight (25%) went to hands-on practice ... Curriculum relevance comprised 20% ... We also gave affordability 20% weighting ... Academic quality was worth 15% ... 10% of the final scores came from focus on AI ... Admissions decided the final 10%.",
-        "primary_source": "Programs.com methodology section"
-      }
-    ],
-    "image": "social/out/2026-10-14-ai-bachelors-ranking.png",
-    "copy": {
-      "linkedin": "We just updated our ranking of the 25 best AI bachelor's degree programs.\n\n1. University of California, San Diego: early AI immersion\n2. Georgia Institute of Technology: industry integration\n3. University of California, Berkeley: industry exposure\n4. University of Texas at Austin: applied project focus\n5. Virginia Tech: interdisciplinary AI\n6. University of Maryland, College Park: applied research exposure\n7. Purdue University: practical breadth\n8. University of Washington: practical experience\n9. Carnegie Mellon University: dedicated AI degree\n10. University of California, Santa Barbara: early AI focus\n11. University of Michigan, Ann Arbor: practical AI preparation\n12. University of Florida: course variety\n13. Stanford University: exploratory specialization\n14. University of California, Davis: practical foundation\n15. University of California, Irvine: applied flexibility\n16. Rice University: early specialization\n17. Massachusetts Institute of Technology (MIT): research immersion\n18. University of Southern California: dedicated AI degree\n19. Cornell University: research opportunities\n20. Columbia University: interdisciplinary exposure\n21. Duke University: interdisciplinary integration\n22. California Institute of Technology (Caltech): interdisciplinary focus\n23. Brown University: flexible specialization\n24. Princeton University: independent study\n25. Rensselaer Polytechnic Institute: focused AI depth\n\nRanked on hands-on practice (25%), curriculum relevance (20%), affordability (20%), academic quality (15%), AI focus (10%) and admissions (10%).\n\nFull ranking: https://programs.com/programs/ai-bachelor-degree-programs/",
-      "facebook": "We just updated our ranking of the 25 best AI bachelor's degree programs. The top 10:\n\n1. University of California, San Diego\n2. Georgia Institute of Technology\n3. University of California, Berkeley\n4. University of Texas at Austin\n5. Virginia Tech\n6. University of Maryland, College Park\n7. Purdue University\n8. University of Washington\n9. Carnegie Mellon University\n10. University of California, Santa Barbara\n\nhttps://programs.com/programs/ai-bachelor-degree-programs/",
-      "instagram": "We just updated our ranking of the 25 best AI bachelor's degree programs.\n\n1. UC San Diego: early AI immersion\n2. Georgia Tech: industry integration\n3. UC Berkeley: industry exposure\n4. UT Austin: applied project focus\n5. Virginia Tech: interdisciplinary AI\n6. UMD College Park: applied research exposure\n7. Purdue: practical breadth\n8. University of Washington: practical experience\n9. Carnegie Mellon: dedicated AI degree\n10. UC Santa Barbara: early AI focus\n\nAll 25 at programs.com.\n\n#ArtificialIntelligence #AIDegree #ComputerScience #CollegeRankings #HigherEducation"
-    },
-    "buffer": {
-      "linkedin": "6acf7b3a58efe154c754452f",
-      "facebook": "6acf7aeb84dc0d12ded3893f",
-      "instagram": "6acf7b0d77b08ba8d4b94d13"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard). Page 6523, visible Last Updated October 9, 2026, so the 'We just updated' opening applies. Ranking mixes dedicated AI majors and CS degrees with an AI concentration, as the page states. First LinkedIn create_post was blocked by the session's permission check before reaching Buffer; confirmed no LinkedIn post existed, retried once and it went through."
+  "notes": "From the queue (prepared copy, spec and alt text). Page 5884, visible 'Last Updated: October 5, 2026', so the 'We just updated' opening applies. All 25 ranks, names and 'Best for' lines were re-read from the live page by script (REST content and the rendered page agree). Corrections to the prepared copy: #17 best-for is 'Focus wider than AI' on the page (prepared: 'a focus wider than AI'); #23 is 'Computer science with AI focus' (prepared: 'an AI focus'); the criteria line now says 'research and academic quality', the page's name for that dimension. School names: four H3 headings on the page use hyphenated forms (Concordia University-Saint Paul, University of Illinois–Chicago, University of Maryland–Baltimore County, University of Tennessee–Knoxville). The post uses the schools' official names. 'Concordia University, St. Paul' and 'University of Illinois Chicago' appear in that form in the page's body text; 'University of Maryland, Baltimore County' and 'University of Tennessee, Knoxville' do not (the page has only the dash forms and 'UMBC' / 'UTK'), so those two differ from the page in punctuation only. The page is inconsistent between headings and body on these names; not a factual error. Image rendered from the prepared spec unchanged (renamed from planned- to the dated name). The queue's later wildcard (UT Austin vs Stanford tuition) uses this same page; when it comes up, weigh it against the 21-entry no-repeat rule."
+ },
+ {
+  "date": "2026-10-08",
+  "type": "stat",
+  "slug": "ai-layoffs",
+  "source_url": "https://programs.com/resources/ai-layoffs/",
+  "headline": "181,351 employees have been affected by AI-related layoffs announced so far in 2026",
+  "figures": [
+   {
+    "value": "181,351 (2026, January to October, across 49 companies)",
+    "page_quote": "Chart alt text on the page: \"181,351 employees affected by AI-related layoffs announced in 2026, January to October, across 49 companies, 20% above 2025's full-year total\". Visible H2: \"More than 180,000 employees have been affected by AI-related layoffs in 2026\"",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   },
+   {
+    "value": "20% above 2025's full-year total",
+    "page_quote": "Chart alt text: \"...20% above 2025's full-year total\". Visible text: \"Just ten months into the year, that’s already about 20% more than 2025’s full-year total.\"",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   },
+   {
+    "value": "150,606 (2025) and 42,698 (2024)",
+    "page_quote": "Chart alt text: \"Bar chart: employees affected by AI-related layoffs by year of announcement — 42,698 in 2024, 150,606 in 2025, 181,351 in January to October 2026\". Visible text: \"In 2024, announcements from eight companies covered approximately 43,000 AI-related job cuts\" and \"That number more than tripled in 2025, to over 150,000.\"",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   },
+   {
+    "value": "At least 11 companies with AI-related layoffs affecting 10,000+ employees each, since 2024",
+    "page_quote": "Since 2024, at least 11 companies have announced AI-related layoffs affecting 10,000+ employees each.",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   },
+   {
+    "value": "Method: company disclosures, earnings calls and media reports where AI or automation was named as a driver",
+    "page_quote": "We reviewed hundreds of company disclosures, earnings calls, and major media reporting to identify layoffs where AI or automation was directly named as a driver.",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-10-08T12:36:24); no third-party source for the totals."
+   }
+  ],
+  "image": "social/out/2026-10-08-ai-layoffs.png",
+  "alt_text": "181,351 employees affected by AI-related layoffs announced in 2026 so far. Bar chart by year of announcement: 42,698 in 2024, 150,606 in 2025 and 181,351 in January to October 2026, which is 20% above 2025's full-year total. Source: Programs.com AI layoffs tracker, October 2026.",
+  "copy": {
+   "linkedin": "181,351 employees have been affected by AI-related layoffs announced so far in 2026.\n\n• That is 20% above the full-year total for 2025, which was 150,606.\n• The 2024 total was 42,698.\n• The 2026 figure covers January to October, across 49 companies.\n• Since 2024, at least 11 companies have announced AI-related layoffs affecting 10,000+ employees each.\n\nSource: Programs.com AI layoffs tracker, October 2026. Counted from company disclosures, earnings calls and media reports where AI or automation was named as a driver.\n\nCompany-by-company list: https://programs.com/resources/ai-layoffs/",
+   "facebook": "181,351 employees have been affected by AI-related layoffs announced so far in 2026, according to the Programs.com AI layoffs tracker. That is 20% above the full-year total for 2025.\n\nhttps://programs.com/resources/ai-layoffs/",
+   "instagram": "181,351 employees have been affected by AI-related layoffs announced so far in 2026.\n\nThat is 20% above the full-year total for 2025, which was 150,606. The 2024 total was 42,698.\n\nThe 2026 figure covers January to October, across 49 companies.\n\nSource: Programs.com AI layoffs tracker, October 2026.\n\nFull breakdown at programs.com.\n\n#AI #Layoffs #ArtificialIntelligence #FutureOfWork #TechJobs"
   },
-  {
-    "date": "2026-10-15",
-    "type": "stat",
-    "slug": "cybersecurity-workforce-gap",
-    "source_url": "https://programs.com/resources/total-cybersecurity-pros/",
-    "headline": "The global cybersecurity workforce gap reached 4.8 million in 2024",
-    "figures": [
-      {
-        "value": "4.8 million (2024 gap)",
-        "page_quote": "In total, there is a cybersecurity workforce gap of approximately 4.8 million. That’s a 41% increase on 2022’s 3.4 million and a 20% increase on 2023’s 4 million.",
-        "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
-      },
-      {
-        "value": "3.4 million (2022 gap), 4 million (2023 gap)",
-        "page_quote": "In total, there is a cybersecurity workforce gap of approximately 4.8 million. That’s a 41% increase on 2022’s 3.4 million and a 20% increase on 2023’s 4 million.",
-        "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
-      },
-      {
-        "value": "5.5 million workforce, up 0.1% from 2023",
-        "page_quote": "According to the most recent estimates, there are approximately 5.5 million people currently working in cybersecurity worldwide. That total represents just a 0.1% increase from 2023 (but a 17% increase since 2022).",
-        "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
-      },
-      {
-        "value": "67% of organizations report a shortage",
-        "page_quote": "Cybersecurity staffing scarcity remains high, with around 2 in 3 (67%) organizations reporting a shortage.",
-        "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
-      },
-      {
-        "value": "US gap 504,000 (2024)",
-        "page_quote": "US | 483k | 504k | ↑ 4.4% (workforce gap by country table, 2023 / 2024)",
-        "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
-      }
-    ],
-    "image": "social/out/2026-10-15-cybersecurity-workforce-gap.png",
-    "copy": {
-      "linkedin": "The global cybersecurity workforce gap reached 4.8 million in 2024.\n\n• The gap was 3.4 million in 2022 and 4 million in 2023.\n• The global cybersecurity workforce is 5.5 million, up just 0.1% from 2023.\n• 67% of organizations report a cybersecurity staffing shortage.\n• The US workforce gap is 504,000.\n\nSource: ISC2 Cybersecurity Workforce Study, 2024, global data.\n\nMore cybersecurity workforce data from Programs.com:\nhttps://programs.com/resources/total-cybersecurity-pros/",
-      "facebook": "The global cybersecurity workforce gap reached 4.8 million in 2024, up from 3.4 million in 2022. Over the same year the global cybersecurity workforce grew just 0.1%, to 5.5 million (ISC2 Cybersecurity Workforce Study, 2024).\n\nhttps://programs.com/resources/total-cybersecurity-pros/",
-      "instagram": "The global cybersecurity workforce gap reached 4.8 million in 2024.\n\nThe gap was 3.4 million in 2022.\nThe global cybersecurity workforce is 5.5 million, up just 0.1% from 2023.\n\nSource: ISC2 Cybersecurity Workforce Study, 2024.\n\nFull breakdown at programs.com.\n\n#cybersecurity #infosec #cybersecurityjobs #techcareers #workforce"
-    },
-    "buffer": {
-      "linkedin": "6ad0cd9d5d6d63b3aef89c74",
-      "facebook": "6ad0cdaa8913aa90c397cf6d",
-      "instagram": "6ad0cdb3e8416cbf0cfb3eb6"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "Queue empty; last 6 were 4 stat, 1 wildcard, 1 degree, so a stat post. Picked cybersecurity to break the AI-education/data-center run. Added an \"M\" suffix to num_html in render.py (accent-coloured like %). Page inconsistency: top-stats list says US has 'over 1.3 million' (CyberSeek 1,337,400) and also 'nearly 1.3 million' (ISC2 1.299M) without naming the different sources; also 'ICS2' typo and 'more than one-third (41%)'. Not used in the post."
+  "buffer": {
+   "linkedin": "6ac79217d1ababbf88af44e3",
+   "facebook": "6ac7922408d405a9e70017a0",
+   "instagram": "6ac79229daf7bb7cba203993"
   },
-  {
-    "date": "2026-10-16",
-    "type": "stat",
-    "slug": "ai-layoff-regret",
-    "source_url": "https://programs.com/resources/ai-job-cut-reversals/",
-    "headline": "55% of business leaders who cut staff to bring in AI say it was the wrong decision",
-    "figures": [
-      {
-        "value": "55% say AI-driven cuts were the wrong decision",
-        "page_quote": "However, of those who chose to make the leap, more than half (55%) have said it was the wrong choice.",
-        "primary_source": "Orgvue (https://www.orgvue.com/news/55-of-businesses-admit-wrong-decisions-in-making-employees-redundant-when-bringing-ai-into-the-workforce/); page could not be opened (WebFetch permission prompt unanswered); WebSearch titles (Orgvue, HR Dive, HRreview, HR Reporter) corroborate 55% of leaders calling AI redundancies wrong/a mistake"
-      },
-      {
-        "value": "39% have made layoffs in favor of AI",
-        "page_quote": "According to a survey of 1,000 senior decision-makers, around 2 in 5 (39%) have made layoffs in favor of using AI.",
-        "primary_source": "Orgvue (https://www.orgvue.com/news/55-of-businesses-admit-wrong-decisions-in-making-employees-redundant-when-bringing-ai-into-the-workforce/); page could not be opened (WebFetch permission prompt unanswered); WebSearch titles (Orgvue, HR Dive, HRreview, HR Reporter) corroborate 55% of leaders calling AI redundancies wrong/a mistake"
-      },
-      {
-        "value": "30.9% spent more on rehiring than they saved",
-        "page_quote": "In fact, 30.9% of organizations that brought back employees spent more doing so than they saved from the original cut.",
-        "primary_source": "Forrester AI Job Impact Forecast US 2025-2030 (https://www.forrester.com/report/the-forrester-ai-job-impact-forecast-us-2025-2030/RES190071), as named on the page; not opened (paywalled report, WebFetch prompts unanswered)"
-      },
-      {
-        "value": "10 companies tracked: 5 reversals, 5 pullbacks",
-        "page_quote": "Tracker status: Companies tracked 10 / Reversals 5 / Pullbacks 5 (Last updated Oct 7, 2026)",
-        "primary_source": "Programs.com AI Layoff Reversal Tracker"
-      }
-    ],
-    "image": "social/out/2026-10-16-ai-layoff-regret.png",
-    "copy": {
-      "linkedin": "55% of business leaders who cut staff to bring in AI say it was the wrong decision.\n\n• 39% of the leaders surveyed have made layoffs in favor of using AI.\n• 30.9% of organizations that brought back employees spent more on rehiring than they saved from the original cut.\n• Our AI Layoff Reversal Tracker lists 10 companies: 5 reversals and 5 pullbacks.\n\nSource: Orgvue survey of senior decision-makers (55%, 39%); Forrester (30.9%).\n\nEvery company that rehired workers replaced by AI:\nhttps://programs.com/resources/ai-job-cut-reversals/",
-      "facebook": "55% of business leaders who cut staff to bring in AI say it was the wrong decision, according to an Orgvue survey of senior decision-makers. Our AI Layoff Reversal Tracker now lists 10 companies that reversed or pulled back on replacing workers with AI.\n\nhttps://programs.com/resources/ai-job-cut-reversals/",
-      "instagram": "55% of business leaders who cut staff to bring in AI say it was the wrong decision.\n\n39% of the leaders surveyed have made layoffs in favor of using AI.\n30.9% of organizations that brought back employees spent more on rehiring than they saved.\n\nSource: Orgvue survey of senior decision-makers (55%, 39%); Forrester (30.9%).\n\nFull breakdown at programs.com.\n\n#AI #layoffs #futureofwork #artificialintelligence #hiring"
-    },
-    "buffer": {
-      "linkedin": "6ad21f07f24c5797a23d905f",
-      "facebook": "6ad21f14b948bf9e9d9603e8",
-      "instagram": "6ad21f1b63c879f9585a8ed2"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "Queue empty; window of 7 needed a 5th stat post. First use of the AI layoff reversals tracker (post 8627, about 25,000 characters inline). Topic AI and jobs, breaking from yesterday's cybersecurity. The page gives no year for the Orgvue survey, so the source line omits a year; it also says '1,000 senior decision-makers', which was left out of the copy because the exact sample could not be checked. Page issues (not used): the 30.9% / 42.37% / 26.69% rehiring-cost split is credited to Forrester while the surrounding rehiring data is from Careerminds, worth checking; methodology grammar 'but haven't actually rehired' and an unclosed parenthesis in the Dates paragraph; the 55% charts reuse files named 'Open-Cybersecurity-Jobs-*.png'. All three Buffer posts sent within about 25 seconds."
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
   },
-  {
-    "date": "2026-10-17",
-    "type": "wildcard",
-    "slug": "deepfake-laws-states",
-    "source_url": "https://programs.com/resources/deepfake-legislation/",
-    "headline": "47 US states have enacted laws targeting AI deepfakes, as of June 2026",
-    "figures": [
-      {
-        "value": "47 states",
-        "page_quote": "As of June 2026, 47 states have enacted legislation directly targeting the use of AI-generated media:",
-        "primary_source": "Programs.com Deepfake Legislation Database (page lists the 47 states by name; state map drawn from that list)"
-      },
-      {
-        "value": "146 bills in 2025",
-        "page_quote": "In 2025 alone, 146 bills were introduced to state legislators that included language specific to AI deepfakes.",
-        "primary_source": "Programs.com Deepfake Legislation Database (no third-party source named on the page)"
-      },
-      {
-        "value": "law types (no number)",
-        "page_quote": "Some impose criminal penalties for creating or distributing explicit deepfakes, others establish new civil causes of action, and many introduce disclosure requirements for AI-generated political content.",
-        "primary_source": "Programs.com Deepfake Legislation Database"
-      }
-    ],
-    "image": "social/out/2026-10-17-deepfake-laws-states.png",
-    "copy": {
-      "linkedin": "47 US states have enacted laws targeting AI deepfakes, as of June 2026.\n\n• In 2025 alone, 146 bills with language specific to AI deepfakes were introduced in state legislatures.\n• Some of these laws impose criminal penalties for creating or distributing explicit deepfakes.\n• Others establish new civil causes of action, and many require disclosure on AI-generated political content.\n\nSource: Programs.com Deepfake Legislation Database.\n\nEvery enacted law by state, with bill numbers and dates:\nhttps://programs.com/resources/deepfake-legislation/",
-      "facebook": "47 US states have enacted laws targeting AI deepfakes as of June 2026, according to the Programs.com Deepfake Legislation Database. In 2025 alone, 146 bills with language specific to AI deepfakes were introduced in state legislatures.\n\nhttps://programs.com/resources/deepfake-legislation/",
-      "instagram": "47 US states have enacted laws targeting AI deepfakes, as of June 2026.\n\nIn 2025 alone, 146 bills with language specific to AI deepfakes were introduced in state legislatures.\n\nSource: Programs.com Deepfake Legislation Database.\n\nFull breakdown at programs.com.\n\n#deepfakes #AI #artificialintelligence #AIpolicy #technews"
-    },
-    "buffer": {
-      "linkedin": "6ad36f13ae173d6e00b7f270",
-      "facebook": "6ad36f200b0d72757ad8f5dd",
-      "instagram": "6ad36f3b938409f1d0870e0c"
-    },
-    "status": {
-      "linkedin": "sent",
-      "facebook": "sent",
-      "instagram": "sent"
-    },
-    "notes": "Wildcard (mix: last 7 had 5 stats, 1 degree). State-map angle from the deepfake legislation database (post 4197, modified 2026-10-12). Page errors found: (1) intro says 'Since 2022, 175 laws have been enacted' but the state table has 176 rows, and the table includes resolutions (e.g. HI HR85, HI SR81) as well as laws, so the 175 figure was not used; (2) the post title misspells 'Legistlation'; (3) the 47-state count is labelled 'As of June 2026' although the page was modified in October. The 47 listed states match the 47 state codes in the table (AK, MO, OH absent from both). The page names no third-party source for its figures, so they are credited to Programs.com. All three Buffer posts were sent within about 25 seconds."
-  }
+  "notes": "From queue item 1 (ai-layoffs). The exact totals (181,351; 150,606; 42,698; 49 companies) are in the alt text of the page's two charts, which were re-uploaded at 12:34 and 12:35 UTC today with the page saved at 12:36 UTC; the visible body text gives the rounded forms (more than 180,000; over 150,000; approximately 43,000). The chart PNGs themselves could not be opened from this run (the shell cannot reach programs.com), so the exact figures rest on the alt text and their agreement with the visible text. A rough sum of the 2026 portions of the company entries comes to about 181,000, in line with the total."
+ },
+ {
+  "date": "2026-10-09",
+  "type": "stat",
+  "slug": "universities-offering-ai",
+  "source_url": "https://programs.com/resources/universities-offering-ai-programs/",
+  "headline": "352 US colleges and universities now offer an AI degree",
+  "figures": [
+   {
+    "value": "352 institutions",
+    "page_quote": "According to the latest data, 352 institutions currently provide AI degrees in the US. That includes every college and university offering a bachelor’s, master’s, or doctoral program in AI or a closely related field, such as machine learning.",
+    "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
+   },
+   {
+    "value": "483 AI degree programs: 229 master's, 208 bachelor's, 46 doctoral",
+    "page_quote": "As of 2026, there are 483 AI degree programs available across US universities. Master’s degrees make up the largest share, with 229 different AI master’s programs, including a master’s degree in AI, on offer. By comparison, 208 bachelor’s programs and 46 doctoral programs in AI are currently available.",
+    "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
+   },
+   {
+    "value": "26 new AI bachelor's degree programs for 2026",
+    "page_quote": "26 new AI bachelor’s degree programs have launched or been announced for 2026.",
+    "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
+   },
+   {
+    "value": "92.1% of AI master's programs online; 22.6% of bachelor's programs",
+    "page_quote": "92.1% of AI master’s programs are available online, compared to just 22.6% of bachelor’s programs.",
+    "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
+   },
+   {
+    "value": "By region (universities): South 119, Northeast 88, Midwest 82, West 63; South 173 programs",
+    "page_quote": "The South provides the largest proportion of AI degrees in the US, with 119 universities offering 173 degrees. Region table (Region | Universities | Programs): South | 119 | 173; Northeast | 88 | 121; Midwest | 82 | 106; West | 63 | 83.",
+    "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
+   },
+   {
+    "value": "Method: bachelor's, master's and doctoral degrees in AI or a closely related field, verified against official university pages and state records",
+    "page_quote": "We count bachelor’s, master’s, and doctoral degrees in AI or a closely related field, such as machine learning. [...] Every program is verified against official university pages and state records.",
+    "primary_source": "Programs.com's own count (post 3555, last modified 2026-10-07T08:56:53; visible \"Last Updated: October 7, 2026\"); no third-party source."
+   }
+  ],
+  "image": "social/out/2026-10-09-universities-offering-ai.png",
+  "alt_text": "352 US colleges and universities now offer an AI degree. Bar chart by region: 119 in the South, 88 in the Northeast, 82 in the Midwest and 63 in the West. Together they offer 483 AI degree programs. Source: Programs.com AI degree program tracker, October 2026.",
+  "copy": {
+   "linkedin": "352 US colleges and universities now offer an AI degree.\n\n• Together they offer 483 AI degree programs: 229 master's, 208 bachelor's and 46 doctoral.\n• 26 new AI bachelor's degree programs have launched or been announced for 2026.\n• 92.1% of AI master's programs can be completed online, compared to 22.6% of bachelor's programs.\n• The South has the most: 119 universities offering 173 programs.\n\nSource: Programs.com AI degree program tracker, October 2026. Counts bachelor's, master's and doctoral degrees in AI or a closely related field, each verified against official university pages and state records.\n\nFull list of schools and programs: https://programs.com/resources/universities-offering-ai-programs/",
+   "facebook": "352 US colleges and universities now offer an AI degree, according to the Programs.com AI degree program tracker. Together they offer 483 AI degree programs.\n\nhttps://programs.com/resources/universities-offering-ai-programs/",
+   "instagram": "352 US colleges and universities now offer an AI degree.\n\nTogether they offer 483 AI degree programs: 229 master's, 208 bachelor's and 46 doctoral.\n\n26 new AI bachelor's degree programs have launched or been announced for 2026.\n\nSource: Programs.com AI degree program tracker, October 2026.\n\nFull breakdown at programs.com.\n\n#AI #ArtificialIntelligence #AIDegree #HigherEd #CollegeMajors"
+  },
+  "buffer": {
+   "linkedin": "6ac8e48c130133a20a0170f9",
+   "facebook": "6ac8e4976324418386b49f35",
+   "instagram": "6ac8e49d3c055a152a663f57"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From queue item 1 (universities-offering-ai); the item named no figures, so there was nothing to correct. All figures are Programs.com's own counts. Cross-checks on the live page passed: degree levels sum to 483, regional universities sum to 352 and regional programs to 483, the online percentages match their counts, and the three program lists hold 208, 229 and 46 programs and the 2026 log holds 26 rows. Not used and worth a look on the page: the Top Stats line says undergraduate AI programs have 'increased by 600% since 2020' while the growth section says bachelor-level programs 'have increased nearly 6x since 2020' (a 6x rise is a 500% increase); the CRA source could not be opened from this run to say which is right. The page's six chart images have empty alt text."
+ },
+ {
+  "date": "2026-10-10",
+  "type": "wildcard",
+  "slug": "ut-austin-vs-stanford",
+  "source_url": "https://programs.com/programs/online-masters-in-ai/",
+  "headline": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000",
+  "figures": [
+   {
+    "value": "#1 University of Texas at Austin, MS in Artificial Intelligence: estimated tuition $10,000, 30 credits",
+    "page_quote": "1 | University of Texas at Austin | Austin, TX | Program Summary | MS in Artificial Intelligence | Estimated tuition: $10,000 | Typical length: 1.5-2 years | Accreditation: SACSCOC | Credits: 30 | Best for: Academic quality, affordability. Body: \"Traditional R1 programs can cost upwards of $50,000, so the remarkable $10,000 cost offers a tremendous potential return on investment (ROI).\"",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   },
+   {
+    "value": "#20 Stanford University, MS in Computer Science (Artificial Intelligence Specialization): estimated tuition $70,000, 45 units",
+    "page_quote": "20 | Stanford University | Stanford, CA | Program Summary | MS in Computer Science (Artificial Intelligence Specialization) | Estimated tuition: $70,000 | Typical length: 1-5 years | Accreditation: WSCUC | Credits: 45 units (quarter system, ~30 credits equivalent) | Best for: Academic quality. Body: \"That’s partly because most people will struggle to justify the $70,000 cost, meaning the program is mainly viable for students whose employers have agreed to cover their tuition. There’s nothing to stop you financing it yourself, but you have to ask yourself whether it is really 7x better than the program offered by the University of Texas at Austin.\"",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   },
+   {
+    "value": "25 programs in the ranking",
+    "page_quote": "Top 25 Online Master’s In AI Programs for 2026 (H1); Top 25 Online AI Master’s Degree Programs (2026) (H2)",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   },
+   {
+    "value": "Affordability 15 percent of the score; research and academic quality 25 percent",
+    "page_quote": "Affordability at 15 percent, assessing total tuition and pricing transparency. Research and Academic Quality at 25 percent, evaluating institutional reputation and employer signal.",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   },
+   {
+    "value": "Tuition only; fees and materials not included",
+    "page_quote": "Please note that we have only covered the tuition cost, which does not include potential added fees and materials costs.",
+    "primary_source": "Programs.com's own ranking data (page 5884, last modified 2026-10-09T08:49:09; visible \"Last Updated: October 9, 2026\"); no third-party source."
+   }
+  ],
+  "image": "social/out/2026-10-10-ut-austin-vs-stanford.png",
+  "alt_text": "$10,000: estimated tuition at the number 1 online master's in AI program in the Programs.com ranking, the University of Texas at Austin. Stanford University, ranked number 20 of 25, has an estimated tuition of $70,000. Tuition only, fees not included.",
+  "copy": {
+   "linkedin": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000.\n\n• No. 1: University of Texas at Austin, MS in Artificial Intelligence. Estimated tuition: $10,000 for 30 credits.\n• No. 20: Stanford University, MS in Computer Science with an AI specialization. Estimated tuition: $70,000 for 45 units.\n• Affordability counts for 15 percent of a program's score. Research and academic quality counts for 25 percent.\n\nSource: Programs.com ranking of the 25 best online master's in AI programs, October 2026. Figures are estimated tuition only and do not include fees or materials.\n\nAll 25 programs with tuition: https://programs.com/programs/online-masters-in-ai/",
+   "facebook": "The No. 1 program in the Programs.com ranking of online master's in AI degrees, the University of Texas at Austin, has an estimated tuition of $10,000. Stanford University, ranked No. 20, has an estimated tuition of $70,000.\n\nhttps://programs.com/programs/online-masters-in-ai/",
+   "instagram": "The No. 1 program in our ranking of online master's in AI degrees costs $10,000 in tuition. The No. 20 program costs $70,000.\n\nNo. 1: University of Texas at Austin, MS in Artificial Intelligence. Estimated tuition: $10,000.\n\nNo. 20: Stanford University, MS in Computer Science with an AI specialization. Estimated tuition: $70,000.\n\nSource: Programs.com ranking of the 25 best online master's in AI programs, October 2026. Tuition only, fees not included.\n\nFull breakdown at programs.com.\n\n#AI #ArtificialIntelligence #MastersDegree #OnlineDegree #HigherEd"
+  },
+  "buffer": {
+   "linkedin": "6aca349ced92ed8fa5cbdf1c",
+   "facebook": "6aca34a9f91f772d45934977",
+   "instagram": "6aca34c4b07d37ac97722e78"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From queue item 1 (wildcard, UT Austin vs Stanford). The queue takes priority over the 21-entry no-repeat rule, so this page returns three days after the 2026-10-07 ranking post, with a different headline figure (tuition contrast, not the list). The page was modified on 2026-10-09 (visible 'Last Updated: October 9, 2026'); the rank order of all 25 is unchanged from 2026-10-07, and both tuition figures, ranks and program names were re-read from the REST content and the rendered page, which agree. Corrections to the queue angle: it said '$10,000 in total tuition'; the page's summary field is 'Estimated tuition', so the post says estimated tuition and states that fees are not included. Precision kept in the copy: Stanford's degree is an MS in Computer Science with an AI specialization, not a standalone AI degree, and 45 quarter units. The post does not call either program the cheapest or the most expensive, because neither is: Western Governors lists $8,770-$17,540 and New York University $75,750. Image: stat template, light theme, compare with two bars (14% and 100% width); the source line wraps to two lines and passes the check. Copy says 'No. 1' and 'No. 20' instead of '#1' and '#20' so no platform turns a rank into a hashtag; the image uses '#1' and '#20'. Page inconsistency found, not used in the post: the Purdue University entry (rank 2) lists 'Estimated tuition: $27,990' in its summary while its text says 'Tuition comes in at just $28,500'."
+ },
+ {
+  "date": "2026-10-11",
+  "type": "stat",
+  "slug": "vishing",
+  "source_url": "https://programs.com/resources/voice-phishing-stats/",
+  "headline": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half",
+  "figures": [
+   {
+    "value": "442% more voice phishing attacks in the second half of 2024 than in the first half",
+    "page_quote": "H3: \"Voice phishing attacks have become 442% more common (CrowdStrike)\". Body: \"There were 442% more voice phishing attacks in the second half of 2024 compared to the first half of the year.\"",
+    "primary_source": "CrowdStrike 2025 Global Threat Report, linked from the page (https://www.crowdstrike.com/en-us/blog/crowdstrike-2025-global-threat-report-findings/). Could not be opened from this run (WebFetch permission prompt went unanswered); used on the strength of the page's named source. A web search returned third-party headlines matching the figure and period (Security Magazine: \"Vishing attacks increased by 442% in the second half of 2024\")."
+   },
+   {
+    "value": "2 vishing attacks recorded by CrowdStrike in January 2024, 93 in December 2024",
+    "page_quote": "Comparing the first and final months of 2024 shows an even more striking increase: In January 2024, CrowdStrike recorded just two vishing attacks. In December, they recorded 93.",
+    "primary_source": "CrowdStrike 2025 Global Threat Report, linked from the page (https://www.crowdstrike.com/en-us/blog/crowdstrike-2025-global-threat-report-findings/). Could not be opened from this run (WebFetch permission prompt went unanswered); used on the strength of the page's named source. A web search returned third-party headlines matching the figure and period (Security Magazine: \"Vishing attacks increased by 442% in the second half of 2024\")."
+   },
+   {
+    "value": "68% of Americans receive a scam phone call at least once a week",
+    "page_quote": "H3: \"68% of Americans receive a scam phone call at least once a week (Pew Research)\". Body: \"Almost everyone in the US with a phone has received a scam phone call at least once. Over two-thirds receive at least one weekly.\"",
+    "primary_source": "Pew Research, 'Online Scams and Attacks in America Today', 31 July 2025, linked from the page (https://www.pewresearch.org/internet/2025/07/31/online-scams-and-attacks-in-america-today/). Could not be opened from this run; used on the strength of the page's named source."
+   },
+   {
+    "value": "31% receive scam phone calls at least daily",
+    "page_quote": "H3: \"And 31% receive scam phone calls at least daily (Pew Research)\"",
+    "primary_source": "Pew Research, 'Online Scams and Attacks in America Today', 31 July 2025, linked from the page (https://www.pewresearch.org/internet/2025/07/31/online-scams-and-attacks-in-america-today/). Could not be opened from this run; used on the strength of the page's named source."
+   }
+  ],
+  "image": "social/out/2026-10-11-vishing.png",
+  "alt_text": "442% more voice phishing attacks in the second half of 2024 than in the first half. Bar chart of vishing attacks recorded by CrowdStrike: 2 in January 2024 and 93 in December 2024. Source: CrowdStrike 2025 Global Threat Report.",
+  "copy": {
+   "linkedin": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half.\n\n• CrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n• 68% of Americans receive a scam phone call at least once a week (Pew Research, 2025).\n• 31% receive scam phone calls at least daily (Pew Research, 2025).\n\nSource: CrowdStrike 2025 Global Threat Report. The 442% figure compares vishing attacks CrowdStrike recorded in the second half of 2024 with the first half.\n\nMore vishing statistics: https://programs.com/resources/voice-phishing-stats/",
+   "facebook": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half, according to CrowdStrike's 2025 Global Threat Report. CrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n\nhttps://programs.com/resources/voice-phishing-stats/",
+   "instagram": "There were 442% more voice phishing attacks in the second half of 2024 than in the first half.\n\nCrowdStrike recorded 2 vishing attacks in January 2024 and 93 in December 2024.\n\n68% of Americans receive a scam phone call at least once a week (Pew Research, 2025).\n\nSource: CrowdStrike 2025 Global Threat Report.\n\nFull breakdown at programs.com.\n\n#Cybersecurity #Vishing #Phishing #InfoSec #ScamCalls"
+  },
+  "buffer": {
+   "linkedin": "6acb87dbb07d37ac97a8247c",
+   "facebook": "6acb87e7d9cab260a7f9ea7b",
+   "instagram": "6acb87edd9cab260a7f9eae5"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "From queue item 1 (vishing; the item gave only the angle, no figures to correct). Page is post 4141, last modified 2026-05-04T11:50:47. The queue angle said 'incidents up 442%' and the page's Editor's Picks line says 'Voice phishing attacks have increased by 442% over the last year'; the body gives the actual comparison, second half of 2024 against the first half, so the copy and image state that period. No third-party source could be opened (WebFetch permission prompt unanswered for crowdstrike.com, pewresearch.org and the PIRG PDF), so every figure rests on the page showing it with a named source; figures were limited to CrowdStrike and Pew for that reason. Left out: the 2.56 billion monthly scam calls figure (the page says it also covers telemarketing and robocalls) and the $40 billion Deloitte projection (generative AI fraud in general, not vishing). The years for the sources (CrowdStrike 2025 report, Pew 2025) come from the URLs the page links to; the page text names the sources without a year. First WPVibe call failed with a relay connection deadline; the retry a minute later worked. LinkedIn returned 'sending' then 'sent' within about 20 seconds; Facebook and Instagram returned 'sent' in the create_post response."
+ },
+ {
+  "date": "2026-10-12",
+  "type": "stat",
+  "slug": "ai-role-salaries",
+  "source_url": "https://programs.com/resources/ai-role-salaries/",
+  "headline": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis",
+  "figures": [
+   {
+    "value": "$180,000",
+    "page_quote": "AI engineers have the highest median salary at $180,000 per year.",
+    "primary_source": "Built In, https://builtin.com/salaries/us/ai-engineer (WebFetch blocked by unanswered permission prompt; page names the source)"
+   },
+   {
+    "value": "$155,000",
+    "page_quote": "Machine learning engineers have a median salary of $155,000 and an average base salary of $162,080 in the US.",
+    "primary_source": "Built In, https://builtin.com/salaries/us/machine-learning-engineer (not opened, same reason)"
+   },
+   {
+    "value": "$246,250",
+    "page_quote": "San Francisco offers the highest average salary in the US for both AI engineers ($246,250) and ML engineers ($207,474).",
+    "primary_source": "Built In (not opened)"
+   },
+   {
+    "value": "$112,590",
+    "page_quote": "Annually, data scientists earn a median wage of  $112,590.",
+    "primary_source": "BLS Occupational Outlook Handbook, data scientists"
+   },
+   {
+    "value": "$102,610",
+    "page_quote": "Of the assessed roles, software quality assurance analysts and testers have the lowest median annual salary ($102,610).",
+    "primary_source": "BLS Occupational Outlook Handbook, software developers, QA analysts and testers"
+   }
+  ],
+  "image": "social/out/2026-10-12-ai-role-salaries.png",
+  "copy": {
+   "linkedin": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis.\n\n• Machine learning engineers: $155,000 median\n• AI engineers in San Francisco: $246,250 average\n• Data scientists: $112,590 median\n• Software QA analysts and testers: $102,610 median, the lowest of the roles assessed\n\nSource: Built In (AI and ML engineers) and the US Bureau of Labor Statistics (data scientists, QA analysts and testers), 2026 data.\n\nFull breakdown of AI role salaries: https://programs.com/resources/ai-role-salaries/",
+   "facebook": "AI engineers earn a median salary of $180,000 a year in the US, the highest of the AI-related roles in our analysis, based on Built In data. Machine learning engineers follow at $155,000.\n\nhttps://programs.com/resources/ai-role-salaries/",
+   "instagram": "AI engineers earn a median salary of $180,000 a year in the US.\n\nMachine learning engineers: $155,000.\nData scientists: $112,590.\n\nSource: Built In (AI and ML engineers) and the US Bureau of Labor Statistics (data scientists), 2026 data.\n\nFull breakdown at programs.com.\n\n#AIjobs #ArtificialIntelligence #MachineLearning #TechCareers #Salary"
+  },
+  "buffer": {
+   "linkedin": "6accd9047659eb754b6f451d",
+   "facebook": "6accd9117659eb754b6f4988",
+   "instagram": "6accd9170cc1ccfc8f75f7f9"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard), AI topic after yesterday's cybersecurity post. Avoided the page's '$135,754 average median' figure: the methodology box calls it a mean of eight listed roles, but the average of those eight medians is $131,611 (nine incl. prompt engineer: $129,652), so the figure does not reconcile. WebSearch found Built In's AI engineer salary page but no snippet with the figure."
+ },
+ {
+  "date": "2026-10-13",
+  "type": "stat",
+  "slug": "us-data-centers",
+  "source_url": "https://programs.com/resources/data-center-statistics/",
+  "headline": "The US has 4,767 data centers, more than any other country",
+  "figures": [
+   {
+    "value": "4,767 (US), 568 (UK), 533 (Germany), 393 (France)",
+    "page_quote": "With 4,767 data centers as of August 2026, the US has the most of any country by far. The UK ranks second with 568, followed by Germany with 533, France with 393, and China with 376.",
+    "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
+   },
+   {
+    "value": "674 (Virginia), 3 (Vermont)",
+    "page_quote": "Every US state has at least one data center, with Vermont having the least (3) and Virginia having the most (674).",
+    "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
+   },
+   {
+    "value": "175 (Ashburn)",
+    "page_quote": "As of August 2026, Ashburn, Virginia, alone is home to 175 data centers.",
+    "primary_source": "Data Center Map, https://www.datacentermap.com/usa/virginia/ashburn/ (not opened)"
+   },
+   {
+    "value": "12,259 across 179 countries",
+    "page_quote": "As of August 2026, there are 12,259 active data centers across 179 countries.",
+    "primary_source": "Data Center Map, https://www.datacentermap.com/datacenters/ (WebFetch blocked by unanswered permission prompt; page names the source)"
+   }
+  ],
+  "image": "social/out/2026-10-13-us-data-centers.png",
+  "alt_text": "The US has 4,767 data centers, the most of any country, compared with 568 in the United Kingdom, 533 in Germany and 393 in France. Virginia alone has 674, the most of any state. Source: Data Center Map, August 2026.",
+  "copy": {
+   "linkedin": "The US has 4,767 data centers, more than any other country.\n\n• The UK ranks second with 568, followed by Germany with 533 and France with 393.\n• Every US state has at least one data center. Virginia has the most (674) and Vermont the least (3).\n• Ashburn, Virginia, alone is home to 175 data centers.\n• Worldwide, there are 12,259 active data centers across 179 countries.\n\nSource: Data Center Map, counts as of August 2026.\n\nMore data center statistics: https://programs.com/resources/data-center-statistics/",
+   "facebook": "The US has 4,767 data centers, more than any other country, according to Data Center Map counts from August 2026. The UK ranks second with 568.\n\nhttps://programs.com/resources/data-center-statistics/",
+   "instagram": "The US has 4,767 data centers, more than any other country.\n\nThe UK ranks second with 568.\nVirginia alone has 674, the most of any US state.\n\nSource: Data Center Map, counts as of August 2026.\n\nFull breakdown at programs.com.\n\n#DataCenters #AI #ArtificialIntelligence #CloudComputing #TechStats"
+  },
+  "buffer": {
+   "linkedin": "6ace2a6464eb86867a140c29",
+   "facebook": "6ace2a71a5670ad01c4cd21f",
+   "instagram": "6ace2a787a819fc95e48f556"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard). Data centers last ran 2026-10-06 (moratoriums tracker, different page). Page heading says the US has 'almost 9x more data centers than any other country', but 4,767 / 568 is 8.4x, so that ratio was not used. WebFetch on datacentermap.com was blocked by an unanswered permission prompt; WebSearch did not surface the count."
+ },
+ {
+  "date": "2026-10-14",
+  "type": "degree",
+  "slug": "ai-bachelors-ranking",
+  "source_url": "https://programs.com/programs/ai-bachelor-degree-programs/",
+  "headline": "We just updated our ranking of the 25 best AI bachelor's degree programs",
+  "figures": [
+   {
+    "value": "1. University of California, San Diego",
+    "page_quote": "1 / University of California, San Diego / Best for: Early AI immersion",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "2. Georgia Institute of Technology",
+    "page_quote": "2 / Georgia Institute of Technology / Best for: Industry integration",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "3. University of California, Berkeley",
+    "page_quote": "3 / University of California, Berkeley / Best for: Industry exposure",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "4. University of Texas at Austin",
+    "page_quote": "4 / University of Texas at Austin / Best for: Applied project focus",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "5. Virginia Tech",
+    "page_quote": "5 / Virginia Tech / Best for: Interdisciplinary AI",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "6. University of Maryland, College Park",
+    "page_quote": "6 / University of Maryland, College Park / Best for: Applied research exposure",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "7. Purdue University",
+    "page_quote": "7 / Purdue University / Best for: Practical breadth",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "8. University of Washington",
+    "page_quote": "8 / University of Washington / Best for: Practical experience",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "9. Carnegie Mellon University",
+    "page_quote": "9 / Carnegie Mellon University / Best for: Dedicated AI degree",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "10. University of California, Santa Barbara",
+    "page_quote": "10 / University of California, Santa Barbara / Best for: Early AI focus",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "11. University of Michigan, Ann Arbor",
+    "page_quote": "11 / University of Michigan, Ann Arbor / Best for: Practical AI preparation",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "12. University of Florida",
+    "page_quote": "12 / University of Florida / Best for: Course variety",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "13. Stanford University",
+    "page_quote": "13 / Stanford University / Best for: Exploratory specialization",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "14. University of California, Davis",
+    "page_quote": "14 / University of California, Davis / Best for: Practical foundation",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "15. University of California, Irvine",
+    "page_quote": "15 / University of California, Irvine / Best for: Applied flexibility",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "16. Rice University",
+    "page_quote": "16 / Rice University / Best for: Early specialization",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "17. Massachusetts Institute of Technology (MIT)",
+    "page_quote": "17 / Massachusetts Institute of Technology (MIT) / Best for: Research immersion",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "18. University of Southern California",
+    "page_quote": "18 / University of Southern California / Best for: Dedicated AI degree",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "19. Cornell University",
+    "page_quote": "19 / Cornell University / Best for: Research opportunities",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "20. Columbia University",
+    "page_quote": "20 / Columbia University / Best for: Interdisciplinary exposure",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "21. Duke University",
+    "page_quote": "21 / Duke University / Best for: Interdisciplinary integration",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "22. California Institute of Technology (Caltech)",
+    "page_quote": "22 / California Institute of Technology (Caltech) / Best for: Interdisciplinary focus",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "23. Brown University",
+    "page_quote": "23 / Brown University / Best for: Flexible specialization",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "24. Princeton University",
+    "page_quote": "24 / Princeton University / Best for: Independent study",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "25. Rensselaer Polytechnic Institute",
+    "page_quote": "25 / Rensselaer Polytechnic Institute / Best for: Focused AI depth",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "Last Updated: October 9, 2026",
+    "page_quote": "Last Updated: October 9, 2026",
+    "primary_source": "Programs.com page meta (post-meta__datetime)"
+   },
+   {
+    "value": "six weighted factors",
+    "page_quote": "In order to rank the top AI degrees, we scored programs based on six weighted factors. Top weight (25%) went to hands-on practice ... Curriculum relevance comprised 20% ... We also gave affordability 20% weighting ... Academic quality was worth 15% ... 10% of the final scores came from focus on AI ... Admissions decided the final 10%.",
+    "primary_source": "Programs.com methodology section"
+   }
+  ],
+  "image": "social/out/2026-10-14-ai-bachelors-ranking.png",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 25 best AI bachelor's degree programs.\n\n1. University of California, San Diego: early AI immersion\n2. Georgia Institute of Technology: industry integration\n3. University of California, Berkeley: industry exposure\n4. University of Texas at Austin: applied project focus\n5. Virginia Tech: interdisciplinary AI\n6. University of Maryland, College Park: applied research exposure\n7. Purdue University: practical breadth\n8. University of Washington: practical experience\n9. Carnegie Mellon University: dedicated AI degree\n10. University of California, Santa Barbara: early AI focus\n11. University of Michigan, Ann Arbor: practical AI preparation\n12. University of Florida: course variety\n13. Stanford University: exploratory specialization\n14. University of California, Davis: practical foundation\n15. University of California, Irvine: applied flexibility\n16. Rice University: early specialization\n17. Massachusetts Institute of Technology (MIT): research immersion\n18. University of Southern California: dedicated AI degree\n19. Cornell University: research opportunities\n20. Columbia University: interdisciplinary exposure\n21. Duke University: interdisciplinary integration\n22. California Institute of Technology (Caltech): interdisciplinary focus\n23. Brown University: flexible specialization\n24. Princeton University: independent study\n25. Rensselaer Polytechnic Institute: focused AI depth\n\nRanked on hands-on practice (25%), curriculum relevance (20%), affordability (20%), academic quality (15%), AI focus (10%) and admissions (10%).\n\nFull ranking: https://programs.com/programs/ai-bachelor-degree-programs/",
+   "facebook": "We just updated our ranking of the 25 best AI bachelor's degree programs. The top 10:\n\n1. University of California, San Diego\n2. Georgia Institute of Technology\n3. University of California, Berkeley\n4. University of Texas at Austin\n5. Virginia Tech\n6. University of Maryland, College Park\n7. Purdue University\n8. University of Washington\n9. Carnegie Mellon University\n10. University of California, Santa Barbara\n\nhttps://programs.com/programs/ai-bachelor-degree-programs/",
+   "instagram": "We just updated our ranking of the 25 best AI bachelor's degree programs.\n\n1. UC San Diego: early AI immersion\n2. Georgia Tech: industry integration\n3. UC Berkeley: industry exposure\n4. UT Austin: applied project focus\n5. Virginia Tech: interdisciplinary AI\n6. UMD College Park: applied research exposure\n7. Purdue: practical breadth\n8. University of Washington: practical experience\n9. Carnegie Mellon: dedicated AI degree\n10. UC Santa Barbara: early AI focus\n\nAll 25 at programs.com.\n\n#ArtificialIntelligence #AIDegree #ComputerScience #CollegeRankings #HigherEducation"
+  },
+  "buffer": {
+   "linkedin": "6acf7b3a58efe154c754452f",
+   "facebook": "6acf7aeb84dc0d12ded3893f",
+   "instagram": "6acf7b0d77b08ba8d4b94d13"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard). Page 6523, visible Last Updated October 9, 2026, so the 'We just updated' opening applies. Ranking mixes dedicated AI majors and CS degrees with an AI concentration, as the page states. First LinkedIn create_post was blocked by the session's permission check before reaching Buffer; confirmed no LinkedIn post existed, retried once and it went through."
+ },
+ {
+  "date": "2026-10-15",
+  "type": "stat",
+  "slug": "cybersecurity-workforce-gap",
+  "source_url": "https://programs.com/resources/total-cybersecurity-pros/",
+  "headline": "The global cybersecurity workforce gap reached 4.8 million in 2024",
+  "figures": [
+   {
+    "value": "4.8 million (2024 gap)",
+    "page_quote": "In total, there is a cybersecurity workforce gap of approximately 4.8 million. That’s a 41% increase on 2022’s 3.4 million and a 20% increase on 2023’s 4 million.",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   },
+   {
+    "value": "3.4 million (2022 gap), 4 million (2023 gap)",
+    "page_quote": "In total, there is a cybersecurity workforce gap of approximately 4.8 million. That’s a 41% increase on 2022’s 3.4 million and a 20% increase on 2023’s 4 million.",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   },
+   {
+    "value": "5.5 million workforce, up 0.1% from 2023",
+    "page_quote": "According to the most recent estimates, there are approximately 5.5 million people currently working in cybersecurity worldwide. That total represents just a 0.1% increase from 2023 (but a 17% increase since 2022).",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   },
+   {
+    "value": "67% of organizations report a shortage",
+    "page_quote": "Cybersecurity staffing scarcity remains high, with around 2 in 3 (67%) organizations reporting a shortage.",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   },
+   {
+    "value": "US gap 504,000 (2024)",
+    "page_quote": "US | 483k | 504k | ↑ 4.4% (workforce gap by country table, 2023 / 2024)",
+    "primary_source": "ISC2 Cybersecurity Workforce Study 2024 (https://www.isc2.org/Insights/2024/09/Employers-Must-Act-Cybersecurity-Workforce-Growth-Stalls-as-Skills-Gaps-Widen); page could not be opened (WebFetch permission prompt unanswered), WebSearch result titles corroborate stalled growth"
+   }
+  ],
+  "image": "social/out/2026-10-15-cybersecurity-workforce-gap.png",
+  "copy": {
+   "linkedin": "The global cybersecurity workforce gap reached 4.8 million in 2024.\n\n• The gap was 3.4 million in 2022 and 4 million in 2023.\n• The global cybersecurity workforce is 5.5 million, up just 0.1% from 2023.\n• 67% of organizations report a cybersecurity staffing shortage.\n• The US workforce gap is 504,000.\n\nSource: ISC2 Cybersecurity Workforce Study, 2024, global data.\n\nMore cybersecurity workforce data from Programs.com:\nhttps://programs.com/resources/total-cybersecurity-pros/",
+   "facebook": "The global cybersecurity workforce gap reached 4.8 million in 2024, up from 3.4 million in 2022. Over the same year the global cybersecurity workforce grew just 0.1%, to 5.5 million (ISC2 Cybersecurity Workforce Study, 2024).\n\nhttps://programs.com/resources/total-cybersecurity-pros/",
+   "instagram": "The global cybersecurity workforce gap reached 4.8 million in 2024.\n\nThe gap was 3.4 million in 2022.\nThe global cybersecurity workforce is 5.5 million, up just 0.1% from 2023.\n\nSource: ISC2 Cybersecurity Workforce Study, 2024.\n\nFull breakdown at programs.com.\n\n#cybersecurity #infosec #cybersecurityjobs #techcareers #workforce"
+  },
+  "buffer": {
+   "linkedin": "6ad0cd9d5d6d63b3aef89c74",
+   "facebook": "6ad0cdaa8913aa90c397cf6d",
+   "instagram": "6ad0cdb3e8416cbf0cfb3eb6"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; last 6 were 4 stat, 1 wildcard, 1 degree, so a stat post. Picked cybersecurity to break the AI-education/data-center run. Added an \"M\" suffix to num_html in render.py (accent-coloured like %). Page inconsistency: top-stats list says US has 'over 1.3 million' (CyberSeek 1,337,400) and also 'nearly 1.3 million' (ISC2 1.299M) without naming the different sources; also 'ICS2' typo and 'more than one-third (41%)'. Not used in the post."
+ },
+ {
+  "date": "2026-10-16",
+  "type": "stat",
+  "slug": "ai-layoff-regret",
+  "source_url": "https://programs.com/resources/ai-job-cut-reversals/",
+  "headline": "55% of business leaders who cut staff to bring in AI say it was the wrong decision",
+  "figures": [
+   {
+    "value": "55% say AI-driven cuts were the wrong decision",
+    "page_quote": "However, of those who chose to make the leap, more than half (55%) have said it was the wrong choice.",
+    "primary_source": "Orgvue (https://www.orgvue.com/news/55-of-businesses-admit-wrong-decisions-in-making-employees-redundant-when-bringing-ai-into-the-workforce/); page could not be opened (WebFetch permission prompt unanswered); WebSearch titles (Orgvue, HR Dive, HRreview, HR Reporter) corroborate 55% of leaders calling AI redundancies wrong/a mistake"
+   },
+   {
+    "value": "39% have made layoffs in favor of AI",
+    "page_quote": "According to a survey of 1,000 senior decision-makers, around 2 in 5 (39%) have made layoffs in favor of using AI.",
+    "primary_source": "Orgvue (https://www.orgvue.com/news/55-of-businesses-admit-wrong-decisions-in-making-employees-redundant-when-bringing-ai-into-the-workforce/); page could not be opened (WebFetch permission prompt unanswered); WebSearch titles (Orgvue, HR Dive, HRreview, HR Reporter) corroborate 55% of leaders calling AI redundancies wrong/a mistake"
+   },
+   {
+    "value": "30.9% spent more on rehiring than they saved",
+    "page_quote": "In fact, 30.9% of organizations that brought back employees spent more doing so than they saved from the original cut.",
+    "primary_source": "Forrester AI Job Impact Forecast US 2025-2030 (https://www.forrester.com/report/the-forrester-ai-job-impact-forecast-us-2025-2030/RES190071), as named on the page; not opened (paywalled report, WebFetch prompts unanswered)"
+   },
+   {
+    "value": "10 companies tracked: 5 reversals, 5 pullbacks",
+    "page_quote": "Tracker status: Companies tracked 10 / Reversals 5 / Pullbacks 5 (Last updated Oct 7, 2026)",
+    "primary_source": "Programs.com AI Layoff Reversal Tracker"
+   }
+  ],
+  "image": "social/out/2026-10-16-ai-layoff-regret.png",
+  "copy": {
+   "linkedin": "55% of business leaders who cut staff to bring in AI say it was the wrong decision.\n\n• 39% of the leaders surveyed have made layoffs in favor of using AI.\n• 30.9% of organizations that brought back employees spent more on rehiring than they saved from the original cut.\n• Our AI Layoff Reversal Tracker lists 10 companies: 5 reversals and 5 pullbacks.\n\nSource: Orgvue survey of senior decision-makers (55%, 39%); Forrester (30.9%).\n\nEvery company that rehired workers replaced by AI:\nhttps://programs.com/resources/ai-job-cut-reversals/",
+   "facebook": "55% of business leaders who cut staff to bring in AI say it was the wrong decision, according to an Orgvue survey of senior decision-makers. Our AI Layoff Reversal Tracker now lists 10 companies that reversed or pulled back on replacing workers with AI.\n\nhttps://programs.com/resources/ai-job-cut-reversals/",
+   "instagram": "55% of business leaders who cut staff to bring in AI say it was the wrong decision.\n\n39% of the leaders surveyed have made layoffs in favor of using AI.\n30.9% of organizations that brought back employees spent more on rehiring than they saved.\n\nSource: Orgvue survey of senior decision-makers (55%, 39%); Forrester (30.9%).\n\nFull breakdown at programs.com.\n\n#AI #layoffs #futureofwork #artificialintelligence #hiring"
+  },
+  "buffer": {
+   "linkedin": "6ad21f07f24c5797a23d905f",
+   "facebook": "6ad21f14b948bf9e9d9603e8",
+   "instagram": "6ad21f1b63c879f9585a8ed2"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; window of 7 needed a 5th stat post. First use of the AI layoff reversals tracker (post 8627, about 25,000 characters inline). Topic AI and jobs, breaking from yesterday's cybersecurity. The page gives no year for the Orgvue survey, so the source line omits a year; it also says '1,000 senior decision-makers', which was left out of the copy because the exact sample could not be checked. Page issues (not used): the 30.9% / 42.37% / 26.69% rehiring-cost split is credited to Forrester while the surrounding rehiring data is from Careerminds, worth checking; methodology grammar 'but haven't actually rehired' and an unclosed parenthesis in the Dates paragraph; the 55% charts reuse files named 'Open-Cybersecurity-Jobs-*.png'. All three Buffer posts sent within about 25 seconds."
+ },
+ {
+  "date": "2026-10-17",
+  "type": "wildcard",
+  "slug": "deepfake-laws-states",
+  "source_url": "https://programs.com/resources/deepfake-legislation/",
+  "headline": "47 US states have enacted laws targeting AI deepfakes, as of June 2026",
+  "figures": [
+   {
+    "value": "47 states",
+    "page_quote": "As of June 2026, 47 states have enacted legislation directly targeting the use of AI-generated media:",
+    "primary_source": "Programs.com Deepfake Legislation Database (page lists the 47 states by name; state map drawn from that list)"
+   },
+   {
+    "value": "146 bills in 2025",
+    "page_quote": "In 2025 alone, 146 bills were introduced to state legislators that included language specific to AI deepfakes.",
+    "primary_source": "Programs.com Deepfake Legislation Database (no third-party source named on the page)"
+   },
+   {
+    "value": "law types (no number)",
+    "page_quote": "Some impose criminal penalties for creating or distributing explicit deepfakes, others establish new civil causes of action, and many introduce disclosure requirements for AI-generated political content.",
+    "primary_source": "Programs.com Deepfake Legislation Database"
+   }
+  ],
+  "image": "social/out/2026-10-17-deepfake-laws-states.png",
+  "copy": {
+   "linkedin": "47 US states have enacted laws targeting AI deepfakes, as of June 2026.\n\n• In 2025 alone, 146 bills with language specific to AI deepfakes were introduced in state legislatures.\n• Some of these laws impose criminal penalties for creating or distributing explicit deepfakes.\n• Others establish new civil causes of action, and many require disclosure on AI-generated political content.\n\nSource: Programs.com Deepfake Legislation Database.\n\nEvery enacted law by state, with bill numbers and dates:\nhttps://programs.com/resources/deepfake-legislation/",
+   "facebook": "47 US states have enacted laws targeting AI deepfakes as of June 2026, according to the Programs.com Deepfake Legislation Database. In 2025 alone, 146 bills with language specific to AI deepfakes were introduced in state legislatures.\n\nhttps://programs.com/resources/deepfake-legislation/",
+   "instagram": "47 US states have enacted laws targeting AI deepfakes, as of June 2026.\n\nIn 2025 alone, 146 bills with language specific to AI deepfakes were introduced in state legislatures.\n\nSource: Programs.com Deepfake Legislation Database.\n\nFull breakdown at programs.com.\n\n#deepfakes #AI #artificialintelligence #AIpolicy #technews"
+  },
+  "buffer": {
+   "linkedin": "6ad36f13ae173d6e00b7f270",
+   "facebook": "6ad36f200b0d72757ad8f5dd",
+   "instagram": "6ad36f3b938409f1d0870e0c"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Wildcard (mix: last 7 had 5 stats, 1 degree). State-map angle from the deepfake legislation database (post 4197, modified 2026-10-12). Page errors found: (1) intro says 'Since 2022, 175 laws have been enacted' but the state table has 176 rows, and the table includes resolutions (e.g. HI HR85, HI SR81) as well as laws, so the 175 figure was not used; (2) the post title misspells 'Legistlation'; (3) the 47-state count is labelled 'As of June 2026' although the page was modified in October. The 47 listed states match the 47 state codes in the table (AK, MO, OH absent from both). The page names no third-party source for its figures, so they are credited to Programs.com. All three Buffer posts were sent within about 25 seconds."
+ },
+ {
+  "date": "2026-10-18",
+  "type": "stat",
+  "slug": "programming-grad-unemployment",
+  "source_url": "https://programs.com/resources/highest-paying-tech-majors/",
+  "headline": "36% of recent computer programming graduates are unemployed and seeking work, the highest rate of any tech major on our list",
+  "figures": [
+   {
+    "value": "36%",
+    "page_quote": "Computer programming majors have a 36% unemployment rate—the highest of any tech major. / Graduates unemployed and seeking employment: 36%",
+    "primary_source": "National Association of Colleges and Employers (NACE), first-destination survey, class of 2024 (year from the linked NACE URL); naceweb.org hit the WebFetch permission prompt, so the figure rests on the page's named source"
+   },
+   {
+    "value": "21%",
+    "page_quote": "Computer engineering has an even higher unemployment rate at 21%.",
+    "primary_source": "National Association of Colleges and Employers (NACE), first-destination survey, class of 2024 (year from the linked NACE URL); naceweb.org hit the WebFetch permission prompt, so the figure rests on the page's named source"
+   },
+   {
+    "value": "15%",
+    "page_quote": "While computer science is the highest-paying tech major, 15% of students are still unemployed six months after graduation.",
+    "primary_source": "National Association of Colleges and Employers (NACE), first-destination survey, class of 2024 (year from the linked NACE URL); naceweb.org hit the WebFetch permission prompt, so the figure rests on the page's named source"
+   },
+   {
+    "value": "$101,661",
+    "page_quote": "Average starting salary: $101,661",
+    "primary_source": "National Association of Colleges and Employers (NACE), first-destination survey, class of 2024 (year from the linked NACE URL); naceweb.org hit the WebFetch permission prompt, so the figure rests on the page's named source"
+   },
+   {
+    "value": "5%",
+    "page_quote": "Graduates unemployed and seeking employment: 5% (Data Analytics)",
+    "primary_source": "National Association of Colleges and Employers (NACE), first-destination survey, class of 2024 (year from the linked NACE URL); naceweb.org hit the WebFetch permission prompt, so the figure rests on the page's named source"
+   },
+   {
+    "value": "77%",
+    "page_quote": "Data analytics majors and information technology administration graduates report the highest employment at 77% and 74%, respectively.",
+    "primary_source": "National Association of Colleges and Employers (NACE), first-destination survey, class of 2024 (year from the linked NACE URL); naceweb.org hit the WebFetch permission prompt, so the figure rests on the page's named source"
+   }
+  ],
+  "image": "social/out/2026-10-18-programming-grad-unemployment.png",
+  "copy": {
+   "linkedin": "36% of recent computer programming graduates are unemployed and seeking work, the highest rate of any tech major on our list.\n\n• Computer engineering: 21% unemployed\n• Computer science: 15% unemployed, despite the highest average starting salary at $101,661\n• Data analytics: 5% unemployed, with 77% employed\n\nSource: National Association of Colleges and Employers (NACE), class of 2024 graduates, six months after graduation.\n\nSalaries and job outcomes by tech major: https://programs.com/resources/highest-paying-tech-majors/",
+   "facebook": "36% of recent computer programming graduates are unemployed and seeking work, the highest rate of any tech major on our list. Data analytics graduates come in at 5%. Source: NACE, class of 2024 graduates, six months after graduation.\n\nhttps://programs.com/resources/highest-paying-tech-majors/",
+   "instagram": "36% of recent computer programming graduates are unemployed and seeking work, the highest rate of any tech major on our list.\n\nComputer science grads: 15% unemployed, with a $101,661 average starting salary.\nData analytics grads: 5% unemployed.\n\nSource: NACE, class of 2024 graduates, six months after graduation.\n\nFull breakdown at programs.com.\n\n#techcareers #computerscience #collegemajors #datanalytics #jobmarket"
+  },
+  "buffer": {
+   "linkedin": "6ad4c1dbae173d6e00006ce6",
+   "facebook": "6ad4c201938409f1d0cee6b1",
+   "instagram": "6ad4c209a48c8f83719a25ee"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue was empty; stats post chosen to keep the 7-post mix (5 stats, 1 degree, 1 wildcard). Page errors found (not used): the Information Science section says 'such a high rate of employment (77%)' while its own bullet says 71% employed; 'UC Berkley' is misspelled. Instagram hashtag '#datanalytics' went out misspelled (should be #dataanalytics); left as published. All three posts were sent within about 25 seconds."
+ }
 ]
