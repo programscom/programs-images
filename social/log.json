@@ -940,5 +940,51 @@
    "instagram": "sent"
   },
   "notes": "Queue was empty; stats post chosen to keep the 7-post mix (5 stats, 1 degree, 1 wildcard). Page errors found (not used): the Information Science section says 'such a high rate of employment (77%)' while its own bullet says 71% employed; 'UC Berkley' is misspelled. Instagram hashtag '#datanalytics' went out misspelled (should be #dataanalytics); left as published. All three posts were sent within about 25 seconds."
+ },
+ {
+  "date": "2026-10-19",
+  "type": "stat",
+  "slug": "shadow-ai-sensitive-data",
+  "source_url": "https://programs.com/resources/shadow-ai-stats/",
+  "headline": "43% of workers surveyed have shared sensitive work information with AI tools without their employer's knowledge",
+  "figures": [
+   {
+    "value": "43%",
+    "page_quote": "43% of employees admitted to sharing sensitive work information with AI tools without their employers’ permission (Cybsafe and National Cybersecurity Alliance, September 2025)",
+    "primary_source": "CybSafe and National Cybersecurity Alliance, Oh Behave! Annual Cybersecurity Attitudes and Behaviors Report 2025-2026 (September 2025). staysafeonline.org hit the WebFetch permission prompt; confirmed via automation.com coverage of the release: '43% admitted to sharing sensitive workplace information with AI tools without employer knowledge' and '58% of users report receiving no training on security or privacy risks'. Survey of 6,500+ people in 7 countries; the base for 43% (all respondents vs. AI users) is not stated in coverage, so the copy says 'workers surveyed'."
+   },
+   {
+    "value": "58%",
+    "page_quote": "58% of employees haven’t received formal training on safe AI use at work (Cybsafe and National Cybersecurity Alliance, September 2025)",
+    "primary_source": "CybSafe and National Cybersecurity Alliance, Oh Behave! Annual Cybersecurity Attitudes and Behaviors Report 2025-2026 (September 2025). staysafeonline.org hit the WebFetch permission prompt; confirmed via automation.com coverage of the release: '43% admitted to sharing sensitive workplace information with AI tools without employer knowledge' and '58% of users report receiving no training on security or privacy risks'. Survey of 6,500+ people in 7 countries; the base for 43% (all respondents vs. AI users) is not stated in coverage, so the copy says 'workers surveyed'."
+   },
+   {
+    "value": "20%",
+    "page_quote": "20% of organizations in IBM’s analysis have suffered a security breach related to shadow AI (IBM, August 2025)",
+    "primary_source": "IBM Cost of a Data Breach report 2025 (page cites 'IBM, August 2025'); ibm.com not opened, figure rests on the page's named source."
+   },
+   {
+    "value": "$670,000",
+    "page_quote": "For organizations with high levels of shadow AI, breaches added $670,000 to the average breach cost, a 16% increase compared to those with low levels or none (IBM, August 2025)",
+    "primary_source": "IBM Cost of a Data Breach report 2025 (page cites 'IBM, August 2025'); ibm.com not opened, figure rests on the page's named source."
+   }
+  ],
+  "image": "social/out/2026-10-19-shadow-ai-sensitive-data.png",
+  "copy": {
+   "linkedin": "43% of workers surveyed have shared sensitive work information with AI tools without their employer's knowledge.\n\n• 58% have not received formal training on safe AI use at work\n• 20% of organizations in IBM's analysis suffered a security breach related to shadow AI\n• At organizations with high levels of shadow AI, breaches added $670,000 to the average breach cost\n\nSource: CybSafe and National Cybersecurity Alliance survey, 2025 (first two figures); IBM, 2025 (last two).\n\nMore shadow AI statistics: https://programs.com/resources/shadow-ai-stats/",
+   "facebook": "43% of workers surveyed have shared sensitive work information with AI tools without their employer's knowledge, and 58% have not received formal training on safe AI use at work. Source: CybSafe and National Cybersecurity Alliance survey, 2025.\n\nhttps://programs.com/resources/shadow-ai-stats/",
+   "instagram": "43% of workers surveyed have shared sensitive work information with AI tools without their employer's knowledge.\n\n58% have not received formal training on safe AI use at work.\n\n20% of organizations in IBM's analysis suffered a security breach related to shadow AI.\n\nSource: CybSafe and National Cybersecurity Alliance survey, 2025; IBM, 2025.\n\nFull breakdown at programs.com.\n\n#shadowAI #cybersecurity #artificialintelligence #datasecurity #AIgovernance"
+  },
+  "buffer": {
+   "linkedin": "6ad613a69d89c1f845bf5204",
+   "facebook": "6ad613b351676f487cfc7c8a",
+   "instagram": "6ad613bb5d0e03e7d3baae99"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen to keep the 7-post mix (degree and wildcard already in the last 6). Topic shifts from tech majors (yesterday) to AI security. Page errors on shadow-ai-stats (post 3569), not used: (1) page says 'without their employers’ permission' but the CybSafe/NCA release says 'without employer knowledge'; copy follows the source. (2) the same IBM report URL is dated 'August 2025' in some headings and 'July 2026' in others (92% access controls, 68% no governance, 32%/38%). (3) 'Half of all employees say their organization’s AI use guidelines are very clear' is followed by text saying half report guidelines are unclear, which does not follow. (4) 'Original stat' that 78% of organizations have not communicated a plan is derived from a Gallup employee figure (22% of employees), not organizations. (5) the 76% BYOAI 'original stat' does not follow from 98% and 78%."
  }
 ]
