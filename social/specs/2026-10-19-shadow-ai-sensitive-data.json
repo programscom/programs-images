@@ -1,0 +1,12 @@
+{
+ "template": "stat",
+ "eyebrow": "Shadow AI",
+ "num": "43%",
+ "label": "of workers surveyed secretly shared sensitive work data with AI tools",
+ "viz": {
+  "type": "waffle",
+  "pct": 43
+ },
+ "note": "**58%** have had no formal training on safe AI use at work",
+ "source": "Source: CybSafe and National Cybersecurity Alliance survey, 2025"
+}
