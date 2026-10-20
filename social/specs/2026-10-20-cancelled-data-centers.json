@@ -1,0 +1,16 @@
+{
+ "template": "stat",
+ "eyebrow": "Data centers",
+ "num": "64",
+ "label": "large US data center projects cancelled since January 2024",
+ "viz": {
+  "type": "bars",
+  "bars": [
+   {"label": "2024", "value": 3, "display": "3"},
+   {"label": "2025", "value": 23, "display": "23"},
+   {"label": "2026 (to Oct 19)", "value": 38, "display": "38"}
+  ]
+ },
+ "note": "Local opposition cited in **33** of the 64",
+ "source": "Source: Programs.com cancelled data center projects tracker, October 2026"
+}
