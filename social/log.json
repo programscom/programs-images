@@ -986,5 +986,62 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; stat chosen to keep the 7-post mix (degree and wildcard already in the last 6). Topic shifts from tech majors (yesterday) to AI security. Page errors on shadow-ai-stats (post 3569), not used: (1) page says 'without their employers’ permission' but the CybSafe/NCA release says 'without employer knowledge'; copy follows the source. (2) the same IBM report URL is dated 'August 2025' in some headings and 'July 2026' in others (92% access controls, 68% no governance, 32%/38%). (3) 'Half of all employees say their organization’s AI use guidelines are very clear' is followed by text saying half report guidelines are unclear, which does not follow. (4) 'Original stat' that 78% of organizations have not communicated a plan is derived from a Gallup employee figure (22% of employees), not organizations. (5) the 76% BYOAI 'original stat' does not follow from 98% and 78%."
+ },
+ {
+  "date": "2026-10-20",
+  "type": "stat",
+  "slug": "cancelled-data-centers",
+  "source_url": "https://programs.com/resources/data-center-project-tracker/",
+  "headline": "64 large data center projects have been cancelled in the US since January 2024",
+  "figures": [
+   {
+    "value": "64",
+    "page_quote": "64 large data center projects have been cancelled in the US since 2024",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated October 19, 2026); every table row has a named news source. Totals re-counted by script from the 64-row project table."
+   },
+   {
+    "value": "3 / 23 / 38 by year",
+    "page_quote": "2024 3 — $16.8B; 2025 23 4,700 $72.55B; 2026 38 11,210 $73.9B (Cancelled projects by quarter table). The 2026 figure runs through Oct 19, 2026.",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated October 19, 2026); every table row has a named news source. Totals re-counted by script from the 64-row project table."
+   },
+   {
+    "value": "33 of 64",
+    "page_quote": "Local opposition was cited in 33 of 64 cancellations",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated October 19, 2026); every table row has a named news source. Totals re-counted by script from the 64-row project table."
+   },
+   {
+    "value": "$163 billion",
+    "page_quote": "Cancelled projects carried at least $163 billion in announced investment. The total is based on the 31 projects that reported a dollar amount.",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated October 19, 2026); every table row has a named news source. Totals re-counted by script from the 64-row project table."
+   },
+   {
+    "value": "Virginia, 10",
+    "page_quote": "Virginia has the most cancelled data center projects, with 10",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated October 19, 2026); every table row has a named news source. Totals re-counted by script from the 64-row project table."
+   },
+   {
+    "value": "100 MW or $1 billion",
+    "page_quote": "The count covers projects of at least 100 MW or $1 billion that a developer withdrew, a local government denied, or that lost their land deal.",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated October 19, 2026); every table row has a named news source. Totals re-counted by script from the 64-row project table."
+   }
+  ],
+  "image": "social/out/2026-10-20-cancelled-data-centers.png",
+  "copy": {
+   "linkedin": "64 large data center projects have been cancelled in the US since January 2024.\n\n• 38 were cancelled in 2026 so far, up from 23 in 2025 and 3 in 2024\n• Local opposition was cited in 33 of the 64 cancellations\n• The cancelled projects carried at least $163 billion in announced investment\n• Virginia has the most, with 10\n\nThe count covers projects of at least 100 MW or $1 billion. 2026 runs through October 19.\n\nSource: Programs.com cancelled data center projects tracker, October 2026.\n\nFull tracker: https://programs.com/resources/data-center-project-tracker/",
+   "facebook": "64 large data center projects have been cancelled in the US since January 2024, including 38 so far in 2026, according to the Programs.com cancelled data center projects tracker. Local opposition was cited in 33 of them.\n\nhttps://programs.com/resources/data-center-project-tracker/",
+   "instagram": "64 large data center projects have been cancelled in the US since January 2024.\n\n38 were cancelled in 2026 so far, up from 23 in 2025. Local opposition was cited in 33 of the 64.\n\nSource: Programs.com cancelled data center projects tracker, October 2026.\n\nFull breakdown at programs.com.\n\n#datacenters #AI #infrastructure #energy #technology"
+  },
+  "alt_text": "64 large US data center projects have been cancelled since January 2024: 3 in 2024, 23 in 2025 and 38 in 2026 through October 19. Local opposition was cited in 33 of the 64.",
+  "buffer": {
+   "linkedin": "6ad763cafddc261c26fc6ffb",
+   "facebook": "6ad763dafddc261c26fc7227",
+   "instagram": "6ad763e0506402f7846e592d"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen to keep the 7-post mix (last 6: 4 stats, 1 degree, 1 wildcard). First use of the cancelled data center projects tracker (post 10391, modified 2026-10-19). Data centers last ran 2026-10-13; yesterday was shadow AI, the day before tech majors. A script re-counted the 64-row project table: 3/23/38 by year, 33 local opposition, 39 withdrawn / 23 denied / 2 deal ended, 25 states, Virginia 10, 15,910 MW over 26 projects, all matching the page. Update log reconciles (59 on Oct 8, +1, +1, +3 = 64). Investment column sums to $163.25B over 31 projects; page says 'at least $163 billion', consistent. Minor page typos (not used): '6 of thecancelled projects' and '11 stateshave 1 each' are missing spaces."
  }
 ]
