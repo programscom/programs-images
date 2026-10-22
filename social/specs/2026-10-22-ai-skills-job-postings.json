@@ -1,0 +1,15 @@
+{
+ "template": "stat",
+ "eyebrow": "AI and jobs",
+ "num": "111%",
+ "label": "growth in US job postings that ask for AI skills in one year",
+ "viz": {
+  "type": "bars",
+  "bars": [
+   {"label": "Sep 2025", "value": 174875, "display": "174,875"},
+   {"label": "Sep 2026", "value": 368605, "display": "368,605"}
+  ]
+ },
+ "note": "**3.8%** of all US job postings now ask for AI skills, up from 2.1%",
+ "source": "Source: Bipartisan Policy Center Skills Data Dashboard, Lightcast job postings data, 2026"
+}
