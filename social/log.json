@@ -1179,5 +1179,52 @@
    "instagram": "sent"
   },
   "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard; last degree post 2026-10-14). Page 6817, visible Last Updated October 16, 2026, so the 'We just updated' opening applies. Page errors noticed (not used in the post): the page title says 'Compare 261 Programs' and the cost section says 'There are now 261 AI Master's programs available in the US', but the school directory below the ranking shows '287 schools found'; the cost section also says Georgia Tech had 'the lowest tuition in our final top 20' and Stanford is 'the most expensive program on our list', which hold for the listed figures."
+ },
+ {
+  "date": "2026-10-22",
+  "type": "stat",
+  "slug": "ai-skills-job-postings",
+  "source_url": "https://programs.com/resources/ai-skills-demand/",
+  "headline": "US job postings that ask for AI skills grew 111% from September 2025 to September 2026",
+  "figures": [
+   {
+    "value": "111% growth, Sep 2025 to Sep 2026",
+    "page_quote": "111% / growth in job postings that ask for AI skills / September 2025 to September 2026",
+    "primary_source": "Bipartisan Policy Center, Skills Data Dashboard (bipartisanpolicy.org/hub/ai-and-workforce-navigator/skills-data-dashboard/), Lightcast job postings data, updated Oct 9, 2026; US job postings. Source page could not be opened (WebFetch permission prompt unanswered); figure rests on the page's named source."
+   },
+   {
+    "value": "368,605 (Sep 2026) and 174,875 (Sep 2025)",
+    "page_quote": "368,605 / job postings asked for AI skills in September 2026 / Up from 174,875 in September 2025",
+    "primary_source": "Bipartisan Policy Center, Skills Data Dashboard (bipartisanpolicy.org/hub/ai-and-workforce-navigator/skills-data-dashboard/), Lightcast job postings data, updated Oct 9, 2026; US job postings. Source page could not be opened (WebFetch permission prompt unanswered); figure rests on the page's named source."
+   },
+   {
+    "value": "3.8% of all US job postings, up from 2.1%",
+    "page_quote": "3.8% / of all U.S. job postings asked for AI skills / Up from 2.1% in September 2025",
+    "primary_source": "Bipartisan Policy Center, Skills Data Dashboard (bipartisanpolicy.org/hub/ai-and-workforce-navigator/skills-data-dashboard/), Lightcast job postings data, updated Oct 9, 2026; US job postings. Source page could not be opened (WebFetch permission prompt unanswered); figure rests on the page's named source."
+   },
+   {
+    "value": "Industrial engineers +162.1%, past 12 months",
+    "page_quote": "Fastest-growing job / +162.1% / Industrial Engineers / Growth in postings asking for AI skills, past 12 months; table note: 'The occupations with the most postings that ask for AI skills.'",
+    "primary_source": "Bipartisan Policy Center, Skills Data Dashboard (bipartisanpolicy.org/hub/ai-and-workforce-navigator/skills-data-dashboard/), Lightcast job postings data, updated Oct 9, 2026; US job postings. Source page could not be opened (WebFetch permission prompt unanswered); figure rests on the page's named source."
+   }
+  ],
+  "image": "social/out/2026-10-22-ai-skills-job-postings.png",
+  "alt_text": "US job postings that ask for AI skills grew 111% in one year, from 174,875 in September 2025 to 368,605 in September 2026. 3.8% of all US job postings now ask for AI skills, up from 2.1%. Source: Bipartisan Policy Center Skills Data Dashboard, Lightcast job postings data, 2026.",
+  "copy": {
+   "linkedin": "US job postings that ask for AI skills grew 111% from September 2025 to September 2026.\n\n• 368,605 job postings asked for AI skills in September 2026, up from 174,875 a year earlier.\n• That is 3.8% of all US job postings, up from 2.1%.\n• Among the occupations with the most postings that ask for AI skills, industrial engineers grew fastest, up 162.1% over the past 12 months.\n\nSource: Bipartisan Policy Center Skills Data Dashboard, built on Lightcast data on US job postings, updated October 9, 2026.\n\nTracked by job, skill, industry, state and metro area: https://programs.com/resources/ai-skills-demand/",
+   "facebook": "US job postings that ask for AI skills grew 111% in one year, from 174,875 in September 2025 to 368,605 in September 2026. That is according to Bipartisan Policy Center data built on Lightcast job postings.\n\nhttps://programs.com/resources/ai-skills-demand/",
+   "instagram": "US job postings that ask for AI skills grew 111% from September 2025 to September 2026.\n\n368,605 postings asked for AI skills in September 2026, up from 174,875 a year earlier. That is 3.8% of all US job postings, up from 2.1%.\n\nSource: Bipartisan Policy Center Skills Data Dashboard, built on Lightcast job postings data, 2026.\n\nFull breakdown at programs.com.\n\n#AI #ArtificialIntelligence #AISkills #JobMarket #FutureOfWork"
+  },
+  "buffer": {
+   "linkedin": "6ada0809eb1348c17abdc0fc",
+   "facebook": "6ada0815f09f431dcadc4482",
+   "instagram": "6ada081dbf6d801ac6eaf492"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; chose a stats post (last 6: 4 stats, 1 wildcard, 1 degree). New page (post 11057, modified 2026-10-21T08:04:16), first social use. Recomputed from the page's monthly table: 368,605/174,875 = +110.8% (111%); 368,605/9,583,240 = 3.8%; 174,875/8,460,728 = 2.1%; industrial engineers 23,105 added on 14,257 = +162.1%. All consistent. Minor page inconsistency: the header says 'Last Updated: October 21, 2026' while the tracker status box says 'Last updated Oct 12, 2026' (the update log's first version date); not used in the post. Also considered the AI layoffs tracker (now 183,278 across 52 companies, 22% above 2025), but its yearly-total angle was already used on 2026-10-08. WebFetch on bipartisanpolicy.org hit the unanswered permission prompt; WebSearch found no direct corroboration."
  }
 ]
