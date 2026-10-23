@@ -1226,5 +1226,56 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; chose a stats post (last 6: 4 stats, 1 wildcard, 1 degree). New page (post 11057, modified 2026-10-21T08:04:16), first social use. Recomputed from the page's monthly table: 368,605/174,875 = +110.8% (111%); 368,605/9,583,240 = 3.8%; 174,875/8,460,728 = 2.1%; industrial engineers 23,105 added on 14,257 = +162.1%. All consistent. Minor page inconsistency: the header says 'Last Updated: October 21, 2026' while the tracker status box says 'Last updated Oct 12, 2026' (the update log's first version date); not used in the post. Also considered the AI layoffs tracker (now 183,278 across 52 companies, 22% above 2025), but its yearly-total angle was already used on 2026-10-08. WebFetch on bipartisanpolicy.org hit the unanswered permission prompt; WebSearch found no direct corroboration."
+ },
+ {
+  "date": "2026-10-23",
+  "type": "stat",
+  "slug": "us-data-breach-cost",
+  "source_url": "https://programs.com/resources/data-breach-cost/",
+  "headline": "The average data breach at a US organization cost $10.22 million in 2025, the highest of any country",
+  "figures": [
+   {
+    "value": "$10.22 million",
+    "page_quote": "In terms of countries, the US currently has the highest average cost per data breach ($10.22 million). That’s up from $9.36 million in 2024.",
+    "primary_source": "IBM Cost of a Data Breach Report 2025 (https://www.ibm.com/downloads/documents/us-en/131cf87b20b31c91)"
+   },
+   {
+    "value": "$4.44 million",
+    "page_quote": "According to the latest available data, the average cost of a data breach is $4.44 million.",
+    "primary_source": "IBM Cost of a Data Breach Report 2025 (https://www.ibm.com/downloads/documents/us-en/131cf87b20b31c91)"
+   },
+   {
+    "value": "$9.36 million",
+    "page_quote": "In terms of countries, the US currently has the highest average cost per data breach ($10.22 million). That’s up from $9.36 million in 2024.",
+    "primary_source": "IBM Cost of a Data Breach Report 2025 (https://www.ibm.com/downloads/documents/us-en/131cf87b20b31c91)"
+   },
+   {
+    "value": "$7.42 million",
+    "page_quote": "For the 14th consecutive year, healthcare has the highest average data breach cost at $7.42 million.",
+    "primary_source": "IBM Cost of a Data Breach Report 2025 (https://www.ibm.com/downloads/documents/us-en/131cf87b20b31c91)"
+   },
+   {
+    "value": "$4.18 million / $5.08 million",
+    "page_quote": "2025 | $4.18 million | $5.08 million | $0.9 million (table: Security Team Identified Breach / Attacker Disclosed Breach)",
+    "primary_source": "IBM Cost of a Data Breach Report 2025 (https://www.ibm.com/downloads/documents/us-en/131cf87b20b31c91)"
+   }
+  ],
+  "image": "social/out/2026-10-23-us-data-breach-cost.png",
+  "copy": {
+   "linkedin": "The average data breach at a US organization cost $10.22 million in 2025, the highest of any country.\n\n• The global average was $4.44 million.\n• The US average was $9.36 million in 2024.\n• Healthcare had the highest average cost of any industry, at $7.42 million.\n• Breaches found by an organization's own security team cost $4.18 million on average, against $5.08 million when the attacker disclosed them.\n\nSource: IBM Cost of a Data Breach Report 2025, organizations that had a breach.\n\nThe full breakdown by country, industry and breach type: https://programs.com/resources/data-breach-cost/",
+   "facebook": "The average data breach at a US organization cost $10.22 million in 2025, more than twice the global average of $4.44 million, according to the IBM Cost of a Data Breach Report 2025.\n\nhttps://programs.com/resources/data-breach-cost/",
+   "instagram": "The average data breach at a US organization cost $10.22 million in 2025.\n\nThe global average was $4.44 million.\nThe US average was $9.36 million in 2024.\n\nSource: IBM Cost of a Data Breach Report 2025, organizations that had a breach.\n\nFull breakdown at programs.com.\n\n#cybersecurity #databreach #infosec #dataprotection #riskmanagement"
+  },
+  "buffer": {
+   "linkedin": "6adb586d6556f503c4313498",
+   "facebook": "6adb58784553446d6b7fffbe",
+   "instagram": "6adb587c97d61d3921471626"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Mix: stat (window 10-17..10-23 = 5 stat, 1 degree, 1 wildcard). Page post 1607 fits inline in one WPVibe GET. The IBM PDF was not opened; CyberScoop coverage of the IBM 2025 report (cyberscoop.com/ibm-cost-data-breach-2025) confirmed $10.22 million for US companies and $4.44 million global. Possible page issue: the 'Data Breach Cost by Region' section says North America averages $2 million and Asia-Pacific $1.9 million per breach, which sits oddly next to the $10.22 million US and $4.44 million global averages (likely a different source or measure, not labelled); not used. Top-5 list says 'just over $4.4 million' while the body says $4.44 million; consistent. All three Buffer posts sent within about 25 seconds."
  }
 ]
