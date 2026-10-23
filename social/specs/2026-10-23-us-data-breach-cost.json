@@ -1,0 +1,15 @@
+{
+ "template": "stat",
+ "eyebrow": "Cybersecurity",
+ "num": "$10.22M",
+ "label": "average cost of a data breach at US organizations",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "United States", "value": 10.22, "display": "$10.22M", "hi": true},
+   {"label": "Global average", "value": 4.44, "display": "$4.44M"}
+  ]
+ },
+ "note": "US average in 2024: **$9.36M**",
+ "source": "Source: IBM Cost of a Data Breach Report 2025, breached organizations"
+}
