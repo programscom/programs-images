@@ -25,7 +25,7 @@ stat
             {"type": "waffle",   "pct": 92}
             {"type": "bars",     "bars": [{"label": "2024", "value": 42698, "display": "42,698"}, ...]}
             {"type": "compare",  "bars": [...same shape...]}
-            {"type": "units",    "units": 43}
+            {"type": "units",    "units": 43}            optional "on": 13 fills only the first 13 squares
             {"type": "statemap", "states": {"NY": "deep", "MI": "signal", "CT": "tint"},
                                  "legend": [{"cls": "deep", "text": "Statewide moratorium (1)"}, ...]}
             bars = vertical (a trend over time), compare = horizontal (two to four things side by side).
@@ -86,6 +86,7 @@ body.plain .num{margin-top:-.2em}
 
 .units{display:grid}
 .units i{display:block;background:#3ea88c}
+.units i.off{background:var(--off)}
 
 .vbars{display:flex;align-items:flex-end;gap:36px;height:400px}
 .vbar{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%}
@@ -208,8 +209,12 @@ def units(v):
             break
     cell, gap, cols = best
     style = f"grid-template-columns:repeat({cols},{cell}px);gap:{gap}px"
+    on = int(v.get("on", count))
+    if not 0 <= on <= count:
+        raise ValueError("on must be 0..units")
     sq = f'<i style="width:{cell}px;height:{cell}px"></i>'
-    return f'<div class="units" style="{style}">{sq * count}</div>'
+    off = f'<i class="off" style="width:{cell}px;height:{cell}px"></i>'
+    return f'<div class="units" style="{style}">{sq * on}{off * (count - on)}</div>'
 
 
 def _hi_index(bars):

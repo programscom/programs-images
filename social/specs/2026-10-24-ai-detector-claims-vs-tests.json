@@ -1,0 +1,9 @@
+{
+ "template": "stat",
+ "eyebrow": "AI detectors: claims vs. tests",
+ "num": "13",
+ "label": "of 26 independent test results put AI detection below 80%",
+ "viz": {"type": "units", "units": 26, "on": 13},
+ "note": "**6 of 8** popular AI detectors claim 99% accuracy or higher.",
+ "source": "Source: Programs.com AI Detector Accuracy Tracker, October 2026"
+}
