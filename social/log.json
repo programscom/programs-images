@@ -1277,5 +1277,56 @@
    "instagram": "sent"
   },
   "notes": "Mix: stat (window 10-17..10-23 = 5 stat, 1 degree, 1 wildcard). Page post 1607 fits inline in one WPVibe GET. The IBM PDF was not opened; CyberScoop coverage of the IBM 2025 report (cyberscoop.com/ibm-cost-data-breach-2025) confirmed $10.22 million for US companies and $4.44 million global. Possible page issue: the 'Data Breach Cost by Region' section says North America averages $2 million and Asia-Pacific $1.9 million per breach, which sits oddly next to the $10.22 million US and $4.44 million global averages (likely a different source or measure, not labelled); not used. Top-5 list says 'just over $4.4 million' while the body says $4.44 million; consistent. All three Buffer posts sent within about 25 seconds."
+ },
+ {
+  "date": "2026-10-24",
+  "type": "wildcard",
+  "slug": "ai-detector-claims-vs-tests",
+  "source_url": "https://programs.com/resources/ai-detector-accuracy/",
+  "headline": "13 of 26 independent test results put AI detection below 80%, while 6 of 8 popular AI detectors claim 99% accuracy or higher",
+  "figures": [
+   {
+    "value": "13 of 26",
+    "page_quote": "13 of 26 independent test results put detection below 80% — All 13 are from studies published from 2023 to 2025.",
+    "primary_source": "Programs.com AI Detector Accuracy Tracker (own count of the independent-tests table); re-counted from the table: 26 rows, 13 below 80%"
+   },
+   {
+    "value": "6 of 8",
+    "page_quote": "6 of 8 popular AI detectors claim 99% accuracy or higher — ZeroGPT claims 98.4%. Turnitin publishes no accuracy figure.",
+    "primary_source": "Company websites as listed in the tracker's claims table; re-counted (Copyleaks, GPTZero, Originality.ai, Pangram, Phrasly, Winston AI)"
+   },
+   {
+    "value": "GPTZero 99% claimed / 26.4% measured",
+    "page_quote": "GPTZero | 99% | 1% ... GPTZero | 26.4% accuracy. 16.7% after the text was edited to evade detection. | – | 114 samples | 2024 | Perkins et al.",
+    "primary_source": "Perkins et al. 2024 (https://doi.org/10.1186/s41239-024-00487-w); confirmed via the-decoder.com coverage"
+   },
+   {
+    "value": "ZeroGPT 98.4% claimed / 65.5% detected",
+    "page_quote": "ZeroGPT | 98.4% | Less than 1% | Not stated ... ZeroGPT | 65.5% of AI text detected | 5% target not reached | More than 6 million AI texts | 2024 | RAID benchmark",
+    "primary_source": "RAID benchmark, ACL 2024 (https://aclanthology.org/2024.acl-long.674/); not opened"
+   },
+   {
+    "value": "Turnitin 50% / 7.9%",
+    "page_quote": "Turnitin | 50% accuracy. 7.9% after the text was edited to evade detection. | – | 114 samples | 2024 | Perkins et al.",
+    "primary_source": "Perkins et al. 2024; confirmed via the-decoder.com coverage"
+   }
+  ],
+  "image": "social/out/2026-10-24-ai-detector-claims-vs-tests.png",
+  "copy": {
+   "linkedin": "13 of 26 independent test results put AI detection below 80%.\n\n• 6 of 8 popular AI detectors claim 99% accuracy or higher.\n• GPTZero claims 99% accuracy. A 2024 study by Perkins et al. measured 26.4%.\n• ZeroGPT claims 98.4%. The 2024 RAID benchmark found it detected 65.5% of AI text.\n• Turnitin publishes no accuracy figure. Perkins et al. measured 50%, and 7.9% after the text was edited to evade detection.\n\nCompany claims and independent tests are not measured the same way, and each study tested the detector version available at the time.\n\nSource: Programs.com AI Detector Accuracy Tracker, built from 8 independent studies and each company's own website.\n\nEvery detector, claim and test result: https://programs.com/resources/ai-detector-accuracy/",
+   "facebook": "13 of 26 independent test results put AI detection below 80%, while 6 of 8 popular AI detectors claim 99% accuracy or higher, according to the Programs.com AI Detector Accuracy Tracker.\n\nhttps://programs.com/resources/ai-detector-accuracy/",
+   "instagram": "13 of 26 independent test results put AI detection below 80%.\n\n6 of 8 popular AI detectors claim 99% accuracy or higher.\nGPTZero claims 99% accuracy. A 2024 study by Perkins et al. measured 26.4%.\n\nSource: Programs.com AI Detector Accuracy Tracker, built from 8 independent studies and each company's own website.\n\nFull breakdown at programs.com.\n\n#artificialintelligence #aidetection #highereducation #academicintegrity #edtech"
+  },
+  "buffer": {
+   "linkedin": "6adcaae26887a2efc1b8aa53",
+   "facebook": "6adcaaec6887a2efc1b8abf6",
+   "instagram": "6adcaaf1e4be8a4d865bf771"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Mix: wildcard (window 10-18..10-24 = 5 stat, 1 degree, 1 wildcard); claims-vs-tests contrast. Page post 10618 (tracker, first posted on social today) fits inline in one WPVibe GET. Re-counted both headline figures from the tables; they match. doi.org hit the WebFetch permission prompt; the-decoder.com coverage of Perkins et al. confirmed 26.4%/16.7% GPTZero, 50%/7.9% Turnitin, 31.3%/17.3% ZeroGPT, 73.9%/58.7% Copyleaks. Possible page issue: the tracker lists Perkins et al. as '114 samples', while the-decoder says the study tested 805 samples in total (114 may be a per-condition count; unlabelled); sample size not used. Also, the the-decoder table gives false positive rates for Perkins (e.g. Copyleaks 50%) where the tracker shows '–'. render.py: units viz gained an optional 'on' count. All three Buffer posts sent within about 25 seconds."
  }
 ]
