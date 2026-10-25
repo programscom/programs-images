@@ -1328,5 +1328,56 @@
    "instagram": "sent"
   },
   "notes": "Mix: wildcard (window 10-18..10-24 = 5 stat, 1 degree, 1 wildcard); claims-vs-tests contrast. Page post 10618 (tracker, first posted on social today) fits inline in one WPVibe GET. Re-counted both headline figures from the tables; they match. doi.org hit the WebFetch permission prompt; the-decoder.com coverage of Perkins et al. confirmed 26.4%/16.7% GPTZero, 50%/7.9% Turnitin, 31.3%/17.3% ZeroGPT, 73.9%/58.7% Copyleaks. Possible page issue: the tracker lists Perkins et al. as '114 samples', while the-decoder says the study tested 805 samples in total (114 may be a per-condition count; unlabelled); sample size not used. Also, the the-decoder table gives false positive rates for Perkins (e.g. Copyleaks 50%) where the tracker shows '–'. render.py: units viz gained an optional 'on' count. All three Buffer posts sent within about 25 seconds."
+ },
+ {
+  "date": "2026-10-25",
+  "type": "stat",
+  "slug": "business-ai-use",
+  "source_url": "https://programs.com/resources/business-ai-adoption/",
+  "headline": "24.6% of US businesses used AI in the two weeks ending October 18, 2026",
+  "figures": [
+   {
+    "value": "24.6% (two weeks ending Oct 18, 2026)",
+    "page_quote": "24.6% of U.S. businesses used AI in the two weeks ending Oct 18, 2026. This tracker follows the Census Bureau’s biweekly survey over time, by industry, company size and state.",
+    "primary_source": "U.S. Census Bureau, Business Trends and Outlook Survey (https://www.census.gov/hfp/btos/data), as named and linked on the page; census.gov hit the WebFetch permission prompt, so figures rest on the page's named source."
+   },
+   {
+    "value": "17.3% (two weeks ending Nov 30, 2025); up 7.3 points",
+    "page_quote": "7.3 point increase in AI use since November 2025 / From 17.3% to 24.6%; trend table row: Nov 30, 2025 17.3% 21.1%",
+    "primary_source": "U.S. Census Bureau, Business Trends and Outlook Survey (https://www.census.gov/hfp/btos/data), as named and linked on the page; census.gov hit the WebFetch permission prompt, so figures rest on the page's named source."
+   },
+   {
+    "value": "28.6% expect to use AI within six months",
+    "page_quote": "28.6% expect to be using AI within six months / Up from 21.1% in November 2025",
+    "primary_source": "U.S. Census Bureau, Business Trends and Outlook Survey (https://www.census.gov/hfp/btos/data), as named and linked on the page; census.gov hit the WebFetch permission prompt, so figures rest on the page's named source."
+   },
+   {
+    "value": "43.6% (250 or more employees), 24.3% (1 to 4 employees)",
+    "page_quote": "Company size table: 1 to 4 24.3% +7.3 ... 250 or more 43.6% +13.1",
+    "primary_source": "U.S. Census Bureau, Business Trends and Outlook Survey (https://www.census.gov/hfp/btos/data), as named and linked on the page; census.gov hit the WebFetch permission prompt, so figures rest on the page's named source."
+   },
+   {
+    "value": "Information sector 46.4%, highest of six",
+    "page_quote": "46.4% of information businesses use AI / The highest of the six sectors tracked",
+    "primary_source": "U.S. Census Bureau, Business Trends and Outlook Survey (https://www.census.gov/hfp/btos/data), as named and linked on the page; census.gov hit the WebFetch permission prompt, so figures rest on the page's named source."
+   }
+  ],
+  "image": "social/out/2026-10-25-business-ai-use.png",
+  "copy": {
+   "linkedin": "24.6% of US businesses used AI in the two weeks ending October 18, 2026.\n\n• That is up from 17.3% in the two weeks ending November 30, 2025.\n• 28.6% expect to be using AI within six months.\n• 43.6% of businesses with 250 or more employees use AI, against 24.3% of businesses with 1 to 4 employees.\n• Information is the highest of the six sectors tracked, at 46.4%.\n\nSource: U.S. Census Bureau, Business Trends and Outlook Survey, November 2025 to October 2026, a survey of US businesses every two weeks.\n\nTracker by industry, company size and state: https://programs.com/resources/business-ai-adoption/",
+   "facebook": "24.6% of US businesses used AI in the two weeks ending October 18, 2026, up from 17.3% in November 2025, according to the U.S. Census Bureau's Business Trends and Outlook Survey.\n\nhttps://programs.com/resources/business-ai-adoption/",
+   "instagram": "24.6% of US businesses used AI in the two weeks ending October 18, 2026.\n\nThat is up from 17.3% in November 2025. Among businesses with 250 or more employees, the figure is 43.6%.\n\nSource: U.S. Census Bureau, Business Trends and Outlook Survey.\n\nFull breakdown at programs.com.\n\n#ArtificialIntelligence #AI #SmallBusiness #FutureOfWork #BusinessTrends"
+  },
+  "buffer": {
+   "linkedin": "6addfc99e4be8a4d86a9923d",
+   "facebook": "6addfca38b3d437ddc0a362f",
+   "instagram": "6addfca73d5b27036bd1fe89"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Mix: stat (window 10-19..10-25 = 5 stat, 1 degree, 1 wildcard). Queue empty. First social use of the business AI adoption tracker (post 10873, last modified 2026-10-23T09:00:39, fits inline in one WPVibe GET). Considered the AI layoffs tracker (now 188,278 across 53 companies, 25% above 2025) but its only fresh angle repeated the 10-08 post, so held it for a later run. Internal consistency checked: 24.6 - 17.3 = 7.3; Information is the top value in the sector table. census.gov hit the WebFetch permission prompt; WebSearch found no direct confirmation of the Oct 2026 figure, so the figures rest on the page's named Census source. No page errors found. Note: the state table lists DC (34.1%) above Utah (32.1%); the card correctly calls Utah the highest state. First label render left an orphaned word; reworded."
  }
 ]
