@@ -1,0 +1,15 @@
+{
+ "template": "stat",
+ "eyebrow": "AI at work",
+ "num": "24.6%",
+ "label": "of US businesses used AI in the latest two-week survey",
+ "viz": {
+  "type": "bars",
+  "bars": [
+   {"label": "Nov 2025", "value": 17.3, "display": "17.3%"},
+   {"label": "Oct 2026", "value": 24.6, "display": "24.6%"}
+  ]
+ },
+ "note": "**Up 7.3 points** since November 2025",
+ "source": "Source: U.S. Census Bureau, Business Trends and Outlook Survey, October 2026"
+}
