@@ -1379,5 +1379,52 @@
    "instagram": "sent"
   },
   "notes": "Mix: stat (window 10-19..10-25 = 5 stat, 1 degree, 1 wildcard). Queue empty. First social use of the business AI adoption tracker (post 10873, last modified 2026-10-23T09:00:39, fits inline in one WPVibe GET). Considered the AI layoffs tracker (now 188,278 across 53 companies, 25% above 2025) but its only fresh angle repeated the 10-08 post, so held it for a later run. Internal consistency checked: 24.6 - 17.3 = 7.3; Information is the top value in the sector table. census.gov hit the WebFetch permission prompt; WebSearch found no direct confirmation of the Oct 2026 figure, so the figures rest on the page's named Census source. No page errors found. Note: the state table lists DC (34.1%) above Utah (32.1%); the card correctly calls Utah the highest state. First label render left an orphaned word; reworded."
+ },
+ {
+  "date": "2026-10-26",
+  "type": "stat",
+  "slug": "ai-phishing-emails",
+  "source_url": "https://programs.com/resources/ai-cyberattack-stats/",
+  "headline": "82.6% of phishing emails analyzed by KnowBe4 used AI",
+  "figures": [
+   {
+    "value": "82.6% of phishing emails used AI",
+    "page_quote": "A 2025 report revealed that 82.6% of phishing emails are created using AI.",
+    "primary_source": "KnowBe4 Phishing Threat Trends Report 2025 (https://www.knowbe4.com/hubfs/Phishing-Threat-Trends-2025_Report.pdf), opened with WebFetch: \"82.6% of phishing emails utilized AI\" in the six-month snapshot Sep 15, 2024 to Feb 14, 2025, emails analyzed by KnowBe4 Defend / Threat Research. Period not on our page, so left out of copy and image."
+   },
+   {
+    "value": "87% of security professionals say their organization was hit by an AI-driven attack in the last 12 months",
+    "page_quote": "Nearly 9 in 10 organizations (87%) have been the targets of AI-powered cyberattacks over the last 12 months.",
+    "primary_source": "SoSafe press release, 6 March 2025 (Cybercrime Trends 2025), opened with WebFetch: \"87% of security professionals report that their organisation has encountered an AI-driven cyberattack in the last year\"; survey of 500 security professionals and 100 SoSafe customers in 10 countries. Copy says 'security professionals surveyed by SoSafe'."
+   },
+   {
+    "value": "3 in 5 participants fooled by AI-automated phishing",
+    "page_quote": "And according to a recent study, 3 in 5 participants were fooled by AI-automated phishing.",
+    "primary_source": "Harvard Business Review, as named and linked on the page (archive.ph link); not opened."
+   },
+   {
+    "value": "Deepfakes 6.5% of fraud attacks, 2,137% rise 2022 to 2025",
+    "page_quote": "At the same time, the number of deepfakes now makes up 6.5% of all fraud attacks. That's a 2,137% rise between 2022 and 2025.",
+    "primary_source": "Signicat press release, as named and linked on the page; not opened."
+   }
+  ],
+  "image": "social/out/2026-10-26-ai-phishing-emails.png",
+  "alt_text": "A grid of 100 squares with 82.6 filled in green. Text reads: 82.6% of phishing emails analyzed by KnowBe4 used AI. Source: KnowBe4 Phishing Threat Trends Report, 2025.",
+  "copy": {
+   "linkedin": "82.6% of phishing emails analyzed by KnowBe4 used AI.\n\n• 87% of security professionals surveyed by SoSafe say their organization was targeted by an AI-powered cyberattack in the last 12 months.\n• In a study reported by Harvard Business Review, 3 in 5 participants were fooled by AI-automated phishing.\n• Deepfakes now make up 6.5% of all fraud attacks, a 2,137% rise between 2022 and 2025, according to Signicat.\n\nSource: KnowBe4 Phishing Threat Trends Report, 2025, an analysis of phishing emails seen by KnowBe4; SoSafe survey of security professionals.\n\nMore AI cyberattack statistics: https://programs.com/resources/ai-cyberattack-stats/",
+   "facebook": "82.6% of phishing emails analyzed by KnowBe4 used AI, according to its 2025 Phishing Threat Trends Report. And 87% of security professionals surveyed by SoSafe say their organization was targeted by an AI-powered cyberattack in the last 12 months.\n\nhttps://programs.com/resources/ai-cyberattack-stats/",
+   "instagram": "82.6% of phishing emails analyzed by KnowBe4 used AI.\n\n87% of security professionals surveyed by SoSafe say their organization was targeted by an AI-powered cyberattack in the last 12 months.\n\nSource: KnowBe4 Phishing Threat Trends Report, 2025; SoSafe survey of security professionals.\n\nFull breakdown at programs.com.\n\n#cybersecurity #phishing #artificialintelligence #infosec #AI"
+  },
+  "buffer": {
+   "linkedin": "6adf4edf19b3b1f093a90c2f",
+   "facebook": "6adf4eea9e56d704c2caaa45",
+   "instagram": "6adf4ef519b3b1f093a920cc"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "All three posts sent within about 25 seconds. Page issues on ai-cyberattack-stats (post 1549): the page says 82.6% of phishing emails are 'created using AI' while KnowBe4 says they 'utilized AI' / showed 'some use of AI' (looser); the '53.5% increase over the previous year' line is not explained in the KnowBe4 report, so it was not used; the 87% is phrased as '87% of organizations' but SoSafe measured security professionals reporting on their organizations; the Top Stats box says 'Over 80%' and 'Around 3 in 4' where the body gives 82.6% and 77%. Mix: last 7 now 5 stat, 1 degree, 1 wildcard; a degree post is due within the next couple of runs."
  }
 ]
