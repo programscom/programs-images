@@ -1,0 +1,11 @@
+{
+ "template": "stat",
+ "eyebrow": "AI cyberattacks",
+ "num": "82.6%",
+ "label": "of phishing emails analyzed by KnowBe4 used AI",
+ "viz": {
+  "type": "waffle",
+  "pct": 82.6
+ },
+ "source": "Source: KnowBe4 Phishing Threat Trends Report, 2025"
+}
