@@ -1426,5 +1426,52 @@
    "instagram": "sent"
   },
   "notes": "All three posts sent within about 25 seconds. Page issues on ai-cyberattack-stats (post 1549): the page says 82.6% of phishing emails are 'created using AI' while KnowBe4 says they 'utilized AI' / showed 'some use of AI' (looser); the '53.5% increase over the previous year' line is not explained in the KnowBe4 report, so it was not used; the 87% is phrased as '87% of organizations' but SoSafe measured security professionals reporting on their organizations; the Top Stats box says 'Over 80%' and 'Around 3 in 4' where the body gives 82.6% and 77%. Mix: last 7 now 5 stat, 1 degree, 1 wildcard; a degree post is due within the next couple of runs."
+ },
+ {
+  "date": "2026-10-27",
+  "type": "stat",
+  "slug": "ai-proficiency-gap",
+  "source_url": "https://programs.com/resources/ai-literacy-statistics/",
+  "headline": "Only 5.5% of US knowledge workers meet the bar for AI proficiency, even though 67% use AI at least once a week",
+  "figures": [
+   {
+    "value": "5.5% meet the AI proficiency bar; 67% use AI at least weekly",
+    "page_quote": "67% of US knowledge workers use AI at least once a week, but only 5.5% meet the bar for AI proficiency (Section)",
+    "primary_source": "Section, The AI Proficiency Report (https://www.sectionai.com/ai/ai-proficiency-report-2026, found via WebSearch; the page's link /ai/the-ai-proficiency-report hit the WebFetch permission prompt), opened with WebFetch: \"only 5.5% of the workforce meets the bar for AI proficiency today\", \"67% of knowledge workers now use AI at least once a week\", 5,026 US knowledge workers, June 2026."
+   },
+   {
+    "value": "73.5% experimenters, 20.9% novices",
+    "page_quote": "73.5% are “experimenters” who use AI often but only for one-off tasks, and 20.9% are novices.",
+    "primary_source": "Section AI Proficiency Report 2026, confirmed: \"The vast majority (73.5%) are Experimenters\", \"Another 20.9% are Novices\"."
+   },
+   {
+    "value": "66% of employees used AI output without evaluating it",
+    "page_quote": "66% of employees have used AI output in their work without evaluating it (KPMG)",
+    "primary_source": "KPMG / University of Melbourne, Trust, attitudes and use of AI global report 2025, as named and linked on the page; not opened."
+   },
+   {
+    "value": "52% of US workers not getting the AI training they need",
+    "page_quote": "More than half of workers (52%) say they aren’t getting the AI training they need.",
+    "primary_source": "Indeed / YouGov survey of 1,001 US workers and job seekers, May-June 2026, as named and linked on the page; not opened."
+   }
+  ],
+  "image": "social/out/2026-10-27-ai-proficiency-gap.png",
+  "alt_text": "Text reads: 5.5% of US knowledge workers meet the bar for AI proficiency. A bar chart compares 67% who use AI at least weekly with 5.5% who meet the proficiency bar. Source: Section AI Proficiency Report, 2026.",
+  "copy": {
+   "linkedin": "Only 5.5% of US knowledge workers meet the bar for AI proficiency, even though 67% use AI at least once a week.\n\n• 73.5% are \"experimenters\" who use AI often, but only for one-off tasks.\n• 20.9% are novices.\n• 66% of employees worldwide have used AI output in their work without evaluating it, according to KPMG.\n• 52% of US workers surveyed by Indeed say they aren't getting the AI training they need.\n\nSource: Section AI Proficiency Report, 2026, 5,026 US knowledge workers.\n\nMore AI literacy statistics: https://programs.com/resources/ai-literacy-statistics/",
+   "facebook": "Only 5.5% of US knowledge workers meet the bar for AI proficiency, even though 67% use AI at least once a week, according to Section's 2026 AI Proficiency Report of 5,026 US knowledge workers.\n\nhttps://programs.com/resources/ai-literacy-statistics/",
+   "instagram": "Only 5.5% of US knowledge workers meet the bar for AI proficiency, even though 67% use AI at least once a week.\n\n73.5% use AI often, but only for one-off tasks.\n\nSource: Section AI Proficiency Report, 2026, 5,026 US knowledge workers.\n\nFull breakdown at programs.com.\n\n#AI #artificialintelligence #AIliteracy #futureofwork #upskilling"
+  },
+  "buffer": {
+   "linkedin": "6ae0a03f55e456f4b3c3e5ba",
+   "facebook": "6ae0a04a55e456f4b3c3e980",
+   "instagram": "6ae0a04fc8df6b6a011f2809"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "All three posts sent within about 25 seconds. Mix: window 10-21 to 10-27 has 1 degree, 1 wildcard, 5 stats. First use of the AI literacy page (post 11891). Page issues on ai-literacy-statistics: (1) the 'Fewer than 10% of knowledge workers can correctly define an AI agent' section reads 'But when asked to define one, only 82% can't identify an agent on a multiple-choice test', which is garbled ('only' contradicts the point; likely meant 82% can't); (2) the Section link on the page (/ai/the-ai-proficiency-report) differs from the report's current URL (/ai/ai-proficiency-report-2026); the page says Section 'tested' workers while the report says 'surveyed'; (3) 'Men are about 22% more likely than women to use generative AI' heading against the paragraph's quote that the relative difference 'has stabilized at roughly 16%' (47.8/39.3 = 1.22, so the two may measure different periods; worth a check); (4) typos: 'Largely because no survey that tests it' (missing verb), 'ie.' for 'i.e.', 'how students and teachers use AI is in our'."
  }
 ]
