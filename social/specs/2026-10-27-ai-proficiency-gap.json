@@ -1,0 +1,15 @@
+{
+ "template": "stat",
+ "eyebrow": "AI literacy",
+ "num": "5.5%",
+ "label": "of US knowledge workers meet the bar for AI proficiency",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "Use AI at least weekly", "value": 67, "display": "67%"},
+   {"label": "Meet the proficiency bar", "value": 5.5, "display": "5.5%", "hi": true}
+  ]
+ },
+ "note": "**73.5%** use AI only for one-off tasks",
+ "source": "Source: Section AI Proficiency Report, 2026, 5,026 US knowledge workers"
+}
