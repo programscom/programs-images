@@ -1473,5 +1473,142 @@
    "instagram": "sent"
   },
   "notes": "All three posts sent within about 25 seconds. Mix: window 10-21 to 10-27 has 1 degree, 1 wildcard, 5 stats. First use of the AI literacy page (post 11891). Page issues on ai-literacy-statistics: (1) the 'Fewer than 10% of knowledge workers can correctly define an AI agent' section reads 'But when asked to define one, only 82% can't identify an agent on a multiple-choice test', which is garbled ('only' contradicts the point; likely meant 82% can't); (2) the Section link on the page (/ai/the-ai-proficiency-report) differs from the report's current URL (/ai/ai-proficiency-report-2026); the page says Section 'tested' workers while the report says 'surveyed'; (3) 'Men are about 22% more likely than women to use generative AI' heading against the paragraph's quote that the relative difference 'has stabilized at roughly 16%' (47.8/39.3 = 1.22, so the two may measure different periods; worth a check); (4) typos: 'Largely because no survey that tests it' (missing verb), 'ie.' for 'i.e.', 'how students and teachers use AI is in our'."
+ },
+ {
+  "date": "2026-10-28",
+  "type": "degree",
+  "slug": "online-ai-bachelors-ranking",
+  "source_url": "https://programs.com/programs/online-ai-bachelor-degree-programs/",
+  "headline": "We just updated our ranking of the 20 best online AI bachelor's degree programs",
+  "figures": [
+   {
+    "value": "1. Colorado State University",
+    "page_quote": "1 / Colorado State University / Best for: Institutional prestige, Master’s pathway",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "2. Western Governors University",
+    "page_quote": "2 / Western Governors University / Best for: Affordability, self-motivated students",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "3. Oregon State University",
+    "page_quote": "3 / Oregon State University / Best for: Honors program",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "4. University of Tennessee Knoxville",
+    "page_quote": "4 / University of Tennessee Knoxville / Best for: Ease of admission, non-technical applicants",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "5. Dakota State University",
+    "page_quote": "5 / Dakota State University / Best for: AI for cybersecurity",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "6. Indiana University Online",
+    "page_quote": "6 / Indiana University Online / Best for: Indiana residents, choice between BA/BS",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "7. Arizona State University",
+    "page_quote": "7 / Arizona State University / Best for: Business applications of AI",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "8. University of Maryland Global Campus",
+    "page_quote": "8 / University of Maryland Global Campus / Best for: Program personalization, part-time learners",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "9. Angelo State University",
+    "page_quote": "9 / Angelo State University / Best for: Hands-on study, Texas residents",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "10. Kansas State University",
+    "page_quote": "10 / Kansas State University / Best for: Technical AI curriculum",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "11. Texas Tech University",
+    "page_quote": "11 / Texas Tech University / Best for: Prioritizing ethical and user-friendly AI",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "12. Colorado State University Global",
+    "page_quote": "12 / Colorado State University Global / Best for: Flexible learners, broader CS coverage",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "13. Old Dominion University",
+    "page_quote": "13 / Old Dominion University / Best for: Aspiring data scientists, hands-on practice",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "14. Maryville University",
+    "page_quote": "14 / Maryville University / Best for: Admissions, stackable credentials",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "15. Grand Canyon University",
+    "page_quote": "15 / Grand Canyon University / Best for: Curriculum relevance",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "16. Kennesaw State University",
+    "page_quote": "16 / Kennesaw State University / Best for: Affordability, hands-on practice",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "17. Colorado Technical University",
+    "page_quote": "17 / Colorado Technical University / Best for: Breadth of AI study",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "18. Keiser University",
+    "page_quote": "18 / Keiser University / Best for: Curriculum relevance",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "19. Indiana Wesleyan University",
+    "page_quote": "19 / Indiana Wesleyan University / Best for: Fast completion, non-technical applicants",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "20. American Public University",
+    "page_quote": "20 / American Public University / Best for: Admissions/accessibility",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "Ranking criteria",
+    "page_quote": "Academic quality (25%) ... Curriculum relevance (20%) ... Hands-on practice (15%) ... Affordability (15%) ... Accessibility (15%) ... Admissions (10%)",
+    "primary_source": "Programs.com ranking methodology"
+   },
+   {
+    "value": "Last Updated: October 28, 2026",
+    "page_quote": "Last Updated: October 28, 2026",
+    "primary_source": "Visible post-meta date via WPVibe get_page_html"
+   }
+  ],
+  "image": "social/out/2026-10-28-online-ai-bachelors-ranking.png",
+  "alt_text": "Programs.com 2027 rankings: top 10 online AI bachelor's degree programs. 1 Colorado State University, 2 Western Governors University, 3 Oregon State University, 4 University of Tennessee, Knoxville, 5 Dakota State University, 6 Indiana University Online, 7 Arizona State University, 8 University of Maryland Global Campus, 9 Angelo State University, 10 Kansas State University.",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 20 best online AI bachelor's degree programs.\n\n1. Colorado State University: institutional prestige, master's pathway\n2. Western Governors University: affordability, self-motivated students\n3. Oregon State University: honors program\n4. University of Tennessee, Knoxville: ease of admission, non-technical applicants\n5. Dakota State University: AI for cybersecurity\n6. Indiana University Online: Indiana residents, choice between BA/BS\n7. Arizona State University: business applications of AI\n8. University of Maryland Global Campus: program personalization, part-time learners\n9. Angelo State University: hands-on study, Texas residents\n10. Kansas State University: technical AI curriculum\n11. Texas Tech University: prioritizing ethical and user-friendly AI\n12. Colorado State University Global: flexible learners, broader CS coverage\n13. Old Dominion University: aspiring data scientists, hands-on practice\n14. Maryville University: admissions, stackable credentials\n15. Grand Canyon University: curriculum relevance\n16. Kennesaw State University: affordability, hands-on practice\n17. Colorado Technical University: breadth of AI study\n18. Keiser University: curriculum relevance\n19. Indiana Wesleyan University: fast completion, non-technical applicants\n20. American Public University: admissions/accessibility\n\nRanked on academic quality (25%), curriculum relevance (20%), hands-on practice (15%), affordability (15%), accessibility (15%) and admissions (10%).\n\nFull ranking: https://programs.com/programs/online-ai-bachelor-degree-programs/",
+   "facebook": "We just updated our ranking of the 20 best online AI bachelor's degree programs. The top 10:\n\n1. Colorado State University\n2. Western Governors University\n3. Oregon State University\n4. University of Tennessee, Knoxville\n5. Dakota State University\n6. Indiana University Online\n7. Arizona State University\n8. University of Maryland Global Campus\n9. Angelo State University\n10. Kansas State University\n\nhttps://programs.com/programs/online-ai-bachelor-degree-programs/",
+   "instagram": "We just updated our ranking of the 20 best online AI bachelor's degree programs.\n\n1. Colorado State: institutional prestige, master's pathway\n2. WGU: affordability, self-motivated students\n3. Oregon State: honors program\n4. UT Knoxville: ease of admission, non-technical applicants\n5. Dakota State: AI for cybersecurity\n6. IU Online: Indiana residents, choice between BA/BS\n7. Arizona State: business applications of AI\n8. UMGC: program personalization, part-time learners\n9. Angelo State: hands-on study, Texas residents\n10. Kansas State: technical AI curriculum\n\nAll 20 at programs.com.\n\n#ArtificialIntelligence #OnlineDegree #BachelorsDegree #MachineLearning #HigherEducation"
+  },
+  "buffer": {
+   "linkedin": "6ae1f19d23102e8c6f8179be",
+   "facebook": "6ae1f1a741c946fe22ccfa7a",
+   "instagram": "6ae1f1aca2992d2fc00efdf3"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard; last degree post 2026-10-21). Page 6970, first use; visible Last Updated October 28, 2026, so the 'We just updated' opening applies. The page heading for No. 4 reads 'University of Tennessee Knoxville'; the post and image use the official 'University of Tennessee, Knoxville'. No factual errors spotted in the top 20 entries. Queue was empty. All three Buffer posts sent at the first attempt."
  }
 ]
