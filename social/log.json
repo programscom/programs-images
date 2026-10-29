@@ -1610,5 +1610,66 @@
    "instagram": "sent"
   },
   "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard; last degree post 2026-10-21). Page 6970, first use; visible Last Updated October 28, 2026, so the 'We just updated' opening applies. The page heading for No. 4 reads 'University of Tennessee Knoxville'; the post and image use the official 'University of Tennessee, Knoxville'. No factual errors spotted in the top 20 entries. Queue was empty. All three Buffer posts sent at the first attempt."
+ },
+ {
+  "date": "2026-10-29",
+  "type": "stat",
+  "slug": "ai-degrees-conferred",
+  "source_url": "https://programs.com/resources/ai-degree-holders/",
+  "headline": "2,576 AI degrees were completed in the US in 2025, more than double the 1,270 in 2023",
+  "figures": [
+   {
+    "value": "2,576",
+    "page_quote": "2,576 AI degrees were completed in the US in 2025.",
+    "primary_source": "IPEDS via clema.ai and Data USA (as named on the page; sources not opened, WebFetch permission prompt)"
+   },
+   {
+    "value": "1,270 (2023)",
+    "page_quote": "From 2023 to 2025, degrees awarded more than doubled from 1,270 to 2,576.",
+    "primary_source": "IPEDS via clema.ai and Data USA (as named on the page; sources not opened, WebFetch permission prompt)"
+   },
+   {
+    "value": "1,653 (2024)",
+    "page_quote": "Year / Number of AI Degrees Conferred (CIP 11.0102): 2023 1,270; 2024 1,653; 2025 2,576",
+    "primary_source": "IPEDS via clema.ai and Data USA (as named on the page; sources not opened, WebFetch permission prompt)"
+   },
+   {
+    "value": "5,499",
+    "page_quote": "5,499 AI degrees have been awarded over the last 3 years.",
+    "primary_source": "IPEDS via clema.ai and Data USA (as named on the page; sources not opened, WebFetch permission prompt)"
+   },
+   {
+    "value": "122",
+    "page_quote": "122 institutions awarded an AI degree in 2025.",
+    "primary_source": "IPEDS via clema.ai and Data USA (as named on the page; sources not opened, WebFetch permission prompt)"
+   },
+   {
+    "value": "227 (Carnegie Mellon)",
+    "page_quote": "Carnegie Mellon University conferred the most AI degrees in 2025 (227).",
+    "primary_source": "IPEDS via clema.ai and Data USA (as named on the page; sources not opened, WebFetch permission prompt)"
+   },
+   {
+    "value": "CIP 11.0102 definition",
+    "page_quote": "For our analysis, an AI degree is defined specifically as CIP 11.0102.",
+    "primary_source": "Programs.com methodology"
+   }
+  ],
+  "image": "social/out/2026-10-29-ai-degrees-conferred.png",
+  "copy": {
+   "linkedin": "2,576 AI degrees were completed in the US in 2025, more than double the 1,270 in 2023.\n\n• 2024: 1,653 AI degrees.\n• 5,499 AI degrees have been awarded over the last 3 years.\n• 122 institutions awarded an AI degree in 2025.\n• Carnegie Mellon University conferred the most, with 227.\n\nSource: IPEDS data via clema.ai and Data USA, 2025. AI degrees are those under the federal Artificial Intelligence classification (CIP 11.0102).\n\nThe numbers by school and degree type: https://programs.com/resources/ai-degree-holders/",
+   "facebook": "2,576 AI degrees were completed in the US in 2025, more than double the 1,270 awarded in 2023, according to IPEDS data via clema.ai and Data USA. Carnegie Mellon University conferred the most, with 227.\n\nhttps://programs.com/resources/ai-degree-holders/",
+   "instagram": "2,576 AI degrees were completed in the US in 2025.\n\nThat is more than double the 1,270 in 2023. 122 institutions awarded an AI degree in 2025, led by Carnegie Mellon University with 227.\n\nSource: IPEDS data via clema.ai and Data USA. AI degrees are those under the federal Artificial Intelligence classification (CIP 11.0102).\n\nFull breakdown at programs.com.\n\n#ArtificialIntelligence #AIEducation #HigherEducation #CollegeDegrees #CarnegieMellon"
+  },
+  "buffer": {
+   "linkedin": "6ae342791d52e172a105a518",
+   "facebook": "6ae34283650dab96a372767e",
+   "instagram": "6ae34288017e28c83c5e5363"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen to keep the mix (last 6: 4 stat, 1 wildcard, 1 degree). First page from the site's AI degree holders page (post 8844, modified 2026-10-17), never posted before. Considered the AI layoffs tracker (now 188,378 in 2026 across 54 companies per chart alt text) but per-company totals mix multi-year rounds and buyouts (UPS 78,000 includes 48,000 2025 operational cuts plus 30,000 'at risk'; Microsoft 28,000 includes 8,000 buyout offers), so skipped. 1,270 + 1,653 + 2,576 = 5,499 checks out. datausa.io and clema.ai hit the WebFetch permission prompt; WebSearch found no contradicting figure. Page note (not a post issue): the page's 2025 chart images are named Open-Cybersecurity-Jobs-4-1.png / -5-1.png with empty alt text. All three Buffer posts sent within about 25 seconds."
  }
 ]
