@@ -1,0 +1,16 @@
+{
+ "template": "stat",
+ "eyebrow": "AI degrees",
+ "num": "2,576",
+ "label": "AI degrees completed in the US in 2025",
+ "viz": {
+  "type": "bars",
+  "bars": [
+   {"label": "2023", "value": 1270, "display": "1,270"},
+   {"label": "2024", "value": 1653, "display": "1,653"},
+   {"label": "2025", "value": 2576, "display": "2,576"}
+  ]
+ },
+ "note": "**122** institutions awarded an AI degree in 2025",
+ "source": "Source: IPEDS via clema.ai and Data USA (CIP 11.0102)"
+}
