@@ -1,0 +1,12 @@
+{
+ "template": "stat",
+ "eyebrow": "Deepfakes",
+ "num": "17%",
+ "label": "of hiring managers have seen a job applicant use a deepfake in a video interview",
+ "viz": {
+  "type": "waffle",
+  "pct": 17
+ },
+ "note": "Millennial managers: **24%**",
+ "source": "Source: Resume Genius survey of US hiring managers"
+}
