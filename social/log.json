@@ -1671,5 +1671,46 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; stat chosen to keep the mix (last 6: 4 stat, 1 wildcard, 1 degree). First page from the site's AI degree holders page (post 8844, modified 2026-10-17), never posted before. Considered the AI layoffs tracker (now 188,378 in 2026 across 54 companies per chart alt text) but per-company totals mix multi-year rounds and buyouts (UPS 78,000 includes 48,000 2025 operational cuts plus 30,000 'at risk'; Microsoft 28,000 includes 8,000 buyout offers), so skipped. 1,270 + 1,653 + 2,576 = 5,499 checks out. datausa.io and clema.ai hit the WebFetch permission prompt; WebSearch found no contradicting figure. Page note (not a post issue): the page's 2025 chart images are named Open-Cybersecurity-Jobs-4-1.png / -5-1.png with empty alt text. All three Buffer posts sent within about 25 seconds."
+ },
+ {
+  "date": "2026-10-30",
+  "type": "stat",
+  "slug": "deepfake-job-interviews",
+  "source_url": "https://programs.com/resources/deepfake-stats/",
+  "headline": "17% of hiring managers have encountered a job applicant using deepfake technology during a video interview",
+  "figures": [
+   {
+    "value": "17%",
+    "page_quote": "17% of hiring managers have encountered a job applicant using deepfake technology during a video interview (Resume Genius)",
+    "primary_source": "Resume Genius survey of US hiring managers (as named on the page, linked to resumegenius.com/blog/job-hunting/ai-impact-on-hiring; that page hit the WebFetch permission prompt; asiae.co.kr coverage of the survey confirmed 17% of 1,000 US hiring managers had seen applicants use deepfake technology in remote video interviews)"
+   },
+   {
+    "value": "24% Millennial, 16% Gen Z, 14% Boomers, 10% Gen X",
+    "page_quote": "Millennial managers were the generation most likely to have encountered deepfake tech in video interviews, with 24% having done so. Millennials were followed by Gen Z managers (16%), Boomers (14%), and Gen X (10%).",
+    "primary_source": "Resume Genius (as named on the page; generational breakdown not confirmed in a source that opened)"
+   },
+   {
+    "value": "25% of job candidates fake by 2028",
+    "page_quote": "25% of job candidates will be fake by 2028 (Gartner via CNBC)",
+    "primary_source": "Gartner prediction via CNBC (as named on the page; not opened)"
+   }
+  ],
+  "image": "social/out/2026-10-30-deepfake-job-interviews.png",
+  "copy": {
+   "linkedin": "17% of hiring managers have encountered a job applicant using deepfake technology during a video interview.\n\n• Millennial managers were the most likely to have encountered it, at 24%.\n• Gen Z managers: 16%. Boomers: 14%. Gen X: 10%.\n• Gartner predicts 25% of job candidates will be fake by 2028.\n\nSource: Resume Genius survey of US hiring managers.\n\nMore deepfake statistics: https://programs.com/resources/deepfake-stats/",
+   "facebook": "17% of hiring managers have encountered a job applicant using deepfake technology during a video interview, according to a Resume Genius survey of US hiring managers. Among Millennial managers, the figure was 24%.\n\nhttps://programs.com/resources/deepfake-stats/",
+   "instagram": "17% of hiring managers have encountered a job applicant using deepfake technology during a video interview.\n\nMillennial managers were the most likely to have encountered it, at 24%. Gen Z managers: 16%.\n\nSource: Resume Genius survey of US hiring managers.\n\nFull breakdown at programs.com.\n\n#Deepfakes #AI #Hiring #Recruiting #Cybersecurity"
+  },
+  "buffer": {
+   "linkedin": "6ae495aeabdb62a0e37f0b26",
+   "facebook": "6ae495b96516a7746a2c3e60",
+   "instagram": "6ae495c4f522e615d3a57bd9"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sending (no error after about 2 minutes)"
+  },
+  "notes": "Queue empty; picked a stat post (last 6: 1 wildcard, 1 degree, 4 stats) and avoided AI in education after two days of it. Considered the AI layoffs tracker (post 4518, now 188,378 for Jan to Oct 2026 across 54 companies) but found no clean new angle; also its '11 companies with 10,000+ cuts' list names HSBC with 'Up to 20,000 (multi-year, under review)' and other entries carry targets or ranges (UPS 78,000 includes 30,000 'at risk'), so company comparisons need care. Deepfake stats page (post 4483, modified 2026-10-13) issues: Resemble Q3 2025 figure (2,031 verified incidents per quarter, +317% from 487 in Q2) not used, because Resemble's own 2025 annual threat report (per securitybrief.co.uk) counts 1,567 unique incidents for all of 2025, which conflicts; the Editor's Pick 'The number of deepfake attacks doubles every month' conflicts with the body (Q2 2025 up 41% from the previous quarter); the Editor's Pick '$547.2 million in the first half of 2025' says it cost 'Americans' while the body figures ($200M Q1 + $347.2M Q2, Resemble) do not state a US scope; typo 'celebrity likenessness' in Editor's Picks. The Resume Genius survey year and sample size are not on our page, so they were left off the copy and image."
  }
 ]
