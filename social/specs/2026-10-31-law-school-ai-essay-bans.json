@@ -1,0 +1,24 @@
+{
+ "template": "stat",
+ "eyebrow": "AI in admissions: survey vs. rules",
+ "num": "11",
+ "label": "of 194 ABA-accredited law schools ban AI-written essays",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {
+    "label": "Say they ban it (Kaplan, 2024)",
+    "value": 45,
+    "display": "45%"
+   },
+   {
+    "label": "Ban it on their admissions pages",
+    "value": 5.67,
+    "display": "11 of 194",
+    "hi": true
+   }
+  ]
+ },
+ "note": "**169** of the 194 publish no rule on AI at all.",
+ "source": "Sources: Programs.com AI Admissions Essay Tracker, October 2026; Kaplan survey of 97 law schools, 2024"
+}
