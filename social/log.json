@@ -1712,5 +1712,57 @@
    "instagram": "sending (no error after about 2 minutes)"
   },
   "notes": "Queue empty; picked a stat post (last 6: 1 wildcard, 1 degree, 4 stats) and avoided AI in education after two days of it. Considered the AI layoffs tracker (post 4518, now 188,378 for Jan to Oct 2026 across 54 companies) but found no clean new angle; also its '11 companies with 10,000+ cuts' list names HSBC with 'Up to 20,000 (multi-year, under review)' and other entries carry targets or ranges (UPS 78,000 includes 30,000 'at risk'), so company comparisons need care. Deepfake stats page (post 4483, modified 2026-10-13) issues: Resemble Q3 2025 figure (2,031 verified incidents per quarter, +317% from 487 in Q2) not used, because Resemble's own 2025 annual threat report (per securitybrief.co.uk) counts 1,567 unique incidents for all of 2025, which conflicts; the Editor's Pick 'The number of deepfake attacks doubles every month' conflicts with the body (Q2 2025 up 41% from the previous quarter); the Editor's Pick '$547.2 million in the first half of 2025' says it cost 'Americans' while the body figures ($200M Q1 + $347.2M Q2, Resemble) do not state a US scope; typo 'celebrity likenessness' in Editor's Picks. The Resume Genius survey year and sample size are not on our page, so they were left off the copy and image."
+ },
+ {
+  "date": "2026-10-31",
+  "type": "wildcard",
+  "slug": "law-school-ai-essay-bans",
+  "source_url": "https://programs.com/resources/ai-admissions-essay-bans/",
+  "headline": "11 of 194 ABA-accredited law schools ban AI-written admissions essays on their admissions pages, against 45% who said they ban them in a 2024 Kaplan survey",
+  "figures": [
+   {
+    "value": "11 of 194",
+    "page_quote": "11 of 194 ABA-accredited law schools ban AI-written essays",
+    "primary_source": "Programs.com tracker (post 11127), checked Oct 15, 2026; re-counted from the 294-row 'Every School We Checked' table (Law school + Ban = 11)"
+   },
+   {
+    "value": "45% of 97 law schools",
+    "page_quote": "45% of law schools surveyed say they ban AI-written essays — Kaplan survey of 97 law schools, 2024",
+    "primary_source": "Kaplan press release on Business Wire, Oct 8, 2024: admissions officers from 97 of 197 ABA-accredited law schools polled July to September 2024; '45 percent have an official policy prohibiting it', 54% no policy, 1% allow (WebFetch confirmed; abajournal.com link on the page hit the permission prompt)"
+   },
+   {
+    "value": "169",
+    "page_quote": "ABA-accredited law schools: Ban 11, Limited use 8, Discourages 3, Allowed 3, No published rule 169",
+    "primary_source": "Programs.com tracker; table re-count matches"
+   },
+   {
+    "value": "8 limit, 3 allow",
+    "page_quote": "8 more limit how applicants can use AI",
+    "primary_source": "Programs.com tracker; table re-count: Limited use 8, Allowed 3"
+   },
+   {
+    "value": "9 of 100",
+    "page_quote": "9 of 100 most selective U.S. colleges ban AI-written essays",
+    "primary_source": "Programs.com tracker; table re-count: College + Ban = 9"
+   }
+  ],
+  "image": "social/out/2026-10-31-law-school-ai-essay-bans.png",
+  "alt_text": "11 of 194 ABA-accredited law schools ban AI-written admissions essays on their admissions pages, compared with 45% of law schools that said they ban them in a 2024 Kaplan survey. 169 of the 194 publish no rule on AI at all.",
+  "copy": {
+   "linkedin": "11 of 194 ABA-accredited law schools ban AI-written admissions essays on their admissions pages.\n\n• In a 2024 Kaplan survey, 45% of the 97 law schools surveyed said they ban AI-written essays.\n• 169 of the 194 law schools publish no rule on applicants using AI.\n• 8 more limit how applicants can use AI, and 3 allow it.\n• Among the 100 most selective US colleges, 9 ban AI-written essays.\n\nSource: Programs.com check of each school's own admissions pages, October 2026. Kaplan survey of 97 law schools, 2024.\n\nEvery school's rule in its own words: https://programs.com/resources/ai-admissions-essay-bans/",
+   "facebook": "11 of 194 ABA-accredited law schools ban AI-written admissions essays on their admissions pages, according to the Programs.com tracker. In a 2024 Kaplan survey, 45% of the 97 law schools surveyed said they ban them.\n\nhttps://programs.com/resources/ai-admissions-essay-bans/",
+   "instagram": "11 of 194 ABA-accredited law schools ban AI-written admissions essays on their admissions pages.\n\nIn a 2024 Kaplan survey, 45% of the 97 law schools surveyed said they ban them. 169 of the 194 publish no rule on AI at all.\n\nSource: Programs.com AI Admissions Essay Tracker, October 2026; Kaplan survey of 97 law schools, 2024.\n\nFull breakdown at programs.com.\n\n#LawSchool #Admissions #AI #ChatGPT #HigherEd"
+  },
+  "buffer": {
+   "linkedin": "6ae5e55bb84259308bd8f708",
+   "facebook": "6ae5e566a114574349a69a29",
+   "instagram": "6ae5e56bb84259308bd8faba"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; picked a wildcard (last 7 had 4 stats, 1 degree, last wildcard 10-24) as a survey-vs-data contrast from a tracker never posted before. Considered the cybersecurity talent gap myth page (post 1775) but it has no hard numbers. The survey (2024, self-reported official policy, 97 respondents) and the tracker (published admissions pages, Oct 2026, 194 schools) measure different things; the copy keeps them as two separate facts and does not call either wrong. Page observations, not errors that affected the post: Claremont McKenna is listed as a ban though its quote allows AI for basic proofreading (consistent with the page's stated rule that grammar-only exceptions count as bans); Bates is listed as 'Limited use' although its quote reads like a ban on drafting ('Don't use AI to draft, generate, or rewrite any part of your application responses'), worth a check. Page 'Last Updated' Oct 15, 2026; REST modified 2026-10-15. All three Buffer posts sent within about 25 seconds."
  }
 ]
