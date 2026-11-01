@@ -1,0 +1,16 @@
+{
+ "template": "stat",
+ "eyebrow": "AI data centers",
+ "num": "40%",
+ "label": "of the world's AI-dedicated data center capacity is in the US",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "United States", "value": 8.2, "display": "8.2 GW", "hi": true},
+   {"label": "Europe", "value": 3.5, "display": "3.5 GW"},
+   {"label": "China", "value": 3.1, "display": "3.1 GW"}
+  ]
+ },
+ "note": "AI-dedicated data center capacity, 2026",
+ "source": "Source: ABI Research, 2026"
+}
