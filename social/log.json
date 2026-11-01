@@ -1764,5 +1764,47 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; picked a wildcard (last 7 had 4 stats, 1 degree, last wildcard 10-24) as a survey-vs-data contrast from a tracker never posted before. Considered the cybersecurity talent gap myth page (post 1775) but it has no hard numbers. The survey (2024, self-reported official policy, 97 respondents) and the tracker (published admissions pages, Oct 2026, 194 schools) measure different things; the copy keeps them as two separate facts and does not call either wrong. Page observations, not errors that affected the post: Claremont McKenna is listed as a ban though its quote allows AI for basic proofreading (consistent with the page's stated rule that grammar-only exceptions count as bans); Bates is listed as 'Limited use' although its quote reads like a ban on drafting ('Don't use AI to draft, generate, or rewrite any part of your application responses'), worth a check. Page 'Last Updated' Oct 15, 2026; REST modified 2026-10-15. All three Buffer posts sent within about 25 seconds."
+ },
+ {
+  "date": "2026-11-01",
+  "type": "stat",
+  "slug": "us-ai-data-center-capacity",
+  "source_url": "https://programs.com/resources/ai-data-centers/",
+  "headline": "The US holds 40% of the world's AI-dedicated data center capacity",
+  "figures": [
+   {
+    "value": "40%",
+    "page_quote": "This leaves the U.S. with 40% of total installed capacity.",
+    "primary_source": "ABI Research blog 'ai-data-center-demand-growth' (linked from the page); WebFetch hit the permission prompt; emsnow.com coverage (Apr 3, 2026) opened but carries no GW figures; figure rests on the page's named source"
+   },
+   {
+    "value": "8.2 GW; Europe 3.5 GW; China 3.1 GW",
+    "page_quote": "In 2026, the U.S. holds the largest active AI-dedicated data center capacity at 8.2 GW, while its nearest competitors, China and Europe, hold less than half that capacity at 3.1 GW and 3.5 GW, respectively.",
+    "primary_source": "ABI Research blog 'ai-data-center-demand-growth' (linked from the page); WebFetch hit the permission prompt; emsnow.com coverage (Apr 3, 2026) opened but carries no GW figures; figure rests on the page's named source"
+   },
+   {
+    "value": "26.4 GW by 2031, 54%",
+    "page_quote": "The U.S. will have 26.4 GW of AI-driven data center capacity by 2031 (ABI Research) ... This is 54% of total installed capacity.",
+    "primary_source": "ABI Research blog 'ai-data-center-demand-growth' (linked from the page); WebFetch hit the permission prompt; emsnow.com coverage (Apr 3, 2026) opened but carries no GW figures; figure rests on the page's named source"
+   }
+  ],
+  "image": "social/out/2026-11-01-us-ai-data-center-capacity.png",
+  "alt_text": "40% of the world's AI-dedicated data center capacity is in the US. In 2026 the US has 8.2 GW, Europe 3.5 GW and China 3.1 GW, according to ABI Research.",
+  "copy": {
+   "linkedin": "The US holds 40% of the world's AI-dedicated data center capacity.\n\n• The US has 8.2 GW of AI-dedicated data center capacity in 2026.\n• Europe has 3.5 GW and China has 3.1 GW.\n• US capacity is projected to reach 26.4 GW by 2031, 54% of total installed capacity.\n\nSource: ABI Research, 2026.\n\nMore AI data center statistics: https://programs.com/resources/ai-data-centers/",
+   "facebook": "The US holds 40% of the world's AI-dedicated data center capacity, according to ABI Research. That is 8.2 GW in 2026, against 3.5 GW in Europe and 3.1 GW in China.\n\nhttps://programs.com/resources/ai-data-centers/",
+   "instagram": "The US holds 40% of the world's AI-dedicated data center capacity.\n\n8.2 GW in the US in 2026.\n3.5 GW in Europe and 3.1 GW in China.\n\nSource: ABI Research, 2026.\n\nFull breakdown at programs.com.\n\n#AI #DataCenters #ArtificialIntelligence #AIInfrastructure #TechStats"
+  },
+  "buffer": {
+   "linkedin": "6ae744bdcf3a3112f3fdb8ef",
+   "facebook": "6ae744c7ab019b9087608d9f",
+   "instagram": "6ae744cc37c1acd2a0091782"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen to keep the 7-post mix (5 stat / 1 degree / 1 wildcard). Page errors on the AI data centers page (post 8612): Editor's Picks say 'nearly 4,000' AI-optimized data centers but the body heading says 'roughly 3,900'; Editor's Picks say 'Only 24 countries' have AI-training infrastructure but the body says 33 countries (SSRN); Editor's Picks say AI is 23% of workloads while the JLL body text says 'about a quarter' in 2025. None of these were used. All three posts sent within about 25 seconds."
  }
 ]
