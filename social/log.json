@@ -1806,5 +1806,47 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; stat chosen to keep the 7-post mix (5 stat / 1 degree / 1 wildcard). Page errors on the AI data centers page (post 8612): Editor's Picks say 'nearly 4,000' AI-optimized data centers but the body heading says 'roughly 3,900'; Editor's Picks say 'Only 24 countries' have AI-training infrastructure but the body says 33 countries (SSRN); Editor's Picks say AI is 23% of workloads while the JLL body text says 'about a quarter' in 2025. None of these were used. All three posts sent within about 25 seconds."
+ },
+ {
+  "date": "2026-11-02",
+  "type": "stat",
+  "slug": "students-ai-assessments",
+  "source_url": "https://programs.com/resources/students-using-ai/",
+  "headline": "88% of UK undergraduates used generative AI for assessments in 2025, up from 53% in 2024",
+  "figures": [
+   {
+    "value": "88% (2025) vs 53% (2024)",
+    "page_quote": "The same survey revealed that nearly 9 in 10 students (88%) acknowledged using generative AI tools like ChatGPT for tests in 2025, compared to just over half (53%) in 2024.",
+    "primary_source": "HEPI Student Generative AI Survey 2025 (HEPI Policy Note 61, with Kortext; Savanta poll of full-time undergraduates, Dec 2024). hepi.ac.uk page hit the WebFetch permission prompt; the Policy Note 61 PDF (found by WebSearch) opened and confirms the figure. PDF: \"The proportion using generative AI for assessments has jumped from 53% to 88%\"."
+   },
+   {
+    "value": "51% save time; 50% improve quality of work",
+    "page_quote": "Saving time (51%) and improving the quality of work (50%) are the main reasons students use AI.",
+    "primary_source": "HEPI Student Generative AI Survey 2025 (HEPI Policy Note 61, with Kortext; Savanta poll of full-time undergraduates, Dec 2024). hepi.ac.uk page hit the WebFetch permission prompt; the Policy Note 61 PDF (found by WebSearch) opened and confirms the figure. PDF Table 1: 'To save me time' 51%, 'To improve the quality of my work' 50%."
+   },
+   {
+    "value": "53% accused of cheating; 51% false results/hallucinations",
+    "page_quote": "Conversely, being accused of cheating (53%) is the main reason students are reluctant to use AI. / Table: Getting false results/hallucinations 51%",
+    "primary_source": "HEPI Student Generative AI Survey 2025 (HEPI Policy Note 61, with Kortext; Savanta poll of full-time undergraduates, Dec 2024). hepi.ac.uk page hit the WebFetch permission prompt; the Policy Note 61 PDF (found by WebSearch) opened and confirms the figure. PDF Table 2: 'Being accused of cheating by my institution' 53%, 'Getting false results / hallucinations' 51%."
+   }
+  ],
+  "image": "social/out/2026-11-02-students-ai-assessments.png",
+  "alt_text": "88% of UK undergraduates used generative AI for assessments in 2025, up from 53% in 2024, according to a HEPI survey. A bar chart compares 53% in 2024 with 88% in 2025.",
+  "copy": {
+   "linkedin": "88% of UK undergraduates used generative AI for assessments in 2025, up from 53% in 2024.\n\n• The top reasons for using AI were saving time (51%) and improving the quality of their work (50%).\n• 53% said the risk of being accused of cheating by their institution puts them off using AI.\n• 51% were put off by the risk of false results or hallucinations.\n\nSource: Higher Education Policy Institute (HEPI), 2025 survey of UK undergraduates.\n\nMore data on how students use AI: https://programs.com/resources/students-using-ai/",
+   "facebook": "88% of UK undergraduates used generative AI for assessments in 2025, up from 53% in 2024, according to a Higher Education Policy Institute (HEPI) survey.\n\nhttps://programs.com/resources/students-using-ai/",
+   "instagram": "88% of UK undergraduates used generative AI for assessments in 2025, up from 53% in 2024.\n\n53% said the risk of being accused of cheating puts them off using AI.\n51% were put off by the risk of false results or hallucinations.\n\nSource: HEPI survey of UK undergraduates, 2025.\n\nFull breakdown at programs.com.\n\n#AI #GenerativeAI #Education #HigherEducation #EdTech"
+  },
+  "buffer": {
+   "linkedin": "6ae89bd8416e20034268f7d5",
+   "facebook": "6ae89be3416e20034268fa60",
+   "instagram": "6ae89be8386d2d7c13472386"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard). students-using-ai last used 2026-10-05 (outside the last 21 entries); different headline figure from the 92% posted then. AI layoffs tracker considered but its natural angle (2026 total vs prior years) repeats the 2026-10-08 post. Page wording error: the students-using-ai page says students used generative AI 'for tests'; HEPI says 'for assessments' (copy uses HEPI's wording). The page's '18% of students admit to leaving unedited AI-generated text' does not match HEPI, which says 18% 'included AI-generated text directly in their work' / used 'AI-generated and edited text in their assessments'; not used. Page does not name the sample's country; copy says UK undergraduates per HEPI. All three Buffer posts were sent within about 25 seconds."
  }
 ]
