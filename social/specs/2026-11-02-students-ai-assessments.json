@@ -1,0 +1,15 @@
+{
+ "template": "stat",
+ "eyebrow": "AI in education",
+ "num": "88%",
+ "label": "of UK undergraduates used generative AI for assessments in 2025",
+ "viz": {
+  "type": "bars",
+  "bars": [
+   {"label": "2024", "value": 53, "display": "53%"},
+   {"label": "2025", "value": 88, "display": "88%"}
+  ]
+ },
+ "note": "Up from **53%** one year earlier",
+ "source": "Source: HEPI survey of UK undergraduates, 2025"
+}
