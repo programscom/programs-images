@@ -1848,5 +1848,57 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; stat chosen (last 6: 4 stat, 1 degree, 1 wildcard). students-using-ai last used 2026-10-05 (outside the last 21 entries); different headline figure from the 92% posted then. AI layoffs tracker considered but its natural angle (2026 total vs prior years) repeats the 2026-10-08 post. Page wording error: the students-using-ai page says students used generative AI 'for tests'; HEPI says 'for assessments' (copy uses HEPI's wording). The page's '18% of students admit to leaving unedited AI-generated text' does not match HEPI, which says 18% 'included AI-generated text directly in their work' / used 'AI-generated and edited text in their assessments'; not used. Page does not name the sample's country; copy says UK undergraduates per HEPI. All three Buffer posts were sent within about 25 seconds."
+ },
+ {
+  "date": "2026-11-03",
+  "type": "stat",
+  "slug": "largest-ai-layoffs",
+  "source_url": "https://programs.com/resources/ai-layoffs/",
+  "headline": "UPS has the largest AI-related job cut on the Programs.com AI layoffs tracker: 78,000 employees impacted",
+  "figures": [
+   {
+    "value": "UPS 78,000",
+    "page_quote": "UPS / No. of Employees Impacted: 78,000 / Industry: Logistics / Date: November 2025, January 2026 / UPS significantly reduced its operational workforce and closed 93 facilities in the first nine months of 2025. A further 30,000 jobs were reported at risk as of January 2026 in AI-led restructuring.",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-11-01T08:55:55), compiled from company disclosures, earnings calls and media reports. WebSearch/WebFetch (entrepreneur.com) confirms UPS eliminated 48,000 jobs in 2025 plus 30,000 in 2026 (48,000 + 30,000 = 78,000); that article cites automation (automated sorting, AI-driven routing) alongside reduced Amazon volume as the main driver. A script confirmed 78,000 is the largest of the 86 entries."
+   },
+   {
+    "value": "Amazon 30,000",
+    "page_quote": "Amazon / No. of Employees Impacted: 30,000 / Date: October 2025, January 2026 / Amazon eliminated about 14,000 corporate jobs in late 2025 and a further 16,000 in January 2026.",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-11-01T08:55:55), compiled from company disclosures, earnings calls and media reports."
+   },
+   {
+    "value": "Microsoft 28,000",
+    "page_quote": "Microsoft / No. of Employees Impacted: 28,000 / Date: July 2025, April 2026, July 2026",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-11-01T08:55:55), compiled from company disclosures, earnings calls and media reports."
+   },
+   {
+    "value": "Intel 24,000",
+    "page_quote": "Intel / No. of Employees Impacted: 24,000 / Industry: Semiconductors / Date: July 2025",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-11-01T08:55:55), compiled from company disclosures, earnings calls and media reports."
+   },
+   {
+    "value": "At least 11 companies with 10,000+ each since 2024",
+    "page_quote": "Since 2024, at least 11 companies have announced AI-related layoffs affecting 10,000+ employees each.",
+    "primary_source": "Programs.com's own tracker data (post 4518, last modified 2026-11-01T08:55:55), compiled from company disclosures, earnings calls and media reports."
+   }
+  ],
+  "image": "social/out/2026-11-03-largest-ai-layoffs.png",
+  "alt_text": "78,000 employees impacted at UPS, the largest AI-related cut on the Programs.com AI layoffs tracker. A bar chart compares UPS (78,000) with Amazon (30,000), Microsoft (28,000) and Intel (24,000), for cuts announced in 2025 and 2026.",
+  "copy": {
+   "linkedin": "UPS has the largest AI-related job cut on the Programs.com AI layoffs tracker: 78,000 employees impacted.\n\n• Amazon: 30,000 employees impacted\n• Microsoft: 28,000\n• Intel: 24,000\n• Since 2024, at least 11 companies have announced AI-related layoffs affecting 10,000+ employees each.\n\nSource: Programs.com AI layoffs tracker, November 2026. UPS reduced its operational workforce in 2025, and a further 30,000 jobs were reported at risk in January 2026 in AI-led restructuring.\n\nCompany-by-company list: https://programs.com/resources/ai-layoffs/",
+   "facebook": "UPS has the largest AI-related job cut on the Programs.com AI layoffs tracker, with 78,000 employees impacted. Amazon (30,000), Microsoft (28,000) and Intel (24,000) follow.\n\nhttps://programs.com/resources/ai-layoffs/",
+   "instagram": "UPS has the largest AI-related job cut on the Programs.com AI layoffs tracker: 78,000 employees impacted.\n\nAmazon follows with 30,000, then Microsoft with 28,000 and Intel with 24,000.\n\nSource: Programs.com AI layoffs tracker, November 2026.\n\nFull breakdown at programs.com.\n\n#AI #Layoffs #FutureOfWork #Automation #Jobs"
+  },
+  "buffer": {
+   "linkedin": "6ae9e717736f19a874255c1a",
+   "facebook": "6ae9e72287e4378742d8ba74",
+   "instagram": "6ae9e72665793c1b5a4ac989"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue was empty; picked a stat post to keep the 7-post mix (5 stat, 1 degree, 1 wildcard). AI layoffs tracker last used 2026-10-08 (25 entries ago); new angle (largest single-company cuts) instead of the yearly total. Tracker now shows 189,494 employees in Jan to Nov 2026 across 56 companies (chart alt text), 86 company entries. Possible page issues, not used in the post: the Microsoft 28,000 total includes buyouts offered to over 8,000 employees in April 2026 (offers, not confirmed cuts); the Barclays entry is dated October 2026 while its text says 'cut about 5,000 roles in 2026'; UPS cuts are widely reported as driven mainly by the reduced Amazon volume, with automation as one factor. render.py: added text-wrap:balance to the source line so a two-line source does not orphan one word. All three posts sent within about 25 seconds."
  }
 ]
