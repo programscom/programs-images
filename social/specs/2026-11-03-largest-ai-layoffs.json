@@ -1,0 +1,17 @@
+{
+ "template": "stat",
+ "eyebrow": "AI and jobs",
+ "num": "78,000",
+ "label": "employees impacted at UPS, the largest AI-related cut on our tracker",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "UPS", "value": 78000, "display": "78,000", "hi": true},
+   {"label": "Amazon", "value": 30000, "display": "30,000"},
+   {"label": "Microsoft", "value": 28000, "display": "28,000"},
+   {"label": "Intel", "value": 24000, "display": "24,000"}
+  ]
+ },
+ "note": "Employees impacted, cuts announced in 2025 and 2026",
+ "source": "Source: Programs.com AI layoffs tracker, November 2026"
+}

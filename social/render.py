@@ -64,7 +64,7 @@ body{font-family:'Inter',sans-serif;font-weight:400;-webkit-font-smoothing:antia
 .eyebrow{font-size:26px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;line-height:1;color:var(--eyebrow)}
 main{flex:1;min-height:0;display:flex;flex-direction:column;margin:52px 0 28px}
 footer{display:flex;align-items:baseline;justify-content:space-between;gap:36px}
-.src{font-size:24px;line-height:1.3;color:var(--fg3)}
+.src{font-size:24px;line-height:1.3;color:var(--fg3);text-wrap:balance}
 .wordmark{display:inline-flex;align-items:baseline;gap:13px;font-size:30px;font-weight:700;
   letter-spacing:.14em;line-height:1;flex-shrink:0;color:var(--fg)}
 .wordmark i{display:block;width:10px;height:10px;transform:translateY(-3px);background:var(--accent)}
