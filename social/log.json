@@ -1900,5 +1900,167 @@
    "instagram": "sent"
   },
   "notes": "Queue was empty; picked a stat post to keep the 7-post mix (5 stat, 1 degree, 1 wildcard). AI layoffs tracker last used 2026-10-08 (25 entries ago); new angle (largest single-company cuts) instead of the yearly total. Tracker now shows 189,494 employees in Jan to Nov 2026 across 56 companies (chart alt text), 86 company entries. Possible page issues, not used in the post: the Microsoft 28,000 total includes buyouts offered to over 8,000 employees in April 2026 (offers, not confirmed cuts); the Barclays entry is dated October 2026 while its text says 'cut about 5,000 roles in 2026'; UPS cuts are widely reported as driven mainly by the reduced Amazon volume, with automation as one factor. render.py: added text-wrap:balance to the source line so a two-line source does not orphan one word. All three posts sent within about 25 seconds."
+ },
+ {
+  "date": "2026-11-04",
+  "type": "degree",
+  "slug": "cybersecurity-bachelors-ranking",
+  "source_url": "https://programs.com/programs/cybersecurity-bachelors-degrees/",
+  "headline": "We just updated our ranking of the 25 best cybersecurity bachelor's degree programs",
+  "figures": [
+   {
+    "value": "1. University of Arizona",
+    "page_quote": "1 / University of Arizona / Best for: Hands-on practice",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "2. Dakota State University",
+    "page_quote": "2 / Dakota State University / Best for: Academic quality",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "3. Old Dominion University",
+    "page_quote": "3 / Old Dominion University / Best for: Research quality",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "4. SANS Technology Institute",
+    "page_quote": "4 / SANS Technology Institute / Best for: Graduate outcomes",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "5. University of Cincinnati",
+    "page_quote": "5 / University of Cincinnati / Best for: Hands-on practice",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "6. University of Texas at San Antonio",
+    "page_quote": "6 / University of Texas at San Antonio / Best for: Academic quality",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "7. University of South Florida",
+    "page_quote": "7 / University of South Florida / Best for: Hands-on practice",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "8. Rochester Institute of Technology",
+    "page_quote": "8 / Rochester Institute of Technology / Best for: Hands-on practice",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "9. Northeastern University",
+    "page_quote": "9 / Northeastern University / Best for: Curriculum relevance",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "10. Stevens Institute of Technology",
+    "page_quote": "10 / Stevens Institute of Technology / Best for: Cryptography",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "11. University of Nebraska at Omaha",
+    "page_quote": "11 / University of Nebraska at Omaha / Best for: Choice of electives",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "12. Western Governors University",
+    "page_quote": "12 / Western Governors University / Best for: Affordability",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "13. Norwich University",
+    "page_quote": "13 / Norwich University / Best for: Curriculum relevance",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "14. University of Wisconsin-Stout",
+    "page_quote": "14 / University of Wisconsin-Stout / Best for: Hands-on practice",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "15. Penn State",
+    "page_quote": "15 / Penn State / Best for: School reputation",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "16. University of Kansas",
+    "page_quote": "16 / University of Kansas / Best for: Hands-on practice",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "17. University of North Dakota",
+    "page_quote": "17 / University of North Dakota / Best for: Curriculum relevance",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "18. SUNY Albany (University at Albany)",
+    "page_quote": "18 / SUNY Albany (University at Albany) / Best for: All-around",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "19. University of Texas at Dallas",
+    "page_quote": "19 / University of Texas at Dallas / Best for: Cybersecurity management",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "20. University of Alabama in Huntsville",
+    "page_quote": "20 / University of Alabama in Huntsville / Best for: Academic quality",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "21. West Virginia University",
+    "page_quote": "21 / West Virginia University / Best for: All-around",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "22. University of West Florida",
+    "page_quote": "22 / University of West Florida / Best for: Affordability",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "23. University of North Texas",
+    "page_quote": "23 / University of North Texas / Best for: All-around",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "24. Kennesaw State University",
+    "page_quote": "24 / Kennesaw State University / Best for: Affordability",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "25. George Mason University",
+    "page_quote": "25 / George Mason University / Best for: All-around",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "Ranking criteria",
+    "page_quote": "The biggest factor (25%) was whether or not the program focuses on hands-on practice. ... Another major factor (20%) was the relevance of the curriculum. ... Affordability made up 20% of our scoring system. ... We rewarded programs with impressive academic quality (15%). ... Material focus made up 10% of our rankings score. ... We also factored in admissions, though it carried less weight (10%).",
+    "primary_source": "Programs.com ranking methodology"
+   },
+   {
+    "value": "Last Updated: October 29, 2026",
+    "page_quote": "Last Updated: October 29, 2026",
+    "primary_source": "Visible post-meta date via WPVibe get_page_html"
+   }
+  ],
+  "image": "social/out/2026-11-04-cybersecurity-bachelors-ranking.png",
+  "alt_text": "Programs.com 2027 rankings: top 10 cybersecurity bachelor's degree programs. 1 University of Arizona, 2 Dakota State University, 3 Old Dominion University, 4 SANS Technology Institute, 5 University of Cincinnati, 6 University of Texas at San Antonio, 7 University of South Florida, 8 Rochester Institute of Technology, 9 Northeastern University, 10 Stevens Institute of Technology.",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 25 best cybersecurity bachelor's degree programs.\n\n1. University of Arizona: hands-on practice\n2. Dakota State University: academic quality\n3. Old Dominion University: research quality\n4. SANS Technology Institute: graduate outcomes\n5. University of Cincinnati: hands-on practice\n6. University of Texas at San Antonio: academic quality\n7. University of South Florida: hands-on practice\n8. Rochester Institute of Technology: hands-on practice\n9. Northeastern University: curriculum relevance\n10. Stevens Institute of Technology: cryptography\n11. University of Nebraska at Omaha: choice of electives\n12. Western Governors University: affordability\n13. Norwich University: curriculum relevance\n14. University of Wisconsin-Stout: hands-on practice\n15. Penn State: school reputation\n16. University of Kansas: hands-on practice\n17. University of North Dakota: curriculum relevance\n18. SUNY Albany (University at Albany): all-around\n19. University of Texas at Dallas: cybersecurity management\n20. University of Alabama in Huntsville: academic quality\n21. West Virginia University: all-around\n22. University of West Florida: affordability\n23. University of North Texas: all-around\n24. Kennesaw State University: affordability\n25. George Mason University: all-around\n\nRanked on hands-on practice (25%), curriculum relevance (20%), affordability (20%), academic quality (15%), cybersecurity focus of the coursework (10%) and admissions (10%).\n\nFull ranking: https://programs.com/programs/cybersecurity-bachelors-degrees/",
+   "facebook": "We just updated our ranking of the 25 best cybersecurity bachelor's degree programs. The top 10:\n\n1. University of Arizona\n2. Dakota State University\n3. Old Dominion University\n4. SANS Technology Institute\n5. University of Cincinnati\n6. University of Texas at San Antonio\n7. University of South Florida\n8. Rochester Institute of Technology\n9. Northeastern University\n10. Stevens Institute of Technology\n\nhttps://programs.com/programs/cybersecurity-bachelors-degrees/",
+   "instagram": "We just updated our ranking of the 25 best cybersecurity bachelor's degree programs.\n\n1. University of Arizona: hands-on practice\n2. Dakota State: academic quality\n3. Old Dominion: research quality\n4. SANS Technology Institute: graduate outcomes\n5. Cincinnati: hands-on practice\n6. UTSA: academic quality\n7. USF: hands-on practice\n8. RIT: hands-on practice\n9. Northeastern: curriculum relevance\n10. Stevens: cryptography\n\nAll 25 at programs.com.\n\n#Cybersecurity #CybersecurityDegree #BachelorsDegree #InfoSec #HigherEducation"
+  },
+  "buffer": {
+   "linkedin": "6aeb384346cc23c6276abe4f",
+   "facebook": "6aeb384e46cc23c6276ac100",
+   "instagram": "6aeb385523c5a2c6263d25f3"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard; last degree post 2026-10-28). Page 65, first use; topic is cybersecurity after AI education (11-02) and AI layoffs (11-03). Visible Last Updated October 29, 2026, so the 'We just updated' opening applies. The methodology's 'Material focus' (10%) is described as how much the coursework focuses on cybersecurity, so the copy says 'cybersecurity focus of the coursework'. Page error (not used in the post): the No. 1 entry's location reads 'Tucson, ARCI' instead of 'Tucson, AZ'. Queue was empty. All three Buffer posts sent at the first attempt."
  }
 ]
