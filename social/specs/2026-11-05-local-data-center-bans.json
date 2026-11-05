@@ -1,0 +1,17 @@
+{
+ "template": "stat",
+ "eyebrow": "Data centers",
+ "num": "958",
+ "label": "local data center bans and moratoriums adopted in the US since 2022",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "Ohio", "value": 101, "display": "101", "hi": true},
+   {"label": "Michigan", "value": 96, "display": "96"},
+   {"label": "Georgia", "value": 69, "display": "69"},
+   {"label": "New Jersey", "value": 66, "display": "66"}
+  ]
+ },
+ "note": "These four states account for **35%** of all local measures",
+ "source": "Source: Programs.com Data Center Moratoriums Tracker, November 2026"
+}
