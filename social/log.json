@@ -2062,5 +2062,57 @@
    "instagram": "sent"
   },
   "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard; last degree post 2026-10-28). Page 65, first use; topic is cybersecurity after AI education (11-02) and AI layoffs (11-03). Visible Last Updated October 29, 2026, so the 'We just updated' opening applies. The methodology's 'Material focus' (10%) is described as how much the coursework focuses on cybersecurity, so the copy says 'cybersecurity focus of the coursework'. Page error (not used in the post): the No. 1 entry's location reads 'Tucson, ARCI' instead of 'Tucson, AZ'. Queue was empty. All three Buffer posts sent at the first attempt."
+ },
+ {
+  "date": "2026-11-05",
+  "type": "stat",
+  "slug": "local-data-center-bans",
+  "source_url": "https://programs.com/resources/data-center-moratoriums-tracker/",
+  "headline": "958 local data center bans and moratoriums have been adopted in the US since 2022",
+  "figures": [
+   {
+    "value": "958",
+    "page_quote": "958 Local Data Center Moratoriums and Bans Have Been Adopted Since 2022 (heading)",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-04, visible Last Updated: November 4, 2026); no third-party source. Checked: the state table's 'Local moratoriums and bans since 2022' column sums to 958 across 50 states."
+   },
+   {
+    "value": "Ohio 101, Michigan 96, Georgia 69, New Jersey 66; 35%",
+    "page_quote": "Four States Account for 35% of All Local Moratoriums (heading). Ohio (101), Michigan (96), Georgia (69), and New Jersey (66) have all adopted a relatively large number of local data center moratoriums and bans.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-04, visible Last Updated: November 4, 2026); no third-party source. Checked: 332 / 958 = 34.7%, matches the state table rows."
+   },
+   {
+    "value": "46",
+    "page_quote": "46 States Have an Active Data Center Ban or Moratorium In Place (heading). Note that this count includes local (city/municipal) bans as well as statewide bans (ie., New York's Executive Order No. 62).",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-04, visible Last Updated: November 4, 2026); no third-party source. Checked: 1 + 6 + 39 = 46 in the state breakdown lists."
+   },
+   {
+    "value": "18",
+    "page_quote": "Ohio's pushback against new data center development is in full swing with 18 communities having data center-related measures on the November 2026 ballot.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-04, visible Last Updated: November 4, 2026); no third-party source."
+   },
+   {
+    "value": "Alaska, West Virginia",
+    "page_quote": "Alaska and West Virginia are the only states with no data center ban or moratorium on record at the state or local level, whether adopted or proposed.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-04, visible Last Updated: November 4, 2026); no third-party source."
+   }
+  ],
+  "image": "social/out/2026-11-05-local-data-center-bans.png",
+  "alt_text": "958 local data center bans and moratoriums have been adopted in the US since 2022. A bar chart shows Ohio with 101, Michigan 96, Georgia 69 and New Jersey 66, which together account for 35% of all local measures. Source: Programs.com Data Center Moratoriums Tracker, November 2026.",
+  "copy": {
+   "linkedin": "958 local data center bans and moratoriums have been adopted in the US since 2022.\n\n• Ohio (101), Michigan (96), Georgia (69) and New Jersey (66) account for 35% of them\n• 46 states have an active data center ban or moratorium, counting local and statewide measures\n• 18 Ohio communities had data center measures on the November 2026 ballot\n• Alaska and West Virginia are the only states with no data center ban or moratorium on record\n\nSource: Programs.com Data Center Moratoriums Tracker, November 2026.\n\nState-by-state breakdown: https://programs.com/resources/data-center-moratoriums-tracker/",
+   "facebook": "958 local data center bans and moratoriums have been adopted in the US since 2022, according to the Programs.com Data Center Moratoriums Tracker. Ohio leads with 101, followed by Michigan with 96.\n\nhttps://programs.com/resources/data-center-moratoriums-tracker/",
+   "instagram": "958 local data center bans and moratoriums have been adopted in the US since 2022.\n\nOhio (101), Michigan (96), Georgia (69) and New Jersey (66) account for 35% of them.\n\n46 states have an active data center ban or moratorium, counting local and statewide measures.\n\nSource: Programs.com Data Center Moratoriums Tracker, November 2026.\n\nFull breakdown at programs.com.\n\n#DataCenters #AI #Infrastructure #Energy #TechPolicy"
+  },
+  "buffer": {
+   "linkedin": "6aec89b57dcf8f3b73682e4c",
+   "facebook": "6aec89c0bfdb27db17f0dade",
+   "instagram": "6aec89c5d8fec5bcb2d9217a"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Stats slot (last 6 entries: 4 stats, 1 wildcard, 1 degree). Tracker last used 2026-10-06 (25 entries ago, past the 10-entry tracker gap); new angle (local measure count and top states instead of the 45-state headline) with current numbers. Data centers last ran 2026-11-01; previous two days were AI layoffs and cybersecurity. Queue was empty. REST content is now about 213,000 characters and was cut off at 100,000; get_page_html (about 322,000 characters, saved to a file) held the full state table and the Last Updated line. No page errors found: 958, 35% and 46 all reconcile with the state table."
  }
 ]
