@@ -1,0 +1,16 @@
+{
+ "template": "stat",
+ "eyebrow": "AI in education",
+ "num": "37",
+ "label": "US colleges and universities have turned off AI detection",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "Disabled it", "value": 20, "display": "20", "hi": true},
+   {"label": "Discontinued it", "value": 9, "display": "9"},
+   {"label": "Never enabled it", "value": 8, "display": "8"}
+  ]
+ },
+ "note": "**20** of the 37 made the decision in 2023",
+ "source": "Source: Programs.com Colleges That Turned Off AI Detection Tracker, November 2026"
+}
