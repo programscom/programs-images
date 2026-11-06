@@ -2114,5 +2114,57 @@
    "instagram": "sent"
   },
   "notes": "Stats slot (last 6 entries: 4 stats, 1 wildcard, 1 degree). Tracker last used 2026-10-06 (25 entries ago, past the 10-entry tracker gap); new angle (local measure count and top states instead of the 45-state headline) with current numbers. Data centers last ran 2026-11-01; previous two days were AI layoffs and cybersecurity. Queue was empty. REST content is now about 213,000 characters and was cut off at 100,000; get_page_html (about 322,000 characters, saved to a file) held the full state table and the Last Updated line. No page errors found: 958, 35% and 46 all reconcile with the state table."
+ },
+ {
+  "date": "2026-11-06",
+  "type": "stat",
+  "slug": "colleges-off-ai-detection",
+  "source_url": "https://programs.com/resources/colleges-turned-off-ai-detection/",
+  "headline": "37 US colleges and universities have turned off AI detection",
+  "figures": [
+   {
+    "value": "37",
+    "page_quote": "37 U.S. colleges and universities have switched off AI-writing detection, declined to enable it or stopped paying for it. Each one is listed with the date and a source.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-03, visible Last Updated: November 3, 2026); no third-party source. Checked: the 'Every College' table has 37 rows."
+   },
+   {
+    "value": "20 disabled, 9 discontinued, 8 never enabled",
+    "page_quote": "How they turned it off: Disabled 20, Discontinued 9, Never enabled 8 (breakdown panel); stat card: '20 disabled the detector. 9 discontinued it and 8 never enabled it'",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-03, visible Last Updated: November 3, 2026); no third-party source. Checked: re-counted the Action column of all 37 rows."
+   },
+   {
+    "value": "23 public, 14 private, 20 states and Washington, D.C.",
+    "page_quote": "23 public and 14 private, in 20 states and Washington, D.C.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-03, visible Last Updated: November 3, 2026); no third-party source. Checked: re-counted Type and State columns (20 distinct states plus DC)."
+   },
+   {
+    "value": "20 in 2023",
+    "page_quote": "20 made the decision in 2023. The year Turnitin launched its AI detector",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-03, visible Last Updated: November 3, 2026); no third-party source. Checked: 20 rows dated 2023 (Apr 2023 to Dec 31, 2023, Fall 2023, 2023); methodology says Turnitin's AI writing detection launched in April 2023."
+   },
+   {
+    "value": "3 turned it back on (DePaul, Wright State, Arcadia)",
+    "page_quote": "3 colleges turned AI detection off and later turned it back on. They are not included in the count above.",
+    "primary_source": "Programs.com's own tracker data (page last modified 2026-11-03, visible Last Updated: November 3, 2026); no third-party source. "
+   }
+  ],
+  "image": "social/out/2026-11-06-colleges-off-ai-detection.png",
+  "alt_text": "37 US colleges and universities have turned off AI detection. A bar chart shows 20 disabled it, 9 discontinued it and 8 never enabled it, and 20 of the 37 made the decision in 2023. Source: Programs.com Colleges That Turned Off AI Detection Tracker, November 2026.",
+  "copy": {
+   "linkedin": "37 US colleges and universities have turned off AI detection.\n\n• 20 disabled the detector, 9 discontinued it and 8 never enabled it\n• 23 are public and 14 are private, in 20 states and Washington, D.C.\n• 20 made the decision in 2023, the year Turnitin launched its AI detector\n• 3 other colleges turned AI detection off and later turned it back on: DePaul University, Wright State University and Arcadia University\n\nSource: Programs.com Colleges That Turned Off AI Detection Tracker, November 2026.\n\nEvery college, with dates and sources: https://programs.com/resources/colleges-turned-off-ai-detection/",
+   "facebook": "37 US colleges and universities have turned off AI detection, according to the Programs.com Colleges That Turned Off AI Detection Tracker. 20 of them made the decision in 2023, the year Turnitin launched its AI detector.\n\nhttps://programs.com/resources/colleges-turned-off-ai-detection/",
+   "instagram": "37 US colleges and universities have turned off AI detection.\n\n20 disabled the detector, 9 discontinued it and 8 never enabled it.\n\n20 of the 37 made the decision in 2023, the year Turnitin launched its AI detector.\n\nSource: Programs.com Colleges That Turned Off AI Detection Tracker, November 2026.\n\nFull breakdown at programs.com.\n\n#AIDetection #HigherEducation #AIinEducation #Turnitin #AcademicIntegrity"
+  },
+  "buffer": {
+   "linkedin": "6aeddb12f6d00f3472b6d116",
+   "facebook": "6aeddb1ce45c1855cb41894d",
+   "instagram": "6aeddb22e45c1855cb418af3"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Stats slot (window 10-31 to 11-05: 4 stats, 1 wildcard, 1 degree). First post from this tracker (post 10401). AI in education; previous two days were data centers and cybersecurity. Queue was empty. All page counts (37, 23/14, 20/9/8, 2023 = 20, 20 states + DC, 31 still off, 3 reversed) reconcile with the table. No page errors found."
  }
 ]
