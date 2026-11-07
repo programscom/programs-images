@@ -1,0 +1,15 @@
+{
+ "template": "stat",
+ "eyebrow": "AI degrees",
+ "num": "$24,495",
+ "label": "median tuition for an online master's in AI",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "On campus (28 programs)", "value": 51921, "display": "$51,921"},
+   {"label": "Online (43 programs)", "value": 24495, "display": "$24,495", "hi": true}
+  ]
+ },
+ "note": "Median across all 100 programs: **$33,450**",
+ "source": "Source: Programs.com Master's in AI Cost Tracker, October 2026"
+}
