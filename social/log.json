@@ -2166,5 +2166,57 @@
    "instagram": "sent"
   },
   "notes": "Stats slot (window 10-31 to 11-05: 4 stats, 1 wildcard, 1 degree). First post from this tracker (post 10401). AI in education; previous two days were data centers and cybersecurity. Queue was empty. All page counts (37, 23/14, 20/9/8, 2023 = 20, 20 states + DC, 31 still off, 3 reversed) reconcile with the table. No page errors found."
+ },
+ {
+  "date": "2026-11-07",
+  "type": "wildcard",
+  "slug": "ai-masters-online-vs-campus-cost",
+  "source_url": "https://programs.com/resources/masters-in-ai-cost/",
+  "headline": "An online master's in AI costs a median of $24,495 in total tuition. On campus, the median is $51,921",
+  "figures": [
+   {
+    "value": "$24,495 online (43 programs)",
+    "page_quote": "Median tuition by format: Online 43 programs $24,495",
+    "primary_source": "Programs.com's own tracker data (post 10334, page last modified 2026-10-09, visible Last Updated: October 9, 2026); figures from official university tuition pages, 2026-27 out-of-state rates. Checked: re-parsed all 100 rows of the 'Tuition for All 100' table and recomputed the medians. Recomputed online median: 24,495."
+   },
+   {
+    "value": "$51,921 on campus (28 programs)",
+    "page_quote": "On campus 28 programs $51,921",
+    "primary_source": "Programs.com's own tracker data (post 10334, page last modified 2026-10-09, visible Last Updated: October 9, 2026); figures from official university tuition pages, 2026-27 out-of-state rates. Checked: re-parsed all 100 rows of the 'Tuition for All 100' table and recomputed the medians. Recomputed on-campus median: 51,920.5 (page rounds to $51,921)."
+   },
+   {
+    "value": "$36,750 hybrid or either format (29 programs)",
+    "page_quote": "Hybrid or either format 29 programs $36,750",
+    "primary_source": "Programs.com's own tracker data (post 10334, page last modified 2026-10-09, visible Last Updated: October 9, 2026); figures from official university tuition pages, 2026-27 out-of-state rates. Checked: re-parsed all 100 rows of the 'Tuition for All 100' table and recomputed the medians."
+   },
+   {
+    "value": "$33,450 median, 100 programs at 81 universities",
+    "page_quote": "A master's degree in AI costs a median of $33,450 in total tuition. We analyzed 100 programs at 81 U.S. universities from each school's published 2026–27 rates.",
+    "primary_source": "Programs.com's own tracker data (post 10334, page last modified 2026-10-09, visible Last Updated: October 9, 2026); figures from official university tuition pages, 2026-27 out-of-state rates. Checked: re-parsed all 100 rows of the 'Tuition for All 100' table and recomputed the medians. Recomputed overall median: 33,449.5."
+   },
+   {
+    "value": "$129,600 most expensive (Carnegie Mellon, MS in Artificial Intelligence and Innovation)",
+    "page_quote": "$129,600 Most expensive program Carnegie Mellon University, MS in Artificial Intelligence and Innovation",
+    "primary_source": "Programs.com's own tracker data (post 10334, page last modified 2026-10-09, visible Last Updated: October 9, 2026); figures from official university tuition pages, 2026-27 out-of-state rates. Checked: re-parsed all 100 rows of the 'Tuition for All 100' table and recomputed the medians. Confirmed as the maximum of all 100 rows; marked on the page as calculated from per-term tuition (https://msaii.cs.cmu.edu/fees-and-financial-aid)."
+   }
+  ],
+  "image": "social/out/2026-11-07-ai-masters-online-vs-campus-cost.png",
+  "alt_text": "An online master's in AI costs a median of $24,495 in tuition, against $51,921 on campus, and the median across all 100 programs is $33,450. Source: Programs.com Master's in AI Cost Tracker, October 2026.",
+  "copy": {
+   "linkedin": "An online master's in AI costs a median of $24,495 in total tuition. On campus, the median is $51,921.\n\n• Programs.com analyzed 100 programs at 81 US universities, using each school's published 2026–27 rates\n• Median across all 100 programs: $33,450\n• Hybrid or either format (29 programs): $36,750\n• Most expensive: Carnegie Mellon University's MS in Artificial Intelligence and Innovation, on campus, at $129,600\n\nSource: Programs.com Master's in AI Cost Tracker, October 2026. Out-of-state rates; per-semester and one-time fees are not included.\n\nTuition for all 100 programs: https://programs.com/resources/masters-in-ai-cost/",
+   "facebook": "An online master's in AI costs a median of $24,495 in total tuition, against $51,921 for an on-campus program. That is from the Programs.com Master's in AI Cost Tracker, which covers 100 programs at 81 US universities at 2026–27 out-of-state rates.\n\nhttps://programs.com/resources/masters-in-ai-cost/",
+   "instagram": "An online master's in AI costs a median of $24,495 in total tuition. On campus, the median is $51,921.\n\nMedian across all 100 programs we analyzed: $33,450.\n\nMost expensive: Carnegie Mellon University's MS in Artificial Intelligence and Innovation, on campus, at $129,600.\n\nSource: Programs.com Master's in AI Cost Tracker, October 2026. 2026–27 out-of-state rates, fees not included.\n\nFull breakdown at programs.com.\n\n#ArtificialIntelligence #MastersDegree #GradSchool #AIEducation #HigherEducation"
+  },
+  "buffer": {
+   "linkedin": "6aef2c89af7e526d432671ff",
+   "facebook": "6aef2c93229bf05daf52e1ff",
+   "instagram": "6aef2c989214322f68f5de55"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Wildcard (no wildcard since 2026-10-31): two site figures side by side, online vs on-campus median tuition from the Master's in AI Cost tracker (post 10334), first use of this page. Topic differs from the previous two days (data centers, AI detection). Methodology: out-of-state rates, per-semester and one-time fees excluded; copy says so. The page's format breakdown labels the third group 'Hybrid or either format' (29 programs); in the table these are 8 'Hybrid' and 21 'Online or on campus' rows. No errors found on the page. All three Buffer posts were sent within about 25 seconds."
  }
 ]
