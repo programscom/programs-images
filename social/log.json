@@ -2218,5 +2218,47 @@
    "instagram": "sent"
   },
   "notes": "Wildcard (no wildcard since 2026-10-31): two site figures side by side, online vs on-campus median tuition from the Master's in AI Cost tracker (post 10334), first use of this page. Topic differs from the previous two days (data centers, AI detection). Methodology: out-of-state rates, per-semester and one-time fees excluded; copy says so. The page's format breakdown labels the third group 'Hybrid or either format' (29 programs); in the table these are 8 'Hybrid' and 21 'Online or on campus' rows. No errors found on the page. All three Buffer posts were sent within about 25 seconds."
+ },
+ {
+  "date": "2026-11-08",
+  "type": "stat",
+  "slug": "ai-proof-before-hiring",
+  "source_url": "https://programs.com/resources/ai-headcount-statistics/",
+  "headline": "17% of companies now require managers to prove that AI can't do a job before they can hire a new employee",
+  "figures": [
+   {
+    "value": "17% of companies require proof AI can't do a job before hiring",
+    "page_quote": "17% of companies now require managers to prove that AI can’t do a job before hiring a new employee (Zip)",
+    "primary_source": "Zip State of Spend (press release on businesswire.com, Oct 8 2025, linked from the page; hit the WebFetch permission prompt). procurementmag.com coverage (found by WebSearch) confirms: '17% requiring proof that AI cannot perform the role before approving new positions'; survey of over 1,030 C-suite and senior decision makers responsible for spend, with Prolific, North America, Europe and emerging markets. Sample size not on our page, so left out of the copy."
+   },
+   {
+    "value": "Three-quarters of companies factor AI into hiring decisions",
+    "page_quote": "The survey also found that three-quarters of companies are factoring AI into hiring decisions, considering which parts of a job require nuanced decisions and team coordination versus which tasks are repetitive and computer-driven.",
+    "primary_source": "Zip State of Spend; procurementmag.com: 'AI has become a central point when it comes to the hiring decisions for 75% of organisations'."
+   },
+   {
+    "value": "38% of employers reduced entry-level roles because of AI",
+    "page_quote": "38% of employers have reduced the number of entry-level roles at their company because of AI (Western Governors University)",
+    "primary_source": "WGU Workforce Decoded 2025-26 (PDF linked from the page hit the WebFetch permission prompt). WGU press release of Jan 2026 (wgu.edu/newsroom/press-release/2026/01/employers-share-hiring-outlook-2026.html) opened: 'Thirty-eight percent say they are reducing entry-level hiring because of AI'; 3,147 US-based respondents, Centiment for WGU, Sept 30 to Oct 15 2025."
+   }
+  ],
+  "image": "social/out/2026-11-08-ai-proof-before-hiring.png",
+  "alt_text": "17% of companies require proof that AI can't do a job before hiring a person, shown as 17 of 100 squares filled. Source: Zip State of Spend survey of senior business decision makers.",
+  "copy": {
+   "linkedin": "17% of companies now require managers to prove that AI can't do a job before they can hire a new employee.\n\n• Three-quarters of companies in the same survey are factoring AI into hiring decisions\n• 38% of US employers have reduced the number of entry-level roles at their company because of AI (Western Governors University)\n\nSource: Zip State of Spend survey of senior business decision makers.\n\nMore statistics on AI, hiring and headcount: https://programs.com/resources/ai-headcount-statistics/",
+   "facebook": "17% of companies now require managers to prove that AI can't do a job before they can hire a new employee, according to Zip's State of Spend survey of senior business decision makers.\n\nhttps://programs.com/resources/ai-headcount-statistics/",
+   "instagram": "17% of companies now require managers to prove that AI can't do a job before they can hire a new employee.\n\nThree-quarters of companies in the same survey are factoring AI into hiring decisions.\n\n38% of US employers have reduced the number of entry-level roles at their company because of AI (Western Governors University).\n\nSource: Zip State of Spend survey of senior business decision makers.\n\nFull breakdown at programs.com.\n\n#ArtificialIntelligence #Hiring #FutureOfWork #Recruiting #AIJobs"
+  },
+  "buffer": {
+   "linkedin": "6af07fd2562f2e6de9c04324",
+   "facebook": "6af07fdc9214322f68583871",
+   "instagram": "6af07fe2562f2e6de9c044ad"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Stat post (mix: last 6 were stat, stat, degree, stat, stat, wildcard). First use of the AI headcount statistics page (post 5211, modified 2026-10-15); topic AI and hiring, after two AI-in-education days. Queue was empty. First considered the ransomware cost page (post 4530) and dropped it: its Sophos payment split (30% paid full, 51% less, 18% more, labelled 2026) could not be confirmed. Sophos's 2026 blog gives only 51% paid less, and digitaltransactions.net coverage gives 29% full, 53% less, 18% more. The same page also gives $2.73 million both as the 2024 average ransom demand and as the 2024 average recovery cost, which looks like a mix-up, and its recovery cost figure ($1.53M, 2025) is now superseded by Sophos 2026 ($1.7M, up 11%). Zip source year (2025) appears only in the link URL, so the source line carries no year. All three Buffer posts were sent within about 25 seconds (Facebook and Instagram in the create_post response)."
  }
 ]
