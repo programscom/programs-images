@@ -1,0 +1,8 @@
+{
+ "template": "stat",
+ "eyebrow": "AI and hiring",
+ "num": "17%",
+ "label": "of companies require proof that AI can't do a job before hiring a person",
+ "viz": {"type": "waffle", "pct": 17},
+ "source": "Source: Zip State of Spend survey of senior business decision makers"
+}
