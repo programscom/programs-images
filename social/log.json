@@ -2260,5 +2260,52 @@
    "instagram": "sent"
   },
   "notes": "Stat post (mix: last 6 were stat, stat, degree, stat, stat, wildcard). First use of the AI headcount statistics page (post 5211, modified 2026-10-15); topic AI and hiring, after two AI-in-education days. Queue was empty. First considered the ransomware cost page (post 4530) and dropped it: its Sophos payment split (30% paid full, 51% less, 18% more, labelled 2026) could not be confirmed. Sophos's 2026 blog gives only 51% paid less, and digitaltransactions.net coverage gives 29% full, 53% less, 18% more. The same page also gives $2.73 million both as the 2024 average ransom demand and as the 2024 average recovery cost, which looks like a mix-up, and its recovery cost figure ($1.53M, 2025) is now superseded by Sophos 2026 ($1.7M, up 11%). Zip source year (2025) appears only in the link URL, so the source line carries no year. All three Buffer posts were sent within about 25 seconds (Facebook and Instagram in the create_post response)."
+ },
+ {
+  "date": "2026-11-09",
+  "type": "stat",
+  "slug": "ai-vishing-bot-warned",
+  "source_url": "https://programs.com/resources/voice-phishing-stats/",
+  "headline": "33% of people who were explicitly warned about voice phishing still gave sensitive information to an AI voice bot",
+  "figures": [
+   {
+    "value": "33% of explicitly warned participants still disclosed sensitive information",
+    "page_quote": "H3: \"But even when strongly warned, 33% of people still disclose sensitive information during a voice phishing attack (ARXIV)\"",
+    "primary_source": "ViKing study, 'On the Feasibility of Fully AI-automated Vishing Attacks' (Figueiredo et al., arXiv 2409.13793, September 2024), linked from the page. Opened via arxiv.org/html/2409.13793v1: '20 out of 60 participants (33%) in wave 4 have still disclosed sensitive information'; 240 participants in four waves of 60; wave 4 was the maximum-vigilance (explicitly warned) group."
+   },
+   {
+    "value": "240 participants",
+    "page_quote": "In this controlled experiment, over two-thirds of the 240 participants felt their interactions with the bot attacker were realistic.",
+    "primary_source": "ViKing study, 'On the Feasibility of Fully AI-automated Vishing Attacks' (Figueiredo et al., arXiv 2409.13793, September 2024), linked from the page. Opened via arxiv.org/html/2409.13793v1: '20 out of 60 participants (33%) in wave 4 have still disclosed sensitive information'; 240 participants in four waves of 60; wave 4 was the maximum-vigilance (explicitly warned) group."
+   },
+   {
+    "value": "Voice cloned in three seconds",
+    "page_quote": "H3: \"A person's voice can be cloned in three seconds (Microsoft)\"",
+    "primary_source": "Microsoft, via techhq.com link on the page; not opened, used on the strength of the page's named source."
+   },
+   {
+    "value": "27% of the time listeners fail to spot deepfake audio",
+    "page_quote": "H3: \"Listeners are unable to correctly spot deepfake audio 27% of the time (PLOS)\". Body: \"participants were usually able to spot deepfake audio, doing so 73% of the time.\"",
+    "primary_source": "PLOS ONE (journal.pone.0285333), linked from the page; not opened, used on the strength of the page's named source."
+   }
+  ],
+  "image": "social/out/2026-11-09-ai-vishing-bot-warned.png",
+  "alt_text": "33% of participants still gave sensitive information to an AI voice bot after being explicitly warned, shown as 33 of 100 squares filled. Source: ViKing experiment (arXiv, 2024), 60 explicitly warned participants.",
+  "copy": {
+   "linkedin": "33% of people who were explicitly warned about voice phishing still gave sensitive information to an AI voice bot.\n\n• The figure comes from a controlled experiment with 240 participants and an AI-powered vishing bot called ViKing\n• A person's voice can be cloned in three seconds (Microsoft)\n• Listeners are unable to correctly spot deepfake audio 27% of the time (PLOS)\n\nSource: ViKing experiment (arXiv, 2024), 60 participants who were explicitly warned.\n\nMore voice phishing statistics: https://programs.com/resources/voice-phishing-stats/",
+   "facebook": "33% of people who were explicitly warned about voice phishing still gave sensitive information to an AI voice bot, in a 240-person experiment with the ViKing bot (arXiv, 2024).\n\nhttps://programs.com/resources/voice-phishing-stats/",
+   "instagram": "33% of people who were explicitly warned about voice phishing still gave sensitive information to an AI voice bot.\n\nA person's voice can be cloned in three seconds (Microsoft).\n\nListeners are unable to correctly spot deepfake audio 27% of the time (PLOS).\n\nSource: ViKing experiment (arXiv, 2024), 60 participants who were explicitly warned.\n\nFull breakdown at programs.com.\n\n#Cybersecurity #Vishing #Deepfakes #ArtificialIntelligence #Phishing"
+  },
+  "buffer": {
+   "linkedin": "6af1d00337d8d906e7c082b2",
+   "facebook": "6af1d00e94b96a154c80928e",
+   "instagram": "6af1d01349a9d0ada8d9c3ea"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Stat post (mix: last 6 were stat, degree, stat, stat, wildcard, stat). Queue was empty. Voice phishing page (post 4141, modified 2026-11-04) last used 2026-10-11, outside the last 21 entries; new headline figure (442%, 2 vs 93, 68% and 31% not reused). Topic AI voice phishing after AI hiring (11-08) and AI education cost (11-07). Page errors found: (1) the defense section says '77% disclosed sensitive information during a vishing attack. But when participants were warned about the dangers of doing so, that rate fell to 52%', and the H3 says warning makes people '39% less likely' to disclose. In the paper, 77% is wave 1 only (46 of 60, minimal caution) and 52% is the overall rate across all 240 participants (124 of 240), not a warned rate, so the 39% is also wrong. (2) '68.33% ... perceive their interaction with the bot attacker as realistic' follows the paper's introduction, but the paper's body gives 62.92% for realism and uses 68.33% for credibility 'average or better'. (3) PIRG anti-robocall figures do not reconcile: 4,853 of 11,467 fully installed (42%) plus 1,929 partial leaves 4,685 (41%), not the 36% stated as having installed nothing. arxiv.org/abs hit the WebFetch permission prompt; arxiv.org/html opened. All three Buffer posts were sent within about 25 seconds (Facebook and Instagram in the create_post response)."
  }
 ]
