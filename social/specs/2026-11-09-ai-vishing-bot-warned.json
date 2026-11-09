@@ -1,0 +1,8 @@
+{
+ "template": "stat",
+ "eyebrow": "AI voice phishing",
+ "num": "33%",
+ "label": "still gave sensitive information to an AI voice bot after being explicitly warned",
+ "viz": {"type": "waffle", "pct": 33},
+ "source": "Source: ViKing experiment (arXiv, 2024), 60 explicitly warned participants"
+}
