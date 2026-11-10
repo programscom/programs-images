@@ -2307,5 +2307,52 @@
    "instagram": "sent"
   },
   "notes": "Stat post (mix: last 6 were stat, degree, stat, stat, wildcard, stat). Queue was empty. Voice phishing page (post 4141, modified 2026-11-04) last used 2026-10-11, outside the last 21 entries; new headline figure (442%, 2 vs 93, 68% and 31% not reused). Topic AI voice phishing after AI hiring (11-08) and AI education cost (11-07). Page errors found: (1) the defense section says '77% disclosed sensitive information during a vishing attack. But when participants were warned about the dangers of doing so, that rate fell to 52%', and the H3 says warning makes people '39% less likely' to disclose. In the paper, 77% is wave 1 only (46 of 60, minimal caution) and 52% is the overall rate across all 240 participants (124 of 240), not a warned rate, so the 39% is also wrong. (2) '68.33% ... perceive their interaction with the bot attacker as realistic' follows the paper's introduction, but the paper's body gives 62.92% for realism and uses 68.33% for credibility 'average or better'. (3) PIRG anti-robocall figures do not reconcile: 4,853 of 11,467 fully installed (42%) plus 1,929 partial leaves 4,685 (41%), not the 36% stated as having installed nothing. arxiv.org/abs hit the WebFetch permission prompt; arxiv.org/html opened. All three Buffer posts were sent within about 25 seconds (Facebook and Instagram in the create_post response)."
+ },
+ {
+  "date": "2026-11-10",
+  "type": "stat",
+  "slug": "ai-graduation-requirements",
+  "source_url": "https://programs.com/resources/ai-graduation-requirements/",
+  "headline": "As of November 2026, 8 US colleges and university systems require every undergraduate to meet an AI requirement to earn a degree",
+  "figures": [
+   {
+    "value": "8 degree-level AI requirements in force",
+    "page_quote": "As of November 2026, 8 U.S. colleges and university systems require every undergraduate to meet an AI requirement to earn a degree. Another 10 require incoming students to complete an AI module.",
+    "primary_source": "Programs.com AI Graduation Requirements Tracker (own data), page last updated November 6, 2026; counts re-checked against the page's tables (8 'In force' + 2 'Phasing in' rows in Degree-Level, 10 rows in Required AI Modules)."
+   },
+   {
+    "value": "2 more phasing in (DeVry University, Miami University)",
+    "page_quote": "Stat card: \"8 / Degree-level AI requirements in force / 2 more are phasing in\"",
+    "primary_source": "Programs.com AI Graduation Requirements Tracker (own data), page last updated November 6, 2026; counts re-checked against the page's tables (8 'In force' + 2 'Phasing in' rows in Degree-Level, 10 rows in Required AI Modules)."
+   },
+   {
+    "value": "10 required AI modules",
+    "page_quote": "Another 10 require incoming students to complete an AI module.",
+    "primary_source": "Programs.com AI Graduation Requirements Tracker (own data), page last updated November 6, 2026; counts re-checked against the page's tables (8 'In force' + 2 'Phasing in' rows in Degree-Level, 10 rows in Required AI Modules)."
+   },
+   {
+    "value": "SUNY covers 64 campuses",
+    "page_quote": "AI added to the Information Literacy core competency in general education at all 64 campuses.",
+    "primary_source": "Programs.com AI Graduation Requirements Tracker (own data), page last updated November 6, 2026; counts re-checked against the page's tables (8 'In force' + 2 'Phasing in' rows in Degree-Level, 10 rows in Required AI Modules)."
+   }
+  ],
+  "image": "social/out/2026-11-10-ai-graduation-requirements.png",
+  "alt_text": "8 US colleges and university systems require every undergraduate to meet an AI requirement to earn a degree, shown as 8 of 10 squares filled, with 2 more phasing in. Source: Programs.com AI Graduation Requirements Tracker, November 2026.",
+  "copy": {
+   "linkedin": "As of November 2026, 8 US colleges and university systems require every undergraduate to meet an AI requirement to earn a degree.\n\n• In force at Ohio State, Campus, Creighton, Purdue, Saint Leo, SUNY, the University of Dayton and the University of Tampa\n• 2 more are phasing in: DeVry University and Miami University\n• Another 10 require incoming students to complete an AI module\n• SUNY's requirement covers all 64 of its campuses\n\nSource: Programs.com AI Graduation Requirements Tracker, November 2026.\n\nEvery requirement, with sources, on the tracker: https://programs.com/resources/ai-graduation-requirements/",
+   "facebook": "As of November 2026, 8 US colleges and university systems require every undergraduate to meet an AI requirement to earn a degree, including Ohio State, Purdue and SUNY. Another 10 require incoming students to complete an AI module, according to the Programs.com AI Graduation Requirements Tracker.\n\nhttps://programs.com/resources/ai-graduation-requirements/",
+   "instagram": "8 US colleges and university systems require every undergraduate to meet an AI requirement to earn a degree.\n\n2 more are phasing in, and another 10 require incoming students to complete an AI module.\n\nSource: Programs.com AI Graduation Requirements Tracker, November 2026.\n\nFull breakdown at programs.com.\n\n#ArtificialIntelligence #AILiteracy #HigherEducation #College #EdTech"
+  },
+  "buffer": {
+   "linkedin": "6af3210fb7c40e4eb4138761",
+   "facebook": "6af32119b7c40e4eb4138efd",
+   "instagram": "6af3211fefda8cf29ac8c118"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Queue empty; stat chosen to keep the 7-post mix at 5/1/1. First use of the AI graduation requirements tracker (post 10410). Page error spotted (not used in post): the School-Level table lists 'Mississippi Christian University' School of Law, but the linked source is mc.edu (Mississippi College School of Law). The '83 campuses covered' stat card was not re-derived and was not used."
  }
 ]
