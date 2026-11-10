@@ -1,0 +1,9 @@
+{
+ "template": "stat",
+ "eyebrow": "AI in education",
+ "num": "8",
+ "label": "US colleges and university systems require every undergraduate to meet an AI requirement to earn a degree",
+ "viz": {"type": "units", "units": 10, "on": 8},
+ "note": "**8** in force, **2** more phasing in",
+ "source": "Source: Programs.com AI Graduation Requirements Tracker, November 2026"
+}
