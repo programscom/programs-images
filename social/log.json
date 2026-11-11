@@ -2354,5 +2354,57 @@
    "instagram": "sent"
   },
   "notes": "Queue empty; stat chosen to keep the 7-post mix at 5/1/1. First use of the AI graduation requirements tracker (post 10410). Page error spotted (not used in post): the School-Level table lists 'Mississippi Christian University' School of Law, but the linked source is mc.edu (Mississippi College School of Law). The '83 campuses covered' stat card was not re-derived and was not used."
+ },
+ {
+  "date": "2026-11-11",
+  "type": "degree",
+  "slug": "ai-phd-ranking",
+  "source_url": "https://programs.com/programs/ai-phd-programs/",
+  "headline": "We just updated our ranking of the 25 best AI PhD programs",
+  "figures": [
+   {
+    "value": "25 programs ranked",
+    "page_quote": "We're about to break down the top 25 AI PhD programs in the US.",
+    "primary_source": "Programs.com Best PhD in Artificial Intelligence Programs ranking (own ranking), page 7741, visible 'Last Updated: November 5, 2026'"
+   },
+   {
+    "value": "Last updated November 5, 2026 (within 30 days, so 'We just updated' opening)",
+    "page_quote": "Last Updated: November 5, 2026",
+    "primary_source": "Programs.com Best PhD in Artificial Intelligence Programs ranking (own ranking), page 7741, visible 'Last Updated: November 5, 2026'"
+   },
+   {
+    "value": "No. 1 Carnegie Mellon University",
+    "page_quote": "1 / Carnegie Mellon University / Pittsburgh, Pennsylvania / PhD in Machine Learning / Best for: Dedicated ML program, graduate outcomes",
+    "primary_source": "Programs.com Best PhD in Artificial Intelligence Programs ranking (own ranking), page 7741, visible 'Last Updated: November 5, 2026'"
+   },
+   {
+    "value": "Ranked 1 to 25 with Best for lines",
+    "page_quote": "1 Carnegie Mellon University; 2 Stanford University; 3 MIT; 4 UC Berkeley; 5 University of Washington; 6 Georgia Institute of Technology; 7 Cornell University; 8 University of Illinois Urbana-Champaign; 9 Princeton University; 10 University of Michigan; 11 University of Texas at Austin; 12 Harvard University; 13 New York University; 14 Columbia University; 15 UC San Diego; 16 University of Southern California; 17 University of Maryland; 18 University of Pennsylvania; 19 University of Massachusetts Amherst; 20 UCLA; 21 University of Wisconsin-Madison; 22 Johns Hopkins University; 23 Arizona State University; 24 Purdue University; 25 Rice University",
+    "primary_source": "Programs.com Best PhD in Artificial Intelligence Programs ranking (own ranking), page 7741, visible 'Last Updated: November 5, 2026'"
+   },
+   {
+    "value": "Ranking criteria",
+    "page_quote": "We gave top weighting to research output and AI/ML reputation. ... Funding and resources were also given a high weighting. ... We gave graduate outcomes the next-highest importance ... Schools also received credit for faculty size and breadth. ... Finally, a small amount of credit was given for ease of admissions.",
+    "primary_source": "Programs.com Best PhD in Artificial Intelligence Programs ranking (own ranking), page 7741, visible 'Last Updated: November 5, 2026'"
+   }
+  ],
+  "image": "social/out/2026-11-11-ai-phd-ranking.png",
+  "alt_text": "Programs.com 2026 rankings: top 10 PhD in Artificial Intelligence programs. 1 Carnegie Mellon University, 2 Stanford University, 3 Massachusetts Institute of Technology, 4 University of California, Berkeley, 5 University of Washington, 6 Georgia Institute of Technology, 7 Cornell University, 8 University of Illinois Urbana-Champaign, 9 Princeton University, 10 University of Michigan.",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 25 best AI PhD programs.\n\n1. Carnegie Mellon University: dedicated ML program, graduate outcomes\n2. Stanford University: research focus\n3. Massachusetts Institute of Technology: elite AI research lab\n4. University of California, Berkeley: well-paid RA/TA posts, strong AI focus\n5. University of Washington: integrated master's degree\n6. Georgia Institute of Technology: immediate AI/ML focus (no generic CS coursework)\n7. Cornell University: structured coursework, breadth of study\n8. University of Illinois Urbana-Champaign: accelerated route for master's degree holders\n9. Princeton University: elite faculty and facilities\n10. University of Michigan: internship possibility\n11. University of Texas at Austin: early research and publication opportunities\n12. Harvard University: overall institutional prestige, funding\n13. New York University: internship, chance to study abroad\n14. Columbia University: research focus\n15. University of California, San Diego: strength of AI faculty\n16. University of Southern California: pathway to academia\n17. University of Maryland: joint program with Max Planck Institute\n18. University of Pennsylvania: graduate outcomes, stipend matching cost of living\n19. University of Massachusetts Amherst: early specialization, curriculum personalization\n20. University of California, Los Angeles: interdisciplinary study, slightly less competitive admissions versus other top schools\n21. University of Wisconsin-Madison: breadth of study\n22. Johns Hopkins University: funding, AI applications in healthcare\n23. Arizona State University: AI focus\n24. Purdue University: school-assisted summer internships\n25. Rice University: funding\n\nRanked on research output and AI/ML reputation, funding and resources, graduate outcomes, faculty size and breadth, and ease of admissions.\n\nFull ranking: https://programs.com/programs/ai-phd-programs/",
+   "facebook": "We just updated our ranking of the 25 best AI PhD programs. The top 10:\n\n1. Carnegie Mellon University\n2. Stanford University\n3. Massachusetts Institute of Technology\n4. University of California, Berkeley\n5. University of Washington\n6. Georgia Institute of Technology\n7. Cornell University\n8. University of Illinois Urbana-Champaign\n9. Princeton University\n10. University of Michigan\n\nhttps://programs.com/programs/ai-phd-programs/",
+   "instagram": "We just updated our ranking of the 25 best AI PhD programs.\n\n1. Carnegie Mellon: dedicated ML program, graduate outcomes\n2. Stanford: research focus\n3. MIT: elite AI research lab\n4. UC Berkeley: well-paid RA/TA posts, strong AI focus\n5. University of Washington: integrated master's degree\n6. Georgia Tech: immediate AI/ML focus (no generic CS coursework)\n7. Cornell: structured coursework, breadth of study\n8. UIUC: accelerated route for master's degree holders\n9. Princeton: elite faculty and facilities\n10. Michigan: internship possibility\n\nAll 25 at programs.com.\n\n#ArtificialIntelligence #MachineLearning #PhD #GradSchool #HigherEducation"
+  },
+  "buffer": {
+   "linkedin": "6af472a5c6fc3e4d41b144ee",
+   "facebook": "6af472b065ca8ad72d04c9b9",
+   "instagram": "6af472b57b2522ad6c41c0cd"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard; last degree post 2026-11-04). Page 7741, first use; topic is AI after AI graduation requirements (11-10, education) so not a third straight day of the same broad topic only if counted as AI degrees rather than AI in education. Queue was empty. The page lists four schools by short names (MIT, UC Berkeley, UC San Diego, UCLA); the image, LinkedIn and Facebook use the official names (Massachusetts Institute of Technology; University of California, Berkeley / San Diego / Los Angeles), Instagram uses short names. Page title still says '(2026)', so the image eyebrow reads '2026 rankings'. The methodology gives no percentages, so the criteria line lists them in the page's order of weight. Possible page inconsistency (not used in the post): CMU's entry says it is 'the only overall top-20 national school with a dedicated AI PhD program', while the intro names Georgia Tech and Arizona State as dedicated programs too (not necessarily a contradiction, depending on the top-20 list meant). Considered page 13091 (Master's in Data Science and AI) first, but it is an unranked alphabetical list of 22 programs, so not a ranking post. All three Buffer posts sent at the first attempt (LinkedIn 'sending' then 'sent' within about 25 seconds)."
  }
 ]
