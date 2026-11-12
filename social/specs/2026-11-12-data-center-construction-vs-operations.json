@@ -1,0 +1,15 @@
+{
+ "template": "stat",
+ "eyebrow": "Data centers",
+ "num": "50",
+ "label": "full-time workers run a typical data center once it is built",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "On site at peak construction", "value": 1500, "display": "About 1,500"},
+   {"label": "Full-time once running", "value": 50, "display": "About 50", "hi": true}
+  ]
+ },
+ "note": "About half of the 50 are **contractors**",
+ "source": "Source: Virginia JLARC study of data centers in Virginia"
+}
