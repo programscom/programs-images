@@ -2406,5 +2406,52 @@
    "instagram": "sent"
   },
   "notes": "Degree slot (last 6 entries were 5 stats + 1 wildcard; last degree post 2026-11-04). Page 7741, first use; topic is AI after AI graduation requirements (11-10, education) so not a third straight day of the same broad topic only if counted as AI degrees rather than AI in education. Queue was empty. The page lists four schools by short names (MIT, UC Berkeley, UC San Diego, UCLA); the image, LinkedIn and Facebook use the official names (Massachusetts Institute of Technology; University of California, Berkeley / San Diego / Los Angeles), Instagram uses short names. Page title still says '(2026)', so the image eyebrow reads '2026 rankings'. The methodology gives no percentages, so the criteria line lists them in the page's order of weight. Possible page inconsistency (not used in the post): CMU's entry says it is 'the only overall top-20 national school with a dedicated AI PhD program', while the intro names Georgia Tech and Arizona State as dedicated programs too (not necessarily a contradiction, depending on the top-20 list meant). Considered page 13091 (Master's in Data Science and AI) first, but it is an unranked alphabetical list of 22 programs, so not a ranking post. All three Buffer posts sent at the first attempt (LinkedIn 'sending' then 'sent' within about 25 seconds)."
+ },
+ {
+  "date": "2026-11-12",
+  "type": "stat",
+  "slug": "data-center-construction-vs-operations",
+  "source_url": "https://programs.com/resources/how-many-people-work-in-data-centers/",
+  "headline": "About 1,500 workers are on site at the peak of a data center's construction. Once it is running, a typical facility has 50 full-time workers.",
+  "figures": [
+   {
+    "value": "About 1,500 workers at peak construction; 50 full-time workers",
+    "page_quote": "About 1,500 workers are on site at the peak of a data center’s construction, but a typical facility runs with 50 full-time workers (Virginia JLARC)",
+    "primary_source": "https://jlarc.virginia.gov/pdfs/reports/Rpt598-2.pdf (confirmed in JLARC summary Rpt598Sum-1.pdf: 'approximately 1,500 workers are on site' at the height of construction; 'typical 250,000-square-foot data center may have approximately 50 full-time workers')"
+   },
+   {
+    "value": "About half of the 50 are contractors",
+    "page_quote": "About half of the 50 workers at a typical 250,000-square-foot data center are contractors.",
+    "primary_source": "https://jlarc.virginia.gov/pdfs/reports/Rpt598-2.pdf (confirmed in summary: about half are contract workers)"
+   },
+   {
+    "value": "About 80% of 74,000 Virginia jobs are construction",
+    "page_quote": "About 80% of the 74,000 jobs data centers support in Virginia each year are construction jobs (Virginia JLARC)",
+    "primary_source": "https://jlarc.virginia.gov/pdfs/reports/Rpt598-2.pdf (summary confirms 74,000 jobs and that most benefits come from construction; 59,000 construction split is from the page body)"
+   },
+   {
+    "value": "4,242 construction jobs and 73 permanent jobs (Nevada)",
+    "page_quote": "A Nevada data center approved for tax abatements projected 4,242 construction jobs and 73 permanent jobs (Nevada Governor’s Office of Economic Development)",
+    "primary_source": "https://goed.nv.gov/wp-content/uploads/2024/03/8-B.-Vantage-Data-Centers-NV11-LLC-Board-Packet.pdf (not opened; used as shown on our page with named source)"
+   }
+  ],
+  "image": "social/out/2026-11-12-data-center-construction-vs-operations.png",
+  "alt_text": "Chart comparing about 1,500 workers on site at the peak of a data center's construction with about 50 full-time workers once a typical data center is running, about half of them contractors. Source: Virginia JLARC study of data centers in Virginia.",
+  "copy": {
+   "linkedin": "About 1,500 workers are on site at the peak of a data center's construction. Once it is running, a typical facility has 50 full-time workers.\n\n• About half of those 50 workers are contractors.\n• About 80% of the 74,000 jobs data centers support in Virginia each year are construction jobs.\n• A Nevada data center approved for tax abatements projected 4,242 construction jobs and 73 permanent jobs.\n\nSource: Virginia JLARC study of data centers in Virginia. Nevada figures: Nevada Governor's Office of Economic Development.\n\nMore data center jobs figures: https://programs.com/resources/how-many-people-work-in-data-centers/",
+   "facebook": "About 1,500 workers are on site at the peak of a data center's construction, but a typical facility runs with 50 full-time workers once it is built, according to a Virginia JLARC study of data centers in Virginia.\n\nhttps://programs.com/resources/how-many-people-work-in-data-centers/",
+   "instagram": "About 1,500 workers are on site at the peak of a data center's construction. Once it is running, a typical facility has 50 full-time workers.\n\nAbout half of those 50 are contractors. And about 80% of the 74,000 jobs data centers support in Virginia each year are construction jobs.\n\nSource: Virginia JLARC study of data centers in Virginia.\n\nFull breakdown at programs.com.\n\n#DataCenters #Jobs #Construction #Virginia #AIInfrastructure"
+  },
+  "buffer": {
+   "linkedin": "6af5c56753c46c7311dc03fc",
+   "facebook": "6af5c5718c721512231efd7f",
+   "instagram": "6af5c5769984f61a54152651"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Stat slot (last 6: 4 stats, 1 wildcard, 1 degree). Queue was empty. Post 10870 (how many people work in data centers), first use. Topic data centers (last 2026-11-05), after two AI-education/degree days. JLARC full report PDF hit the WebFetch permission prompt; the JLARC summary PDF (jlarc.virginia.gov/pdfs/summary/Rpt598Sum-1.pdf, found by WebSearch) opened and confirms the 1,500, 50 and 74,000 figures. Our page shows no year for the JLARC study (search results date it December 2024), so the source line has no year. No page errors found in the figures used. All three Buffer posts sent at the first attempt (LinkedIn 'sending' then 'sent' within about 25 seconds)."
  }
 ]
