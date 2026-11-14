@@ -2470,5 +2470,71 @@
       "instagram": "not_posted"
     },
     "notes": "No post today. The Buffer connector failed to connect for this run (HTTP 503, CLIENT_HTTP_NOT_IMPLEMENTED) and WPVibe timed out (CONNECT_TIMEOUT); RefreshMcpTools could not re-dial. Already-posted guard could not query Buffer; log had no 2026-11-13 entry. Brian notified. Ignore this entry for the content mix and no-repeat rules."
+  },
+  {
+    "date": "2026-11-14",
+    "type": "wildcard",
+    "slug": "cheapest-online-ai-masters",
+    "source_url": "https://programs.com/programs/affordable-online-masters-in-ai/",
+    "headline": "The cheapest online master's in AI costs $9,735 all-in, at Georgia Tech",
+    "figures": [
+      {
+        "value": "$9,735",
+        "page_quote": "The Georgia Institute of Technology delivers the most affordable Online AI Master’s degree in the US, with a total overall cost of $9,735. All of our cost calculations include tuition, plus mandatory per-credit, per-course, and per-term fees.",
+        "primary_source": "Programs.com Most Affordable Online Master's in AI ranking (own data; tuition from each university's own pages)"
+      },
+      {
+        "value": "$10,000",
+        "page_quote": "Following closely behind, you can earn your Online AI Master’s at the University of Texas at Austin for $10,000.",
+        "primary_source": "Programs.com Most Affordable Online Master's in AI ranking (own data; tuition from each university's own pages)"
+      },
+      {
+        "value": "$15,750 median",
+        "page_quote": "The median cost among these programs is $15,750, and the average is $15,142.",
+        "primary_source": "Programs.com Most Affordable Online Master's in AI ranking (own data; tuition from each university's own pages)"
+      },
+      {
+        "value": "$19,630 (No. 25 Lindenwood)",
+        "page_quote": "25 | Lindenwood University | MA in Human-Centered Artificial Intelligence | $19,630",
+        "primary_source": "Programs.com Most Affordable Online Master's in AI ranking (own data; tuition from each university's own pages)"
+      },
+      {
+        "value": "10 under $15,000; all 25 under $20,000",
+        "page_quote": "10 of the 25 most affordable AI Master’s programs cost under $15,000. All 25 programs cost under $20,000, ranging from $9,735 to $19,630.",
+        "primary_source": "Programs.com Most Affordable Online Master's in AI ranking (own data; tuition from each university's own pages)"
+      },
+      {
+        "value": "5 R1s, $14,551 vs $15,142",
+        "page_quote": "5 of the 25 most affordable programs are at Carnegie R1 research universities: Georgia Tech, UT Austin, CU Boulder, UNM, and Mississippi State. Impressively, the average price of the R1 universities on the list is lower than the overall rankings average: $14,551 vs. $15,142.",
+        "primary_source": "Programs.com Most Affordable Online Master's in AI ranking (own data; tuition from each university's own pages)"
+      },
+      {
+        "value": "55 programs",
+        "page_quote": "Having applied the relevant selection criteria, we ended up analyzing 55 online AI master's programs.",
+        "primary_source": "Programs.com Most Affordable Online Master's in AI ranking (own data; tuition from each university's own pages)"
+      },
+      {
+        "value": "out-of-state rate",
+        "page_quote": "Where a school charges a lower rate to residents, we use the out-of-state rate when stating total cost.",
+        "primary_source": "Programs.com Most Affordable Online Master's in AI ranking (own data; tuition from each university's own pages)"
+      }
+    ],
+    "image": "social/out/2026-11-14-cheapest-online-ai-masters.png",
+    "copy": {
+      "linkedin": "The cheapest online master's in AI costs $9,735 all-in: Georgia Tech's MS in Computer Science with an AI specialization.\n\n• No. 2 is UT Austin's MS in Artificial Intelligence at $10,000.\n• All 25 of the most affordable programs cost under $20,000, and 10 cost under $15,000.\n• 5 of the 25 are at Carnegie R1 research universities. Their average cost is $14,551, below the list average of $15,142.\n• Costs are tuition plus mandatory fees, at the out-of-state rate. We priced 55 online AI master's programs.\n\nSee all 25 programs and their costs: https://programs.com/programs/affordable-online-masters-in-ai/",
+      "facebook": "The cheapest online master's in AI costs $9,735 all-in: Georgia Tech's MS in Computer Science with an AI specialization. All 25 programs in the Programs.com ranking of the most affordable online master's in AI cost under $20,000, including tuition and mandatory fees.\n\nhttps://programs.com/programs/affordable-online-masters-in-ai/",
+      "instagram": "The cheapest online master's in AI costs $9,735 all-in, at Georgia Tech.\n\nNo. 2 is UT Austin at $10,000. All 25 of the most affordable programs cost under $20,000.\n\nSource: Programs.com Most Affordable Online Master's in AI ranking, November 2026. Costs are tuition plus mandatory fees.\n\nFull breakdown at programs.com.\n\n#ArtificialIntelligence #MastersDegree #OnlineLearning #GeorgiaTech #GradSchool"
+    },
+    "buffer": {
+      "linkedin": "6af86716e5a113497a876b80",
+      "facebook": "6af86721b9a106584c4a6246",
+      "instagram": "6af86725b9a106584c4a63b5"
+    },
+    "status": {
+      "linkedin": "sent",
+      "facebook": "sent",
+      "instagram": "sent"
+    },
+    "notes": "Wildcard from page 13339 (first use; Last Updated: November 13, 2026). Re-checked all 25 table costs against each program's 'All-In Cost' line (all match), recomputed median $15,750, average $15,142.04, 10 under $15,000 and the R1 average $14,551 from the table. Page error (not used in post): in the '7 More Online Master's in AI Under $30,000' table, No. 29 Houston Christian ($23,050) is listed above No. 30 Colorado State University Global ($20,250), so ranks 28-30 are out of cost order. The 2026-11-13 run did not post (connector outage); Buffer and WPVibe both worked normally today. All three Buffer posts were sent within about 25 seconds."
   }
 ]
