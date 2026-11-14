@@ -1,0 +1,17 @@
+{
+ "template": "stat",
+ "eyebrow": "AI degrees",
+ "num": "$9,735",
+ "label": "all-in cost of the cheapest online master's in AI, at Georgia Tech",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "No. 1 Georgia Tech", "value": 9735, "display": "$9,735", "hi": true},
+   {"label": "No. 2 UT Austin", "value": 10000, "display": "$10,000"},
+   {"label": "Median of the top 25", "value": 15750, "display": "$15,750"},
+   {"label": "No. 25 Lindenwood", "value": 19630, "display": "$19,630"}
+  ]
+ },
+ "note": "Tuition plus mandatory fees. **55 programs** priced.",
+ "source": "Source: Programs.com Most Affordable Online Master's in AI ranking, November 2026"
+}
