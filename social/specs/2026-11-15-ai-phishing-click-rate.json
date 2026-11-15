@@ -1,0 +1,15 @@
+{
+ "template": "stat",
+ "eyebrow": "AI and cybersecurity",
+ "num": "54%",
+ "label": "click-through rate on AI-generated phishing emails in a 2024 study",
+ "viz": {
+  "type": "compare",
+  "bars": [
+   {"label": "AI-generated phishing", "value": 54, "display": "54%", "hi": true},
+   {"label": "Human-written phishing", "value": 12, "display": "12%"}
+  ]
+ },
+ "note": "**53%** of CISOs say AI will benefit attackers more than defenders",
+ "source": "Source: 2024 study cited in CrowdStrike 2025 Global Threat Report; Splunk CISO Report 2025"
+}
