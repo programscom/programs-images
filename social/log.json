@@ -2536,5 +2536,51 @@
       "instagram": "sent"
     },
     "notes": "Wildcard from page 13339 (first use; Last Updated: November 13, 2026). Re-checked all 25 table costs against each program's 'All-In Cost' line (all match), recomputed median $15,750, average $15,142.04, 10 under $15,000 and the R1 average $14,551 from the table. Page error (not used in post): in the '7 More Online Master's in AI Under $30,000' table, No. 29 Houston Christian ($23,050) is listed above No. 30 Colorado State University Global ($20,250), so ranks 28-30 are out of cost order. The 2026-11-13 run did not post (connector outage); Buffer and WPVibe both worked normally today. All three Buffer posts were sent within about 25 seconds."
+  },
+  {
+    "date": "2026-11-15",
+    "type": "stat",
+    "slug": "ai-phishing-click-rate",
+    "source_url": "https://programs.com/resources/generative-ai-in-cybersecurity/",
+    "headline": "AI-generated phishing emails had a 54% click-through rate in a 2024 study, against 12% for human-written phishing emails",
+    "figures": [
+      {
+        "value": "54%",
+        "page_quote": "CrowdStrike’s 2025 Global Threat Report found a 54% click-through rate on AI-generated phishing emails, compared to just 12% on human-written content.",
+        "primary_source": "2024 study (arXiv:2412.00586, AI spear phishing tested on human subjects) cited in CrowdStrike 2025 Global Threat Report; confirmed on crowdstrike.com article 'crowdstrike-2025-global-threat-report-genai-powers-social-engineering'"
+      },
+      {
+        "value": "12%",
+        "page_quote": "CrowdStrike’s 2025 Global Threat Report found a 54% click-through rate on AI-generated phishing emails, compared to just 12% on human-written content.",
+        "primary_source": "Same as above; CrowdStrike article: '12% click rate of human-crafted phishing attempts'"
+      },
+      {
+        "value": "53%",
+        "page_quote": "53% of Chief Information Security Officers (CISOs) believe AI will benefit attackers more than defenders.",
+        "primary_source": "Splunk CISO Report 2025 (linked PDF splunk.com/en_us/pdfs/gated/ebooks/ciso-report-2025.pdf; gated, not opened)"
+      },
+      {
+        "value": "442%",
+        "page_quote": "Vishing increased by 442% in the second half of 2024.",
+        "primary_source": "CrowdStrike 2025 Global Threat Report (linked; not opened)"
+      }
+    ],
+    "image": "social/out/2026-11-15-ai-phishing-click-rate.png",
+    "copy": {
+      "linkedin": "AI-generated phishing emails had a 54% click-through rate in a 2024 study. Human-written phishing emails had 12%.\n\n• 53% of chief information security officers (CISOs) believe AI will benefit attackers more than defenders.\n• Vishing (voice phishing) increased by 442% in the second half of 2024.\n\nSource: a 2024 study cited in CrowdStrike's 2025 Global Threat Report; Splunk CISO Report 2025; CrowdStrike 2025 Global Threat Report (vishing).\n\nMore on generative AI in cybersecurity: https://programs.com/resources/generative-ai-in-cybersecurity/",
+      "facebook": "AI-generated phishing emails had a 54% click-through rate in a 2024 study cited in CrowdStrike's 2025 Global Threat Report, against 12% for human-written phishing emails. More on generative AI in cybersecurity at Programs.com: https://programs.com/resources/generative-ai-in-cybersecurity/",
+      "instagram": "AI-generated phishing emails had a 54% click-through rate in a 2024 study. Human-written phishing emails had 12%.\n\n53% of CISOs believe AI will benefit attackers more than defenders.\n\nSources: a 2024 study cited in CrowdStrike's 2025 Global Threat Report; Splunk CISO Report 2025.\n\nFull breakdown at programs.com.\n\n#cybersecurity #phishing #artificialintelligence #infosec #generativeai"
+    },
+    "buffer": {
+      "linkedin": "6af9bad3e5a113497aeefb53",
+      "facebook": "6af9bade918fe79d2ee881bd",
+      "instagram": "6af9bae3918fe79d2ee88458"
+    },
+    "status": {
+      "linkedin": "sent",
+      "facebook": "sent",
+      "instagram": "sent"
+    },
+    "notes": "Stats post from post 822 (first use; modified 2026-11-13). Page wording issue (not a figure error): the page says CrowdStrike's report 'found' the 54%/12% rates, but CrowdStrike's own article says they come from a 2024 study (arXiv:2412.00586) the report cites; the post attributes them to the study. venturebeat.com and arxiv.org hit the WebFetch permission prompt; crowdstrike.com article (found by WebSearch) opened and confirmed 54% and 12%. Splunk 53% and the 442% vishing figure rest on the page's named sources. All three Buffer posts sent within about 25 seconds."
   }
 ]
