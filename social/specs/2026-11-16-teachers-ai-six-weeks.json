@@ -1,0 +1,9 @@
+{
+ "template": "stat",
+ "eyebrow": "AI in education",
+ "num": "6",
+ "label": "weeks saved per school year by teachers who use AI at least once a week",
+ "viz": {"type": "units", "units": 6},
+ "note": "Almost **6 hours a week**, by the teachers' own estimates",
+ "source": "Source: Gallup survey of US teachers, 2025"
+}
