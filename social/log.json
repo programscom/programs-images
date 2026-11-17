@@ -2628,5 +2628,57 @@
    "instagram": "sent"
   },
   "notes": "Stats post from post 2634 (first use; Last Updated: October 30, 2026). Chosen over a return of the AI layoffs tracker (its yearly-total angle already ran 2026-10-08). news.gallup.com hit the WebFetch permission prompt; the Walton Family Foundation release and EdSurge (found by WebSearch) opened and confirm weekly users save an average of 5.9 hours per week, or six weeks per school year, in a national survey of over 2,200 teachers. 84.1/81/80/79% rest on the page's named Gallup source. Possible page error (not used): several AI-tool stats (e.g. '27% of teachers only use free AI tools', 'Almost half of all teachers purchase AI tools with their own money') are linked to a 2019 New Schools/Gallup ed-tech PDF (newschools.org/wp-content/uploads/2019/09/Gallup-Ed-Tech-Use-in-Schools-2.pdf), which predates generative AI tools; the source link looks wrong. Facebook and Instagram returned sent in the create_post response; LinkedIn showed sending, then sent within about 25 seconds."
+ },
+ {
+  "date": "2026-11-17",
+  "type": "stat",
+  "slug": "cancelled-data-center-investment",
+  "source_url": "https://programs.com/resources/data-center-project-tracker/",
+  "headline": "Large US data center projects worth at least $175 billion in announced investment have been cancelled since January 2024",
+  "figures": [
+   {
+    "value": "$175 billion",
+    "page_quote": "Cancelled projects carried at least $175 billion in announced investment / The total is based on the 33 projects that reported a dollar amount.",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated November 16, 2026, modified 2026-11-16T10:01:41); every table row has a named news source. Totals re-counted by script from the 70-row project table (9 lines per row): 70 rows, 33 with a dollar amount summing to $175.35B; by year 3/23/44 projects and $16.8B/$72.55B/$86B."
+   },
+   {
+    "value": "$16.8B (2024), $72.55B (2025), $86B (2026 through Nov 13)",
+    "page_quote": "Cancelled projects by quarter: 2024 3 — $16.8B; 2025 23 4,700 $72.55B; 2026 44 11,210 $86B. The 2026 figure runs through Nov 13, 2026.",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated November 16, 2026, modified 2026-11-16T10:01:41); every table row has a named news source. Totals re-counted by script from the 70-row project table (9 lines per row): 70 rows, 33 with a dollar amount summing to $175.35B; by year 3/23/44 projects and $16.8B/$72.55B/$86B."
+   },
+   {
+    "value": "70 projects in 26 states",
+    "page_quote": "70 / Projects cancelled / Since January 2024, in 26 states",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated November 16, 2026, modified 2026-11-16T10:01:41); every table row has a named news source. Totals re-counted by script from the 70-row project table (9 lines per row): 70 rows, 33 with a dollar amount summing to $175.35B; by year 3/23/44 projects and $16.8B/$72.55B/$86B."
+   },
+   {
+    "value": "7 at $10 billion or more; Mooresville Technology Park $30B",
+    "page_quote": "7 of the cancelled projects were announced at $10 billion or more. ... Mooresville Technology Park / Mooresville, NC / $30B",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391); row has a named news source. Row: Mooresville Technology Park / Tract / Mooresville, NC / — / $30B / Aug 2025 / Withdrawn / Local opposition / Data Center Dynamics"
+   },
+   {
+    "value": "33 of 70 local opposition",
+    "page_quote": "Local opposition was cited in 33 of 70 cancellations",
+    "primary_source": "Programs.com's own count (cancelled data center projects tracker, post 10391, Last Updated November 16, 2026, modified 2026-11-16T10:01:41); every table row has a named news source. Totals re-counted by script from the 70-row project table (9 lines per row): 70 rows, 33 with a dollar amount summing to $175.35B; by year 3/23/44 projects and $16.8B/$72.55B/$86B."
+   }
+  ],
+  "image": "social/out/2026-11-17-cancelled-data-center-investment.png",
+  "alt_text": "$175B in announced investment in large US data center projects cancelled since 2024. Bar chart by year: $16.8B in 2024, $72.55B in 2025 and $86B in 2026 through November 13, based on the 33 of 70 projects that reported a dollar amount.",
+  "copy": {
+   "linkedin": "Large US data center projects worth at least $175 billion in announced investment have been cancelled since January 2024.\n\n• $86 billion of that is from projects cancelled in 2026, up from $72.55 billion in 2025 and $16.8 billion in 2024.\n• 70 large projects in 26 states have been withdrawn, denied or dropped.\n• 7 were announced at $10 billion or more. The largest, Mooresville Technology Park in North Carolina, was a $30 billion project.\n• Local opposition was cited in 33 of the 70 cancellations.\n\nThe investment total is based on the 33 projects that reported a dollar amount. The 2026 figure runs through November 13. Source: Programs.com cancelled data center projects tracker, November 2026.\n\nEvery project, with a source for each: https://programs.com/resources/data-center-project-tracker/",
+   "facebook": "Large US data center projects worth at least $175 billion in announced investment have been cancelled since January 2024, according to the Programs.com cancelled data center projects tracker. 70 projects in 26 states have been withdrawn, denied or dropped, and $86 billion of the total is from 2026.\n\nhttps://programs.com/resources/data-center-project-tracker/",
+   "instagram": "Large US data center projects worth at least $175 billion in announced investment have been cancelled since January 2024.\n\n$86 billion of that is from 2026, up from $72.55 billion in 2025. 70 large projects in 26 states have been withdrawn, denied or dropped.\n\nSource: Programs.com cancelled data center projects tracker, November 2026.\n\nFull breakdown at programs.com.\n\n#DataCenters #AIInfrastructure #ArtificialIntelligence #Infrastructure #TechNews"
+  },
+  "buffer": {
+   "linkedin": "6afc5bba23a8bb6dc9bd079f",
+   "facebook": "6afc5bc523a8bb6dc9bd1015",
+   "instagram": "6afc5bcb2fa84d383f3e4440"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Stats post from the cancelled data center projects tracker (post 10391), returning after 27 entries with a new angle (announced investment; the 2026-10-20 post led with the project count, then 64, now 70). Queue was empty. Mix: last 6 entries were 4 stats, 1 degree, 1 wildcard, so a stats post; topic chosen to avoid a third day of AI-in-education or cybersecurity. AI layoffs tracker considered but its two prior angles (yearly total, largest cuts) would largely repeat. All tracker totals re-counted by script and match. Minor page typos (not affecting the post): \"6 of thecancelled projects\" and \"12 stateshave 1 each\" are missing spaces. render.py now treats a trailing \"B\" in num like \"M\". All three Buffer posts were sent within about 25 seconds (Facebook and Instagram sent in the create_post response; LinkedIn sending, then sent)."
  }
 ]
