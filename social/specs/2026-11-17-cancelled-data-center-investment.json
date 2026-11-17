@@ -1,0 +1,16 @@
+{
+ "template": "stat",
+ "eyebrow": "Data centers",
+ "num": "$175B",
+ "label": "in announced investment in large US data center projects cancelled since 2024",
+ "viz": {
+  "type": "bars",
+  "bars": [
+   {"label": "2024", "value": 16.8, "display": "$16.8B"},
+   {"label": "2025", "value": 72.55, "display": "$72.55B"},
+   {"label": "2026 (to Nov 13)", "value": 86, "display": "$86B"}
+  ]
+ },
+ "note": "Based on the **33** of 70 projects that reported a dollar amount",
+ "source": "Source: Programs.com cancelled data center projects tracker, November 2026"
+}
