@@ -2680,5 +2680,157 @@
    "instagram": "sent"
   },
   "notes": "Stats post from the cancelled data center projects tracker (post 10391), returning after 27 entries with a new angle (announced investment; the 2026-10-20 post led with the project count, then 64, now 70). Queue was empty. Mix: last 6 entries were 4 stats, 1 degree, 1 wildcard, so a stats post; topic chosen to avoid a third day of AI-in-education or cybersecurity. AI layoffs tracker considered but its two prior angles (yearly total, largest cuts) would largely repeat. All tracker totals re-counted by script and match. Minor page typos (not affecting the post): \"6 of thecancelled projects\" and \"12 stateshave 1 each\" are missing spaces. render.py now treats a trailing \"B\" in num like \"M\". All three Buffer posts were sent within about 25 seconds (Facebook and Instagram sent in the create_post response; LinkedIn sending, then sent)."
+ },
+ {
+  "date": "2026-11-18",
+  "type": "degree",
+  "slug": "online-cybersecurity-masters-ranking",
+  "source_url": "https://programs.com/programs/online-masters-programs/",
+  "headline": "We just updated our ranking of the 25 best online master's in cybersecurity programs",
+  "figures": [
+   {
+    "value": "1. Georgia Institute of Technology",
+    "page_quote": "1 / Georgia Institute of Technology / Best for: Affordability",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "2. University of California, Berkeley",
+    "page_quote": "2 / University of California, Berkeley / Best for: Academic quality",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "3. Johns Hopkins University",
+    "page_quote": "3 / Johns Hopkins University / Best for: Curriculum relevance, specialized electives",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "4. Mississippi State University",
+    "page_quote": "4 / Mississippi State University / Best for: All-around, thesis option",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "5. University of Maryland Global Campus",
+    "page_quote": "5 / University of Maryland Global Campus / Best for: Hands-on practice, embedded certificate",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "6. Duke University",
+    "page_quote": "6 / Duke University / Best for: Hands-on practice, recent graduates",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "7. Auburn University",
+    "page_quote": "7 / Auburn University / Best for: Academic quality",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "8. Kennesaw State University",
+    "page_quote": "8 / Kennesaw State University / Best for: Admissions and affordability",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "9. New York University",
+    "page_quote": "9 / New York University (NYU) / Best for: Curriculum personalization",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "10. Indiana University Bloomington",
+    "page_quote": "10 / Indiana University – Bloomington / Best for: All-around",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "11. University of Southern California",
+    "page_quote": "11 / University of Southern California / Best for: Graduate outcomes",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "12. Pennsylvania State University",
+    "page_quote": "12 / Pennsylvania State University / Best for: Accessibility, embedded certificate",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "13. Old Dominion University",
+    "page_quote": "13 / Old Dominion University / Best for: Affordability, AI focus",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "14. Georgetown University",
+    "page_quote": "14 / Georgetown University / Best for: Academic quality, curriculum relevance",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "15. University of Maryland, Baltimore County",
+    "page_quote": "15 / University of Maryland – Baltimore County / Best for: Dual J.D./M.S. route",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "16. West Virginia University",
+    "page_quote": "16 / West Virginia University / Best for: Curriculum relevance",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "17. Champlain College",
+    "page_quote": "17 / Champlain College / Best for: Affordability, rapid completion",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "18. University at Albany (SUNY)",
+    "page_quote": "18 / University at Albany (SUNY Albany) / Best for: Hands-on practice, internship option",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "19. University of Delaware",
+    "page_quote": "19 / University of Delaware / Best for: Graduate outcomes",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "20. Nova Southeastern University",
+    "page_quote": "20 / Nova Southeastern University / Best for: Management training",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "21. SANS Technology Institute",
+    "page_quote": "21 / SANS Technology Institute / Best for: Certifications, graduate outcomes",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "22. Western Governors University",
+    "page_quote": "22 / Western Governors University / Best for: Affordability, fast completion",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "23. University of Tulsa",
+    "page_quote": "23 / University of Tulsa / Best for: Curriculum relevance & electives",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "24. University of Illinois Springfield",
+    "page_quote": "24 / University of Illinois Springfield / Best for: Accessibility",
+    "primary_source": "Programs.com ranking"
+   },
+   {
+    "value": "25. University of North Dakota",
+    "page_quote": "25 / University of North Dakota / Best for: Hands-on practice, stackable certificates",
+    "primary_source": "Programs.com ranking"
+   }
+  ],
+  "image": "social/out/2026-11-18-online-cybersecurity-masters-ranking.png",
+  "alt_text": "Programs.com 2027 rankings: top 10 online master's in cybersecurity programs. 1 Georgia Institute of Technology, 2 University of California, Berkeley, 3 Johns Hopkins University, 4 Mississippi State University, 5 University of Maryland Global Campus, 6 Duke University, 7 Auburn University, 8 Kennesaw State University, 9 New York University, 10 Indiana University Bloomington.",
+  "copy": {
+   "linkedin": "We just updated our ranking of the 25 best online master's in cybersecurity programs.\n\n1. Georgia Institute of Technology: affordability\n2. University of California, Berkeley: academic quality\n3. Johns Hopkins University: curriculum relevance, specialized electives\n4. Mississippi State University: all-around, thesis option\n5. University of Maryland Global Campus: hands-on practice, embedded certificate\n6. Duke University: hands-on practice, recent graduates\n7. Auburn University: academic quality\n8. Kennesaw State University: admissions and affordability\n9. New York University: curriculum personalization\n10. Indiana University Bloomington: all-around\n11. University of Southern California: graduate outcomes\n12. Pennsylvania State University: accessibility, embedded certificate\n13. Old Dominion University: affordability, AI focus\n14. Georgetown University: academic quality, curriculum relevance\n15. University of Maryland, Baltimore County: dual J.D./M.S. route\n16. West Virginia University: curriculum relevance\n17. Champlain College: affordability, rapid completion\n18. University at Albany (SUNY): hands-on practice, internship option\n19. University of Delaware: graduate outcomes\n20. Nova Southeastern University: management training\n21. SANS Technology Institute: certifications, graduate outcomes\n22. Western Governors University: affordability, fast completion\n23. University of Tulsa: curriculum relevance & electives\n24. University of Illinois Springfield: accessibility\n25. University of North Dakota: hands-on practice, stackable certificates\n\nRanked on cost, academic quality, hands-on practice, curriculum relevance, admissions, accessibility and CAE designation.\n\nFull ranking: https://programs.com/programs/online-masters-programs/",
+   "facebook": "We just updated our ranking of the 25 best online master's in cybersecurity programs. The top 10:\n\n1. Georgia Institute of Technology\n2. University of California, Berkeley\n3. Johns Hopkins University\n4. Mississippi State University\n5. University of Maryland Global Campus\n6. Duke University\n7. Auburn University\n8. Kennesaw State University\n9. New York University\n10. Indiana University Bloomington\n\nhttps://programs.com/programs/online-masters-programs/",
+   "instagram": "We just updated our ranking of the 25 best online master's in cybersecurity programs.\n\n1. Georgia Tech: affordability\n2. UC Berkeley: academic quality\n3. Johns Hopkins: curriculum relevance, specialized electives\n4. Mississippi State: all-around, thesis option\n5. UMGC: hands-on practice, embedded certificate\n6. Duke: hands-on practice, recent graduates\n7. Auburn: academic quality\n8. Kennesaw State: admissions and affordability\n9. NYU: curriculum personalization\n10. Indiana University Bloomington: all-around\n\nAll 25 at programs.com.\n\n#Cybersecurity #CybersecurityDegree #MastersDegree #OnlineLearning #InfoSec"
+  },
+  "buffer": {
+   "linkedin": "6afdad2b55bf70e62d546135",
+   "facebook": "6afdad3655bf70e62d546389",
+   "instagram": "6afdad3955bf70e62d54650a"
+  },
+  "status": {
+   "linkedin": "sent",
+   "facebook": "sent",
+   "instagram": "sent"
+  },
+  "notes": "Degree slot (last degree post 2026-11-11; the six posts since were 4 stats + 1 wildcard, plus the 11-13 no-post day). Page 2280, first use; topic is cybersecurity after data centers (11-17) and AI in education (11-16). Visible Last Updated November 16, 2026, so the 'We just updated' opening applies. School names taken from the summary table's official forms (New York University, Indiana University Bloomington, University of Maryland, Baltimore County, University at Albany (SUNY)); the program-section headings use 'New York University (NYU)', 'Indiana University – Bloomington', 'University of Maryland – Baltimore County' and 'University at Albany (SUNY Albany)'. Best-for lines from each program section; they match the summary table. Criteria line from the methodology list (cost, research and academic quality, hands-on practice, curriculum relevance, admissions, accessibility, CAE designation); the page gives no weights. Page inconsistency (not used in the post): the intro says 'We currently track 226 cybersecurity master's programs with an online option' while the program database below reads '255 schools found'. Queue was empty. All three Buffer posts sent at the first attempt."
  }
 ]
